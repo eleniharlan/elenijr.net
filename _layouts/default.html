@@ -1,13 +1,13 @@
 ---
-title: 'This is my Site Title'
+title: "Tzunior's kitchen: A space and place for food"
 ---
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Site Title {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
+  <title>Tzunior's Kitchen {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
   <meta charset='UTF-8'/>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-  <link rel='alternate' type='application/rss+xml' title='RSS' href='SITEURLGOESHERE/blog.rss' />
+  <link rel='alternate' type='application/rss+xml' title='RSS' href='http://eleniharlan.net/blog.rss' />
   <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
   <link href='{{site.baseurl}}/site.css' rel='stylesheet' />
 </head>
@@ -18,8 +18,7 @@ title: 'This is my Site Title'
         <div class='clearfix col12'>
           <div class='menu fr'>
             <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
-            <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
-            <a href='//github.com/prose/starter'>Fork on GitHub</a>
+            <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's?</a>
           </div>
           <h1 class='title'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
         </div>
