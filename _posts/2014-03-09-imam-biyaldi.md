@@ -6,30 +6,30 @@ title: Imam Biyaldi
 splash: "https://farm4.staticflickr.com/3509/13089396234_749a448d9a_c_d.jpg"
 ---
 
-Imam Biyaldi means ‘the imam [priest] fainted’ – ostensibly because of the amount of oil in this dish, or perhaps he was just swooning over the perfect combination of smoky, fluffy aubergines, sweet gooey onions and tart tomato. In Greece it is often just referred to as ‘imam’, which as a child I would associate with the ‘mam mam mam’ (that’s Greek for ‘yum yum yum’, in case you were wondering) noise that adults would make to try and communicate to children that something is tasty. Making imam has become a bit ritualistic for me. It is one of the first dishes I learned to make, and over the years I have broken down each subsidiary ingredient and determined the best way to make the sum of the parts into my own swoon-worthy whole.
+*Imam Biyaldi* means ‘the imam [priest] fainted’ – ostensibly because of the amount of oil in this dish, or perhaps he was just swooning over the perfect combination of smoky, fluffy aubergines, sweet gooey onions and tart tomato. In Greece it is often just referred to as ‘imam’, which as a child I would associate with the ‘mam mam mam’ (that’s Greek for ‘yum yum yum’, in case you were wondering) noise that adults would make to try and communicate to children that something is tasty. Making imam has become a bit ritualistic for me. It is one of the first dishes I learned to make, and over the years I have broken down each subsidiary ingredient and determined the best way to make the sum of the parts into my own swoon-worthy whole.
 
-The aubergine: Some people fry them or roast them in the oven, and some heathens don’t bother cooking them at all. Having tried (or in the latter case suffered through) these options, grilling them I think keeps them fluffy and juicy (which you lose if you roast them) but not too greasy (if you fry them). Leaving them raw is just a travesty and probably one of the main reasons why some people don’t like aubergines. Try to get slim, small and firm aubergines, rather than the big bloated ones.
+**The aubergine:** Some people fry them or roast them in the oven, and some heathens don’t bother cooking them at all. Having tried (or in the latter case suffered through) these options, grilling them I think keeps them fluffy and juicy (which you lose if you roast them) but not too greasy (if you fry them). Leaving them raw is just a travesty and probably one of the main reasons why some people don’t like aubergines. Try to get slim, small and firm aubergines, rather than the big bloated ones.
 
-Onions: I like to have a lot of onions so that it is really its own component rather than just a part of the sauce. They bring the sweetness to the dish this way.
+**Onions:** I like to have a lot of onions so that it is really its own component rather than just a part of the sauce. They bring the sweetness to the dish this way.
 
-Nutmeg: This genius combination comes from The Flavour Thesaurus- the nutmeg brings out something tangy in the smoky aubs.
+**Nutmeg:** This genius combination comes from The Flavour Thesaurus- the nutmeg brings out something tangy in the smoky aubs.
 
-Tomato: I like this to be more of a coating for the aubs rather than have them swimming in sauce.
+**Tomato:** I like this to be more of a coating for the aubs rather than have them swimming in sauce.
 
 ## IMAM BIYALDI
 
 Serves four
 
-ingredients:
+### Ingredients
 
-    2 – 4 medium sized aubergines, preferrably the slender ones, cut into quarters or sixths length-wise
-    2 medium onions, thinly sliced
-    1 tin of peeled plum tomatoes or 2 large ripe juicy tomatoes, chopped
-    1 tbsp tomato puree
-    1 tsp sugar
-    nutmeg
-    olive oil
-    sea salt
+1. 2 – 4 medium sized aubergines, preferrably the slender ones, cut into quarters or sixths length-wise
+2. 2 medium onions, thinly sliced
+3. 1 tin of peeled plum tomatoes or 2 large ripe juicy tomatoes, chopped
+4. 1 tbsp tomato puree
+5. 1 tsp sugar
+6. nutmeg
+7. olive oil
+8. sea salt
 
 Oven preheated to 180C.
 
