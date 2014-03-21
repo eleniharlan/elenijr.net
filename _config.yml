@@ -1,5 +1,6 @@
 permalink: pretty
 markdown: rdiscount
+baseurl: 'http://elenijr.net'
 prose:
   rooturl: '_posts'
   siteurl: 'http://elenijr.net'
