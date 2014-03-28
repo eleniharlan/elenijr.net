@@ -3,7 +3,7 @@ layout: blog
 category: blog
 published: false
 title: "How to peel a pomegranate, or 101 ways not to"
-splash: "https://farm8.staticflickr.com/7050/13469933974_6dbd412cd1_b_d.jpg"
+splash: "https://farm8.staticflickr.com/7050/13469933974_6dbd412cd1_z_d.jpg"
 ---
 
 ## _ Like Persephone, pomegranates are what get me through winter. I love their sharpness, the juicy crunch of the seeds, and how they seem to be able to replace tomatoes when the latter are a sorry sight to see. But most of all I love the morning ritual of peeling one._
