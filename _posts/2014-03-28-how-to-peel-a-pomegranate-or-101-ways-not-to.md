@@ -8,6 +8,7 @@ splash: "<a href=\"https://www.flickr.com/photos/119989833@N02/13469933974\" tit
 
 ## Like Persephone, pomegranates are what get me through winter. I love the taste, the juicy crunch of the seeds, and how they seem to be able to replace tomatoes when the latter are a sorry sight to see. But most of all I love the morning ritual of peeling one. 
 
+<a href="https://www.flickr.com/photos/119989833@N02/13469933974" title="8732839993_e228ef535f_o by Eleni harlan, on Flickr"><img src="https://farm8.staticflickr.com/7050/13469933974_6dbd412cd1.jpg" width="500" height="330" alt="8732839993_e228ef535f_o"></a>
 
 
 **Fast and furious.**
@@ -24,4 +25,4 @@ Made famous by the authoritative Ottolenghi, this particular method perhaps aggr
 This is a [10-minute video](http://lifehacker.com/5895852/deseed-a-pomegranate-in-10-seconds-using-a-wooden-spoon) of a guy explaining how you'll never have to take 10 minutes to peel a pomegranate again, because his method is so quick it only takes 10 seconds or something. Maybe it would work as well as he claims if my hands were as big as his are. But again, I think whacking a pomegranate is one of the current food world's greatest travesties. 
 
 **The lebanese mother**
-This is third-hand information but apparently Lebanese mothers use the following method when they are peeling pomegranates for their darling sons in particular. Take your whole pomegranate and push it on the counter so that it gets really juicy
+This is third-hand information and I've never witnessed any of my true-to-life Lebanese friends do this, but according to my [Lebanese] friend's [American] friend's mom, apparently Lebanese mothers use the following method when they are peeling pomegranates for their darling sons in particular. Take your whole pomegranate and push/rub it on the counter so that it gets really juicy inside. You really have to do this for longer than you are comfortable with until you feel like you are holding a ball of juice. You then cut a small x incision through the skin in the middle of the fruit, and suck the juice out like some sort of vegan vampire. 
