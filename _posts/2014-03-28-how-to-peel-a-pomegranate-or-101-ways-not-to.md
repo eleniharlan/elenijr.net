@@ -27,5 +27,5 @@ This is a [10-minute video](http://lifehacker.com/5895852/deseed-a-pomegranate-i
 **The lebanese mother or vegan vamp**
 This is third-hand information and I've never witnessed any of my true-to-life Lebanese friends do this, but according to my [Lebanese] friend's [American] friend's mom, apparently Lebanese mothers use the following method when they are peeling pomegranates for their darling sons in particular. Take your whole pomegranate and push/rub it on the counter so that it gets really juicy inside. You really have to do this for longer than you are comfortable with until you feel like you are holding a ball of juice. You then cut a small x incision through the skin in the middle of the fruit, and suck the juice out like some sort of vegan vampire. When you're just left with the husky corpse of the fruit, then you cut it in half in the usual way and all the seeds fall out. This is pretty fun and definitely a 'cooks perks' approach to pomegranate peeling, but again, you lose out on perfect juicy jewels once you get inside.
 
-
-
+The only way to (satisfactorily) peel a pomegranate
+If you take your pom-eating seriously, the only way to get to the little red gems is lovingly and tenderly, I'm afraid. Yes, it usually takes me 5-10 minutes, but it's the perfect way to fill your time while you're waiting for the pour-over to trickle through. 
