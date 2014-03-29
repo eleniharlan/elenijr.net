@@ -1,4 +1,4 @@
-Starter is a barebones starting point for responsive sites built on Jekyll and with
-site management in [prose](http://prose.io). To get started, Fork this repo and [install Jekyll](http://jekyllrb.com/docs/installation).
+This is the code for Tzunior's food blog.
 
-If you notice any problems or would like to contribute to the project start a discussion from the [issues page](https://github.com/prose/starter/issues)
+To work on it locally, run `jekyll serve --watch --baseurl=""` and visit
+`http://localhost:4000` in your browser.

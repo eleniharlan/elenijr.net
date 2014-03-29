@@ -1,10 +1,10 @@
-baseurl: /starter
 permalink: pretty
 markdown: rdiscount
+baseurl: 'http://elenijr.net'
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 'http://elenijr.net'
+  relativeLinks: 'http://elenijr.net/links.jsonp'
   media: 'media'
   metadata:
     _posts:
@@ -31,15 +31,14 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
+          alterable: true
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
+            - name: "Greece"
+              value: "greece"
+            - name: "Peru"
+              value: "Peru"
+            - name: "Eggplant"
+              value: "eggplant"
     _posts/static:
       - name: "layout"
         field:
