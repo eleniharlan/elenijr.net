@@ -10,19 +10,20 @@ section: blog
     {% capture url %}{{site.baseurl}}{{page.splash}}/{% endcapture %}
   {% endif %}
 
-  <div class='col12 splash'>
-    <img src='{{url}}' alt='' />
+  <div class='splash'>
+    <img src='{{post.splash}}' alt='' />
   </div>
 {% endif %}
 
-<div class='listing col6 pad4h margin3'>
-  <div class='heading'>
-    <h1>{{page.title}}</h1><span class='date'>{{page.date | date:"%b %d"}}</span>
+<div class='grid'>
+  <div class='unit whole'>
+    <h1>{{page.title}}</h1><span>{{page.date | date:"%b %d"}}</span>
   </div>
 
-  <div class='prose'>
+  <div class='grid'>
     {{content}}
   </div>
 </div>
-
+<div class='grid'>
 {% include rss-link.html %}
+</div>

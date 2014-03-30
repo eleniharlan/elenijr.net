@@ -1,0 +1,53 @@
+@import url('normalize.css') screen;
+@import url('gridism.css') screen;
+
+/* STYLES.CSS | ELENIHARLAN.NET
+==================================================*/
+/*
+ * Stylesheet for eleniharlan.net
+ * License info, etc can go here
+ * This document is a work in progress
+*/
+
+/* SECTIONS
+==================================================*/
+/*
+ * 1. Global styles (color, type, etc)
+ * 2. Header, footer, basic layout
+ * 3. Content styles
+ * 4. Special functions
+ * 5. Media Queries
+*/
+
+
+/* 1. Global styles (alphabetical)
+==================================================*/
+/* Links */
+a {
+  color:#2099aa;
+  text-decoration:none;
+  -webkit-transition:color 100ms;
+     -moz-transition:color 100ms;
+       -o-transition:color 100ms;
+          transition:color 100ms;
+  }
+  a:hover {
+    color:#197987;
+    }
+  a.active {
+    color:#516066;
+    }
+  .rss {
+    color:#d4d7d9;
+    }
+    .rss:hover {
+      color:#516066;
+      }
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 3rem;
+}
+
+
