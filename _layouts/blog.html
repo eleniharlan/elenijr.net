@@ -3,17 +3,24 @@ layout: default
 section: blog
 ---
 
+{% if page.splash %}<div class='wrapper' style="background-image:url('{{page.splash}}')">{% endif %}
+            <h2 class='post-title'>{{page.title}}</h2>
+{% if page.splash %}</div>{% endif %}
+
 
 <div class='grid'>
-  <div class='unit whole'>
-    <h2 class='post-title'>{{page.title}}</h2>
+  <div class='unit two-thirds'>
     <span class='date'>{{page.date | date:"%b %d"}}</span>
-  </div>
-</div>
-
-<div class='grid'>
-  <div class='unit whole'>
     {{content}}
+  </div>
+  <div class='unit one-third'>
+    <h4 class='meta'>Serves: {{page.servings}}</h4>
+    <h4 class='meta'>Ingredients</h4>
+    <ul class='ingredients'>
+    {%for item in page.ingredients %}
+      <li>{{item.ingredient}}</li>
+    {% endfor %}
+    </ul>
   </div>
 </div>
 <div class='grid'>
