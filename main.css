@@ -12,16 +12,23 @@
 /* SECTIONS
 ==================================================*/
 /*
- * 1. Global styles (color, type, etc)
- * 2. Header, footer, basic layout
- * 3. Content styles
- * 4. Special functions
- * 5. Media Queries
+ * 1. Typography
+ * 2. Layout
 */
 
 
-/* 1. Global styles (alphabetical)
+/* 1. Typography
 ==================================================*/
+/* Body text */
+html {
+	font-size: 16px;
+}
+
+p {
+	font-size: 1.25rem;
+	font-family: 'Alegreya', serif;
+}
+
 /* Links */
 a {
   color:#2099aa;
@@ -44,10 +51,84 @@ a {
       color:#516066;
       }
 
-h1 {
+/* Headings */
+h1,h2,h3,h4,h5,h6 {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 900;
+}
+
+h1 {
 	font-size: 3rem;
 }
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+
+
+/* 2. Layout
+==================================================*/
+/* Gridism override for smaller max-width */
+.wrap .grid,
+.grid.wrap {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Navigation Menu */
+.menu {
+	text-align:right;
+}
+.menu a {
+	margin:0 0 0 10px;
+}
+
+/* full bleed image section */
+.wrapper {
+	width: 100%;
+	height: 100vh;
+	background: url('img/home_bg.jpg') no-repeat fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+
+}
+.wrapper a:link, .wrapper a:visited{
+	color: #fff;
+}
+
+h2.post-title {
+	display: block;
+	font-size: 5rem;
+	font-weight: 300;
+	position: absolute;
+	top:37vh;
+	text-align: center;
+	padding: 20px;
+	border: 3px solid #fff;
+	color: #fff;
+	left: 25vw;
+
+}
+
+
 
 

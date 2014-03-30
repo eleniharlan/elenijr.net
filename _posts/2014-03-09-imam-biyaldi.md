@@ -3,7 +3,7 @@ layout: blog
 category: blog
 published: true
 title: Imam Biyaldi
-splash: "img/post_img/imam-biyaldi-01.jpg"
+splash: /img/post_img/imam-biyaldi-01.jpg
 tags: 
   - Turkey
 ---

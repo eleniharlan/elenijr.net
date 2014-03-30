@@ -1,6 +1,7 @@
 ---
 title: "Tzunior's kitchen"
 subtitle: "A Space and Place for Food"
+
 ---
 <!DOCTYPE html>
 <html lang="en-US">
@@ -20,8 +21,8 @@ subtitle: "A Space and Place for Food"
 
 <!-- Fonts
 ================================================== -->
-<link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
 <!-- CSS
 ================================================== -->
 <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/main.css">
@@ -33,17 +34,17 @@ subtitle: "A Space and Place for Food"
 </head>
 <body class='wrap'>
 
-
-<header class='grid'>
-  <div class='unit whole'>
-      <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
-      <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's?</a>
-  </div>
-  <div class='unit whole'>
-    <h1><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
-  </div>
-</header>
-
+{% if page.splash %}<div class='wrapper' style="background-image:url('{{page.splash}}')">{% endif %}
+  <header class='grid'>
+    <div class='unit whole'>
+        <div class='menu'>
+          <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
+          <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's?</a>
+        </div>
+        <h1><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
+    </div>
+  </header>
+{% if page.splash %}</div>{% endif %}
 {{content}}
 
 <script src='{{site.baseurl}}/site.js'></script>
