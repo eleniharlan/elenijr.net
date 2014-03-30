@@ -108,7 +108,7 @@ header h1 {
 
 /* full bleed image section */
 .wrapper {
-	height: 75vh;
+	height: 70vh;
 	background: url('img/home_bg.jpg') no-repeat fixed;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
