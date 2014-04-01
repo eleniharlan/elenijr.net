@@ -10,8 +10,8 @@ prose:
     _posts:
       - name: "category"
         field:
-          element: "hidden"
-          value: "blog"
+          element: "select"
+          options: ["blog", "recipe"]
       - name: "layout"
         field:
           element: "hidden"
