@@ -16,11 +16,7 @@ section: blog
   <div class='unit golden-small'>
     <h4 class='meta'>Serves: {{page.servings}}</h4>
     <h4 class='meta'>Ingredients</h4>
-    <ul class='ingredients'>
-    {%for item in page.ingredients %}
-      <li>{{item.ingredient}}</li>
-    {% endfor %}
-    </ul>
+    <div class="ingredients">{{page.ingredients}}</div>
   </div>
 </div>
 <div class='grid'>
