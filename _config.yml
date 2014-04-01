@@ -47,9 +47,7 @@ prose:
       - name: "ingredients"
         field:
           element: "textarea"
-          value: ""
           label: "Ingredients for recipe"
-          help: "List the ingredients for the recipe. Use an unordered list if possible."
     _posts/static:
       - name: "layout"
         field:
