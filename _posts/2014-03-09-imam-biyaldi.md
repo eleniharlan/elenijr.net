@@ -1,10 +1,10 @@
 ---
-layout: blog
-category: blog
+layout: recipe
+category: recipe
 published: true
 title: Imam Biyaldi
 splash: /img/post_img/imam-biyaldi-01.jpg
-tags: 
+tags:
   - Turkey
 servings: 4
 ingredients:
@@ -30,19 +30,6 @@ ingredients:
 **Tomato:** I like this to be more of a coating for the aubs rather than have them swimming in sauce.
 
 ## IMAM BIYALDI
-
-Serves four
-
-### Ingredients
-
-1. 2 – 4 medium sized aubergines, preferrably the slender ones, cut into quarters or sixths length-wise
-2. 2 medium onions, thinly sliced
-3. 1 tin of peeled plum tomatoes or 2 large ripe juicy tomatoes, chopped
-4. 1 tbsp tomato puree
-5. 1 tsp sugar
-6. nutmeg
-7. olive oil
-8. sea salt
 
 Oven preheated to 180C.
 

@@ -6,7 +6,7 @@ section: blog
 
 <div class='grid'>
 	<div class='unit whole'>
-	{% for item in site.categories.blog limit:1000 %}
+	{% for item in site.categories.recipe limit:1000 %}
     		{% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
     		{% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
 
