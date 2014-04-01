@@ -16,7 +16,7 @@ section: blog
   <div class='unit golden-small'>
     <h4 class='meta'>Serves: {{page.servings}}</h4>
     <h4 class='meta'>Ingredients</h4>
-    <div class="ingredients">{{page.ingredients}}</div>
+    <div class="ingredients">{{page.ingredients | markdownify }}</div>
   </div>
 </div>
 <div class='grid'>
