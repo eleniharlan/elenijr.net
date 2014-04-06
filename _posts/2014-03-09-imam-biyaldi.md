@@ -32,8 +32,6 @@ flickr: "72157643538496115"
 
 **Tomato:** I like this to be more of a coating for the aubs rather than have them swimming in sauce.
 
-<div class="instructions">
-
 ## Imam Biyaldi
 
 **Oven preheated to 180C.**
@@ -44,4 +42,3 @@ flickr: "72157643538496115"
 4. Transfer to an oven-proof dish with enough room to spread all the aubergine pieces out in one layer.
 5. Meanwhile, when the onions have caramelised, add the tomato puree to them, stir and cook for 1 minute then add the tinned or fresh tomatoes and the sugar and a bit of boullion stock powder if you wish. Let the sauce cook for 5–10 minutes, so some of the liquid cooks down. Don’t worry if it isn’t perfect, as it will cook in the oven.
 6. Arrange your aubergine slices in the dish and grate some nutmeg over them. Check your sauce for seasoning then pour it over the aubergines. Drizzle with olive oil and bung in the oven for about 30 minutes. Leave to cool a bit before serving. This dish can be eaten hot but it is at its finest at slightly-above room temperature.
-</div>
