@@ -1,6 +1,6 @@
 ---
-layout: blog
-category: blog
+layout: recipe
+category: recipe 
 published: true
 title: Peruvian Corn Cake
 splash: /img/post_img/peruvian-corn-cakes-01.jpg
