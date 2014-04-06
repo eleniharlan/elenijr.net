@@ -34,7 +34,7 @@ flickr: "72157643538496115"
 
 <div class="instructions">
 
-## IMAM BIYALDI
+## Imam Biyaldi
 
 **Oven preheated to 180C.**
 
