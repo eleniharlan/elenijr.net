@@ -6,9 +6,7 @@ title: Peruvian Corn Cake
 splash: "/img/post_img/peruvian-corn-cakes-01.jpg"
 tags: 
   - Peru
-servings: 
-  - "1"
-  - 1
+servings: "1"
 time: "2"
 ---
 
@@ -42,7 +40,7 @@ olive oil for greasing
 
 4. In another bowl whisk the egg whites to stiff peaks. Gently fold into the sweetcorn batter just until combined.
 
-5. Grease a shallow casserole dish or square baking tin (20x20cm) with olive oil and then pour your batter in. (I used my cast iron skillet which worked great)
+5. Grease a shallow casserole dish or square baking tin (20x20cm) with olive oil and then pour your batter in. (I used my cast iron skillet which worked great.)
 
 6. Press the bits of cheese into the batter until totally submerged. My feta was quite crumbly so the best way I found was to scatter it evenly on top and then use my hands to press down into the batter in a circular motion.
 
