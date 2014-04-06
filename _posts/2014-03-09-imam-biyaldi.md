@@ -9,7 +9,6 @@ tags:
   - eggplant
   - Turkey
 servings: 4
-ingredients: null
 ---
 
 *Imam Biyaldi* means ‘the imam [priest] fainted’ – ostensibly because of the amount of oil in this dish, or perhaps he was just swooning over the perfect combination of smoky, fluffy aubergines, sweet gooey onions and tart tomato. In Greece it is often just referred to as ‘imam’, which as a child I would associate with the ‘mam mam mam’ (that’s Greek for ‘yum yum yum’, in case you were wondering) noise that adults would make to try and communicate to children that something is tasty. Making imam has become a bit ritualistic for me. It is one of the first dishes I learned to make, and over the years I have broken down each subsidiary ingredient and determined the best way to make the sum of the parts into my own swoon-worthy whole.
