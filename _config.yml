@@ -13,11 +13,13 @@ prose:
     _posts:
       - name: "category"
         field:
+          help: "Select a category for this post."
           element: "select"
-          value: ["blog", "recipe", "review"]
+          options: ["blog", "recipe", "review"]
       - name: "layout"
         field:
           element: "select"
+          help: "Select the layout for the post."
           options: ["blog", "recipe"]
       - name: "title"
         field:
