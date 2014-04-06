@@ -9,7 +9,6 @@ tags:
   - eggplant
   - Turkey
 servings: 
-  - 4
   - "4"
 time: 2 hours
 ingredient_1: "2 – 4 medium sized aubergines, preferrably the slender ones, cut into quarters or sixths length-wise"
