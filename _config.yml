@@ -111,9 +111,9 @@ prose:
           element: "select"
           options: ["blog", "review"]
       - name: "layout"
-          field:
-            element: "hidden"
-            value: "blog"
+        field:
+          element: "hidden"
+          value: "blog"
       - name: "title"
         field:
           element: "text"
