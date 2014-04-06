@@ -18,7 +18,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          options: "recipe"
+          value: "recipe"
       - name: "title"
         field:
           element: "text"
@@ -142,7 +142,6 @@ prose:
           element: "text"
           label: "Flickr Photoset ID"
           value: ""
-
     _posts/static:
       - name: "layout"
         field:
