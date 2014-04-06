@@ -14,11 +14,62 @@ section: blog
     {{content}}
   </div>
   <div class='unit golden-small'>
-    <h4 class='meta'>Serves: {{page.servings}}</h4>
+    <h4 class='meta'>Serves: <span class="meta-text">{{page.servings}}</span></h4>
+    <h4 class="meta">Cooking/Prep time: <span class="meta-text">{{page.time}}</span></h4>
     <h4 class='meta'>Ingredients</h4>
-    <div class="ingredients">{{page.ingredients}}</div>
-  </div>
+    <div class="ingredients">
+      <span class="meta-text">
+        <ul>
+          {% if page.ingredient_1 %}
+            <li>{{page.ingredient_1}}</li>
+          {% endif %}
+          {% if page.ingredient_2 %}
+            <li>{{page.ingredient_2}}</li>
+          {% endif %}
+          {% if page.ingredient_3 %}
+            <li>{{page.ingredient_3}}</li>
+          {% endif %}
+          {% if page.ingredient_4 %}
+            <li>{{page.ingredient_4}}</li>
+          {% endif %}
+          {% if page.ingredient_5 %}
+            <li>{{page.ingredient_5}}</li>
+          {% endif %}
+          {% if page.ingredient_6 %}
+            <li>{{page.ingredient_6}}</li>
+          {% endif %}
+          {% if page.ingredient_7 %}
+            <li>{{page.ingredient_7}}</li>
+          {% endif %}
+          {% if page.ingredient_8 %}
+            <li>{{page.ingredient_8}}</li>
+          {% endif %}
+          {% if page.ingredient_9 %}
+            <li>{{page.ingredient_9}}</li>
+          {% endif %}
+          {% if page.ingredient_10 %}
+            <li>{{page.ingredient_10}}</li>
+          {% endif %}
+          {% if page.ingredient_11 %}
+            <li>{{page.ingredient_11}}</li>
+          {% endif %}
+          {% if page.ingredient_12 %}
+            <li>{{page.ingredient_12}}</li>
+          {% endif %}
+        </ul>
+      </span>
+    </div><!-- /ingredients -->
+    {% if page.flickr %}
+      <h4 class="meta">Photos</h4>
+      <div id="flickr"></div>
+    {% endif %}
+  </div><!-- /unit golden-small -->
 </div>
 <div class='grid'>
 {% include rss-link.html %}
 </div>
+<script>
+  {% if page.flickr %}
+    {% include js/photos.js %}
+  {% endif %}
+</script>
