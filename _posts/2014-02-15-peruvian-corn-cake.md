@@ -4,6 +4,8 @@ category: recipe
 published: true
 title: Peruvian Corn Cake
 splash: "/img/post_img/peruvian-corn-cakes-01.jpg"
+tags: 
+  - Peru
 ---
 
 A glossy cookbook is always a safe bet if you need a present to buy me, and Ceviche‘s cookbook, which was gifted to me recently, is no exception. I’ve only eaten at the restaurant once, sitting at the tiny but cosy bar where we nibbled on slivered beef heart skewers and sipped neat pisco, which reminded me of the tsipouro which is served at all hours of the day in island cafes in Greece. Tsipouro is my drink of choice on idle summer mornings on the islands, where you’re served a tiny bottle with a bowl of ice and a few bits of cheese and olives. For less than 2 euros you’ve got enough entertainment for a couple hours at least.
