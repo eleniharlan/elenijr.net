@@ -5,8 +5,6 @@ published: true
 title: Imam Biyaldi
 splash: "/img/post_img/imam-biyaldi-01.jpg"
 tags: 
-  - greece
-  - eggplant
   - Turkey
 servings: 
   - "4"
