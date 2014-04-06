@@ -53,11 +53,50 @@ prose:
           element: "text"
           label: "Cook/Prep Time"
           help: "Add info about the cooking/prep time for this recipe."
-      - name: "ingredients"
+      - name: "ingredient_1"
         field:
-          element: "textarea"
-          label: "Ingredients"
-          help: "Enter one ingredient per line, prefixed by '- ingredient: '"
+          element: "text"
+          label: "Ingredient #1"
+      - name: "ingredient_2"
+        field:
+          element: "text"
+          label: "Ingredient #2"
+      - name: "ingredient_3"
+        field:
+          element: "text"
+          label: "Ingredient #3"
+      - name: "ingredient_4"
+        field:
+          element: "text"
+          label: "Ingredient #4"
+      - name: "ingredient_5"
+        field:
+          element: "text"
+          label: "Ingredient #5"
+      - name: "ingredient_6"
+        field:
+          element: "text"
+          label: "Ingredient #6"
+      - name: "ingredient_7"
+        field:
+          element: "text"
+          label: "Ingredient #7"
+      - name: "ingredient_8"
+        field:
+          element: "text"
+          label: "Ingredient #8"
+      - name: "ingredient_9"
+        field:
+          element: "text"
+          label: "Ingredient #9"
+      - name: "ingredient_10"
+        field:
+          element: "text"
+          label: "Ingredient #10"
+      - name: "ingredient_11"
+        field:
+          element: "text"
+          label: "Ingredient #11"
     _posts/static:
       - name: "layout"
         field:
