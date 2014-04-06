@@ -46,15 +46,13 @@ prose:
               value: "eggplant"
       - name: "servings"
         field:
-          element: "number"
+          element: "text"
           label: "Servings"
-          value: ""
       - name: "time"
         field:
           element: "text"
           label: "Cook/Prep Time"
           help: "Add info about the cooking/prep time for this recipe."
-          value: ""
     _posts/static:
       - name: "layout"
         field:
