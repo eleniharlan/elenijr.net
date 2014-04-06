@@ -7,6 +7,7 @@ splash: "/img/post_img/peruvian-corn-cakes-01.jpg"
 tags: 
   - Peru
   - Corn
+  - Cakes
 servings: "1"
 time: "2"
 ingredients: null
