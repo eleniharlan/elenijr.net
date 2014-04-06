@@ -10,7 +10,7 @@ prose:
   relativeLinks: 'http://elenijr.net/links.jsonp'
   media: 'media'
   metadata:
-    _posts/blog:
+    _posts:
       - name: "category"
         field:
           help: "Select a category for this post."
