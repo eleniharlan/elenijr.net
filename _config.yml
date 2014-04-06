@@ -10,17 +10,15 @@ prose:
   relativeLinks: 'http://elenijr.net/links.jsonp'
   media: 'media'
   metadata:
-    _posts:
+    _posts/recipe:
       - name: "category"
         field:
-          help: "Select a category for this post."
-          element: "select"
-          options: ["blog", "recipe", "review"]
+          element: "hidden"
+          value: "recipe"
       - name: "layout"
         field:
-          element: "select"
-          help: "Select the layout for the post."
-          options: ["blog", "recipe"]
+          element: "hidden"
+          options: "recipe"
       - name: "title"
         field:
           element: "text"
@@ -106,6 +104,45 @@ prose:
         field:
           element: "text"
           label: "Ingredient #12"
+    _posts/blog:
+      - name: "category"
+        field:
+          help: "Select a category for this post."
+          element: "select"
+          options: ["blog", "review"]
+      - name: "layout"
+          field:
+            element: "hidden"
+            value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "splash"
+        field:
+          element: "text"
+          label: "Splash image"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true
+          options:
+            - name: "Greece"
+              value: "greece"
+            - name: "Peru"
+              value: "Peru"
+            - name: "Eggplant"
+              value: "eggplant"
+      - name: "flickr"
+        field:
+          element: "text"
+          label: "Flickr Photoset ID"
+          value: ""
+
     _posts/static:
       - name: "layout"
         field:
