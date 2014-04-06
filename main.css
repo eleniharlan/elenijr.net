@@ -24,7 +24,7 @@ html {
 	font-size: 16px;
 }
 
-p {
+p, ul, ol {
 	font-size: 1.25rem;
 	font-family: 'Alegreya', serif;
 }
