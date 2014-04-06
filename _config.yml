@@ -1,5 +1,8 @@
 permalink: pretty
 markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:categories/:title
 baseurl: 'http://elenijr.net'
 prose:
   rooturl: '_posts'
@@ -7,11 +10,11 @@ prose:
   relativeLinks: 'http://elenijr.net/links.jsonp'
   media: 'media'
   metadata:
-    _posts/blog:
+    _posts:
       - name: "category"
         field:
-          element: "hidden"
-          value: "blog"
+          element: "select"
+          value: ["blog", "recipe", "review"]
       - name: "layout"
         field:
           element: "select"
