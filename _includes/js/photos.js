@@ -13,7 +13,6 @@ $.ajax({
 
 var showSet = function(res){
 	var photos = res.photoset.photo;
-  console.log(photos)
 	for (var i = 0; i < photos.length; i++){
 		var sourceUrl = "https:\/\/farm"+ photos[i].farm +
 			".staticflickr.com\/" + photos[i].server +
