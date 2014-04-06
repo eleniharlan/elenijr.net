@@ -35,13 +35,12 @@ flickr: "72157643538496115"
 <div class="instructions">
 ## IMAM BIYALDI
 
-Oven preheated to 180C.
+**Oven preheated to 180C.**
 
 1. first, prepare your aubergines. cut them into their wedges and rub sea salt all over the white flesh. leave in a colander to sweat while you prepare your onions.
 2. heat a generous couple tablespoons of olive oil in a medium saucepan. When hot, add the sliced onions and a pinch of salt. put the lid on and leave to sweat on medium heat, stirring every so often so the onions don’t stick, until they caramelise.
-3. While your onions are caramelising, heat a ridged griddle pan (preferably cast iron) over a high flame until searing hot. with some kitchen paper, wipe the moisture off each wedge of aubergine and place on the hot grill, pressing gently into the pan. Fill the pan with aubergine slices (you’ll probably need to do these in batches) and leave for a few minutes, pressing them down with a metal spatula every so often until they have started to soften and black ridges appear on the flesh. Flip them onto the other white side and do the same. Finish by putting them skin side down on the grill until they are soft all over. ![Grilled aubergines](/https://farm4.staticflickr.com/3078/13089227173_83187ca8e1_z_d.jpg)
+3. While your onions are caramelising, heat a ridged griddle pan (preferably cast iron) over a high flame until searing hot. with some kitchen paper, wipe the moisture off each wedge of aubergine and place on the hot grill, pressing gently into the pan. Fill the pan with aubergine slices (you’ll probably need to do these in batches) and leave for a few minutes, pressing them down with a metal spatula every so often until they have started to soften and black ridges appear on the flesh. Flip them onto the other white side and do the same. Finish by putting them skin side down on the grill until they are soft all over.
 4. Transfer to an oven-proof dish with enough room to spread all the aubergine pieces out in one layer.
 5. Meanwhile, when the onions have caramelised, add the tomato puree to them, stir and cook for 1 minute then add the tinned or fresh tomatoes and the sugar and a bit of boullion stock powder if you wish. Let the sauce cook for 5–10 minutes, so some of the liquid cooks down. Don’t worry if it isn’t perfect, as it will cook in the oven.
 6. Arrange your aubergine slices in the dish and grate some nutmeg over them. Check your sauce for seasoning then pour it over the aubergines. Drizzle with olive oil and bung in the oven for about 30 minutes. Leave to cool a bit before serving. This dish can be eaten hot but it is at its finest at slightly-above room temperature.
-![Kali orexi!](/https://farm3.staticflickr.com/2412/13089098825_146b4e033d_z_d.jpg)
 </div>
