@@ -6,6 +6,7 @@ title: Peruvian Corn Cake
 splash: "/img/post_img/peruvian-corn-cakes-01.jpg"
 tags: 
   - Peru
+  - Corn
 servings: "1"
 time: "2"
 ---
