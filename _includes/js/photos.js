@@ -1,5 +1,5 @@
 var photoSetId = "{{page.flickr}}";
-	showApi = "http://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key=19493fa9bbf4ab6081b55b2df529144d&photoset_id=" + photoSetId + "&format=json&jsoncallback=showSet";
+	showApi = "http://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key=3b29561b49e0d336291e00f6eccbc6fd&photoset_id=" + photoSetId + "&format=json&jsoncallback=showSet";
 
 $.ajax({
    type: 'GET',
