@@ -44,6 +44,11 @@ prose:
               value: "Peru"
             - name: "Eggplant"
               value: "eggplant"
+      - name: "flickr"
+        field:
+          element: "text"
+          label: "Flickr Photoset ID"
+          value: ""
       - name: "servings"
         field:
           element: "text"
@@ -97,6 +102,10 @@ prose:
         field:
           element: "text"
           label: "Ingredient #11"
+      - name: "ingredient_12"
+        field:
+          element: "text"
+          label: "Ingredient #12"
     _posts/static:
       - name: "layout"
         field:
