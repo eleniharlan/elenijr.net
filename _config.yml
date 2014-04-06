@@ -49,10 +49,12 @@ prose:
           element: "number"
           label: "Servings"
           value: ""
-      - name: "ingredients"
+      - name: "time"
         field:
-          element: "textarea"
-          label: "Ingredients for recipe"
+          element: "text"
+          label: "Cook/Prep Time"
+          help: "Add info about the cooking/prep time for this recipe."
+          value: ""
     _posts/static:
       - name: "layout"
         field:
