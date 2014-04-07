@@ -20,6 +20,6 @@ var showSet = function(res){
 			"_"+photos[i].secret +
 			"_n.jpg";
     var title = photos[i].title;
-		pic  = $('#flickr').append('<div class="flickr-image"><a href="https://www.flickr.com/photos/elenijr/sets/'+ photoSetId+ '" title="'+ title +'"><img id="photo'+ i +'" src="'+sourceUrl+ '"/></a><p class="photo-caption">' + title + '</p></div>');
+    pic  = $('#flickr').append('<div class="flickr-image"><a href="https://www.flickr.com/photos/elenijr/sets/'+ photoSetId+ '" title="'+ title +'"><img id="photo'+ i +'" src="'+sourceUrl+ '"/></a><p class="photo-caption">' + title + '</p></div>');
 	}
 }
