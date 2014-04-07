@@ -15,6 +15,8 @@ section: blog
   </div>
 </div>
 <div class='grid'>
-{% include disqus.html %}
+{% if page.comments %}
+  {% include disqus.html %}
+{% endif %}
 {% include rss-link.html %}
 </div>

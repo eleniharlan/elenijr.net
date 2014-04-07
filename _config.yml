@@ -104,6 +104,10 @@ prose:
         field:
           element: "text"
           label: "Ingredient #12"
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Allow comments for this post?"
     _posts/blog:
       - name: "category"
         field:
@@ -161,3 +165,8 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Allow comments for this post?"
+
