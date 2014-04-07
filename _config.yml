@@ -108,6 +108,7 @@ prose:
         field:
           element: "checkbox"
           label: "Allow comments for this post?"
+          value: true
     _posts/blog:
       - name: "category"
         field:
@@ -150,6 +151,7 @@ prose:
         field:
           element: "checkbox"
           label: "Allow comments for this post?"
+          value: true
     _posts/static:
       - name: "layout"
         field:
@@ -169,4 +171,4 @@ prose:
         field:
           element: "checkbox"
           label: "Allow comments for this post?"
-
+          value: false
