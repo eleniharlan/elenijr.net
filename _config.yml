@@ -142,6 +142,12 @@ prose:
           element: "text"
           label: "Flickr Photoset ID"
           value: ""
+      - name: "comments"
+        field:
+          element: "button"
+          label: "Allow comments"
+          on: "Comments allowed for this post"
+          off: "No comments for this post"
     _posts/static:
       - name: "layout"
         field:
