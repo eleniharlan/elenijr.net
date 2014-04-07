@@ -144,10 +144,8 @@ prose:
           value: ""
       - name: "comments"
         field:
-          element: "button"
-          label: "Allow comments"
-          on: "Comments allowed for this post"
-          off: "No comments for this post"
+          element: "checkbox"
+          label: "Allow comments for this post?"
     _posts/static:
       - name: "layout"
         field:
