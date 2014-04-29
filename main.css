@@ -115,25 +115,41 @@ header h1 {
   	-o-background-size: cover;
   	background-size: cover;
   	position: relative;
+    text-align: center;
 
 }
 .wrapper a:link, .wrapper a:visited{
 	color: #fff;
 }
 
-h2.post-title {
-	margin: auto;
-	position: absolute;
-	top: 0; left: 0; bottom: 0; right: 0;
-	height: 150px;
-	max-width: 500px;
-	font-size: 4rem;
-	color: #fff;
-	border: solid 8px #fff;
-	padding: 20px;
-	text-shadow: 1px 1px 8px #444;
+/* CSS centering trick adapted from: http://css-tricks.com/centering-in-the-unknown/ */
+/* .wrapper must have text-align:center; rule */
 
+.wrapper:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -0.25em; /* Adjusts for spacing */
 }
+
+/* The element to be centered, can
+   also be of any width and height */ 
+.centered {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+h2.post-title {
+  display: inline-block;
+  font-size: 4rem;
+  color: #fff;
+  border: solid 8px #fff;
+  padding: 20px;
+  text-shadow: 1px 1px 8px #444;
+  margin-top: 22vh;
+}
+
 
 .flickr-image img {
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
