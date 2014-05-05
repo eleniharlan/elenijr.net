@@ -14,6 +14,7 @@
 /*
  * 1. Typography
  * 2. Layout
+ * 3. Media Queries
 */
 
 
@@ -22,6 +23,11 @@
 /* Body text */
 html {
 	font-size: 16px;
+  background-color: #2099aa;
+}
+
+body{
+  background-color: #fff;
 }
 
 p, ul, ol {
@@ -62,6 +68,7 @@ h1 {
 }
 
 h2 {
+  font-size: 2.25rem;
 
 }
 
@@ -85,12 +92,30 @@ h6 {
 
 /* 2. Layout
 ==================================================*/
+/* Contents
+* 
+* 2a. Framework overrides
+* 2b. Navigation
+* 2c. Page heading elements
+* 2d. Page body elements
+* 2e. Page footer elements
+* 2f. HomePage-specific elements
+
+*/
+
+
+/* 2a. Overrides 
+--------------------------------------------------*/
+
 /* Gridism override for smaller max-width */
 .wrap .grid,
 .grid.wrap {
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
 }
+
+/* 2b. Nav menu 
+--------------------------------------------------*/
 
 /* Navigation Menu */
 .menu {
@@ -101,23 +126,22 @@ h6 {
 	margin:0 0 0 10px;
 }
 
-/* page header */
-header h1 {
-	font-size: 2rem;
-}
+/* 2c. Page heading elements 
+--------------------------------------------------*/
 
 /* full bleed image section */
 .wrapper {
-	height: 70vh;
+	height: 50vh;
 	background: url('img/home_bg.jpg') no-repeat fixed;
 	-webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
-  	position: relative;
-    text-align: center;
-
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 50% -250px;
+  position: relative;
+  text-align: center;
 }
+
 .wrapper a:link, .wrapper a:visited{
 	color: #fff;
 }
@@ -140,16 +164,33 @@ header h1 {
   vertical-align: middle;
 }
 
+/* page header */
+header {
+  text-align: left;
+  z-index: 100;
+  text-shadow: 2px 2px 8px #444;
+}
+
+header h1 {
+  font-size: 2rem;
+}
+
+header.standard {
+  text-shadow: none;
+}
+
 h2.post-title {
   display: inline-block;
   font-size: 4rem;
   color: #fff;
   border: solid 8px #fff;
   padding: 20px;
-  text-shadow: 1px 1px 8px #444;
-  margin-top: 22vh;
+  margin-top: 10vh;
+  max-width: 75vw;
 }
 
+/* 2d. Page body elements 
+--------------------------------------------------*/
 
 .flickr-image img {
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
@@ -160,3 +201,51 @@ p.photo-caption {
   font-size: 1em;
   text-align: center;
 }
+
+/* 2e. Page footer elements 
+--------------------------------------------------*/
+footer {
+  background-color: #2099aa;
+}
+
+
+
+/* 2f. Home page elements 
+--------------------------------------------------*/
+/* recipe grid for home page */
+
+/* correct padding for rows beyond the first */
+.grid .unit:nth-child(4n+4) { padding-left: 20px; }
+.grid .unit:nth-child(3n+3) { padding-right: 20px; }
+
+.grid-tile {
+  height: 200px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+
+.grid-tile h3 {
+  display: block;
+  background-color: rgba(66, 206, 200, 0.0);
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  -moz-transition:all .2s ease-in-out;
+  -webkit-transition:all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+.grid-tile h3:hover{
+  background-color: rgba(66, 206, 200, 0.80);
+}
+
+
+
+
+/* 3. Media Queries
+==================================================*/
+
+
+

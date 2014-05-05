@@ -1,8 +1,3 @@
----
-title: "Tzunior's"
-subtitle: "A Space and Place for Food"
-
----
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -20,18 +15,61 @@ subtitle: "A Space and Place for Food"
 </head>
 <body class='wrap'>
 
-  <header class='grid'>
-    <div class='unit half'>
-      <h1><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
-    </div>
-    <div class='unit half'>
-        <div class='menu'>
-          <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
-          <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's?</a>
+<!-- <header id='pageheader'>
+    <div class='grid'> 
+        <div class='unit half'>
+            <h1><a href='{{site.baseurl}}/'>Tzunior's</a></h1>
+        </div>
+        <div class='unit half'>
+            <div class='menu'>
+                <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
+                <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's?</a>
+            </div>
         </div>
     </div>
-  </header>
+</header>
+ -->
+
+{% if page.splash %}
+<div class='wrapper' style="background-image:url('{{page.splash}}')">
+    <header class='overlay'>
+        <div class='grid'> 
+        <div class='unit half'>
+            <h1><a href='{{site.baseurl}}/'>Tzunior's</a></h1>
+        </div>
+        <div class='unit half'>
+            <div class='menu'>
+                <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
+                <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's?</a>
+            </div>
+        </div>
+        </div>
+    </header>
+
+    <h2 class='centered post-title'>{{page.title}}</h2>
+</div>
+{%else %}
+<header class='standard'>
+        <div class='grid'> 
+        <div class='unit half'>
+            <h1><a href='{{site.baseurl}}/'>Tzunior's</a></h1>
+        </div>
+        <div class='unit half'>
+            <div class='menu'>
+                <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
+                <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's?</a>
+            </div>
+        </div>
+        </div>
+    </header>
+
+{% endif %}
+
+
+
 {{content}}
+
+{% include footer.html %}
 
 <script src='{{site.baseurl}}/site.js'></script>
 </body>
