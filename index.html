@@ -1,21 +1,34 @@
 ---
 layout: default
 section: blog
+title: Tzunior's Kitchen
+splash: "/img/post_img/kali_orexi.jpg"
 
 ---
 
-<div class='grid'>
-	<div class='unit whole'>
-	{% for item in site.categories.recipe limit:1000 %}
-    		{% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
-    		{% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
+<div class="grid">
+  <div class="unit whole">
+    <h2>Latest Recipes</h2>
+  </div>
+</div>
 
-    		{% if date != ndate %}
-      			<h4>{{item.date | date: '%B %Y'}}</h4>
-    		{% endif %}
-    		<a href='{{site.baseurl}}{{item.url}}'>{{item.title}} <span class=''>&#126; {{item.date | date:"%b %d"}}</span></a>
-  	{% endfor %}
-	</div>
+<div class='grid'>
+    {% for item in site.categories.recipe limit:9 %}
+    <div class="one-third unit">
+        <a href='{{site.baseurl}}{{item.url}}'>
+        <div class="grid-tile" style="background-image:url('{{item.splash}}')">
+            <h3>
+            {{item.title}}
+                <!-- <span class=''>&#126; {{item.date | date:"%b %d"}}</span> -->
+            </h3>
+        </div>
+        </a>
+    </div>
+  {% endfor %}
+    <div class="grid">
+        <div class="unit whole">
+            <a href="#"><h4>View all Recipes ></h4></a>
+        </div>
+    </div>
 
 </div>
-{% include rss-link.html %}
