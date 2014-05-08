@@ -1,4 +1,6 @@
 permalink: pretty
+gems:
+  - jekyll-sitemap
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
