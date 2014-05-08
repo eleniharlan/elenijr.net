@@ -1,19 +1,19 @@
 ---
 layout: default
 section: blog
-title: Tzunior's Kitchen
+title: Tzunior's Table
 splash: "/img/post_img/kali_orexi.jpg"
 
 ---
 
 <div class="grid">
   <div class="unit whole">
-    <h2>Latest Recipes</h2>
+    <h2>Latest Posts</h2>
   </div>
 </div>
 
 <div class='grid'>
-    {% for item in site.categories.recipe limit:9 %}
+    {% for item in site.posts limit:9 %}
     <div class="one-third unit">
         <a href='{{site.baseurl}}{{item.url}}'>
         <div class="grid-tile" style="background-image:url('{{item.splash}}')">
@@ -27,7 +27,7 @@ splash: "/img/post_img/kali_orexi.jpg"
   {% endfor %}
     <div class="grid">
         <div class="unit whole">
-            <a href="#"><h4>View all Recipes ></h4></a>
+            <a href="#"><h4>View all posts></h4></a>
         </div>
     </div>
 

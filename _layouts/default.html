@@ -2,8 +2,8 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8">
-  <title>Tzunior's {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
-  <meta name="description" content="Tzunior's">
+  <title>Tzunior's Table {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
+  <meta name="description" content="Tzunior's Table">
   <meta name="author" content="Eleni Harlan">
   <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.baseurl}}/blog.rss' />
   <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
@@ -15,32 +15,17 @@
 </head>
 <body class='wrap'>
 
-<!-- <header id='pageheader'>
-    <div class='grid'> 
-        <div class='unit half'>
-            <h1><a href='{{site.baseurl}}/'>Tzunior's</a></h1>
-        </div>
-        <div class='unit half'>
-            <div class='menu'>
-                <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
-                <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's?</a>
-            </div>
-        </div>
-    </div>
-</header>
- -->
-
 {% if page.splash %}
 <div class='wrapper' style="background-image:url('{{page.splash}}')">
     <header class='overlay'>
         <div class='grid'> 
         <div class='unit half'>
-            <h1><a href='{{site.baseurl}}/'>Tzunior's</a></h1>
+            <h1><a href='{{site.baseurl}}/'>Tzunior's Table</a></h1>
         </div>
         <div class='unit half'>
             <div class='menu'>
-                <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
-                <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's?</a>
+                <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Posts</a>
+                <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's Table?</a>
             </div>
         </div>
         </div>
@@ -56,8 +41,8 @@
         </div>
         <div class='unit half'>
             <div class='menu'>
-                <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
-                <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's?</a>
+                <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Posts</a>
+                <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>What is Tzunior's Table?</a>
             </div>
         </div>
         </div>
