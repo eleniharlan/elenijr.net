@@ -31,6 +31,12 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+      - name: "teaser"
+        field:
+          element: "text"
+          label: "Teaser"
+          value: ""
+          help: "Enter 1-2 sentences to use as a teaser for this post."
       - name: "tags"
         field:
           element: "multiselect"
@@ -131,6 +137,12 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+      - name: "teaser"
+        field:
+          element: "text"
+          label: "Teaser"
+          value: ""
+          help: "Enter 1-2 sentences to use as a teaser for this post."
       - name: "tags"
         field:
           element: "multiselect"
