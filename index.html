@@ -13,18 +13,27 @@ splash: "/img/post_img/kali_orexi.jpg"
 </div>
 
 <div class='grid'>
-    {% for item in site.posts limit:9 %}
-    <div class="one-third unit">
-        <a href='{{site.baseurl}}{{item.url}}'>
-        <div class="grid-tile" style="background-image:url('{{item.splash}}')">
-            <h3>
-            {{item.title}}
-                <!-- <span class=''>&#126; {{item.date | date:"%b %d"}}</span> -->
-            </h3>
+    {% for item in site.posts limit:1 %}
+        <div class="half unit">
+            <a href='{{site.baseurl}}{{item.url}}'>
+                <div class="grid-tile" style="background-image:url('{{item.splash}}')">
+                    <h3>
+                        {{item.title}}
+                        <!-- <span class=''>&#126; {{item.date | date:"%b %d"}}</span> -->
+                    </h3>
+                </div>
+            </a>
         </div>
-        </a>
+    {% endfor %}
+    <div class="unit half">
+        <ul>
+            {% for item in site.posts limit:3 %}
+                <li><a href='{{site.baseurl}}{{item.url}}'>{{item.title}}</a></li>
+            {% endfor %}
+        </ul>
     </div>
-  {% endfor %}
+
+
     <div class="grid">
         <div class="unit whole">
             <a href="#"><h4>View all posts></h4></a>

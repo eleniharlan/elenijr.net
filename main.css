@@ -9,7 +9,38 @@
  * This document is a work in progress
 */
 
-/* LAYOUT
+/* Typography
+==================================================*/
+/* Body text */
+html {
+  font-size: 16px;
+  background-color: #618d20;
+}
+
+body{
+  background-color: #fff;
+}
+
+p, ul, ol {
+  font-size: 1.25rem;
+}
+
+h2.post-title {
+  display: inline-block;
+  font-size: 4rem;
+  color: #fff;
+  border: solid 8px #fff;
+  padding: 20px;
+  text-shadow: 2px 2px 8px #444;
+/*  position: absolute;
+  width: 70%;
+  margin: 0px 0 0 -35%;
+  left: 50%;
+*/
+}
+
+
+/* Layout
 ==================================================*/
 div.splash {
   -webkit-background-size: cover;
@@ -17,4 +48,22 @@ div.splash {
   -o-background-size: cover;
   background-size: cover;
   background-position:50%,-100px;
+  height: 45vh;
+  width: 100%;
+}
+@media screen and (max-width: 568px){
+  div.splash {
+    height: 33vh;
+  }
+}
+/* Make links in nav white when splash background is defined */
+div.splash div#nav a{
+  color: #fff;
+  text-shadow: 2px 2px 8px #444;
+}
+
+/* Force Flickr images to width of sidebar */
+div#flickr img {
+  width: 100%;
+  height: auto;
 }
