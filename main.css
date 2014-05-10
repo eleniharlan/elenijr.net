@@ -11,7 +11,7 @@
 
 /* Typography
 ==================================================*/
-/* Body text */
+/*--- Body Text ---*/
 html {
   font-size: 16px;
   background-color: #228535;
@@ -25,6 +25,7 @@ p, ul, ol {
   font-size: 1.25rem;
 }
 
+/*--- Heading Text ---*/
 h2.post-title {
   display: inline-block;
   font-size: 4rem;
@@ -42,6 +43,7 @@ h2.post-title {
 
 /* Layout
 ==================================================*/
+/*--- Header and splash elements ---*/
 div.splash {
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -62,8 +64,19 @@ div.splash div#nav a{
   text-shadow: 2px 2px 8px #444;
 }
 
+/*--- Sidebar Elements ---*/
 /* Force Flickr images to width of sidebar */
 div#flickr img {
   width: 100%;
   height: auto;
 }
+
+/*--- Footer Elements ---*/
+footer {
+  background-color: #228535;
+}
+
+footer a {
+  color: #fff;
+}
+
