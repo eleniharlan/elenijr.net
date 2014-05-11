@@ -92,6 +92,9 @@ div.splash div#nav a{
 div.grid-tile {
   padding: 10px;
   height: 200px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   background-position: 50% 50%;
 }
