@@ -14,7 +14,8 @@
 /*--- Body Text ---*/
 html {
   font-size: 16px;
-  background-color: #228535;
+  background-color: #E4E4D2;
+  color: #666;
 }
 
 body{
@@ -24,6 +25,29 @@ body{
 p, ul, ol {
   font-size: 1.25rem;
 }
+
+/* Links */
+a {
+  color:#2099aa;
+  text-decoration:none;
+  -webkit-transition:color 100ms;
+     -moz-transition:color 100ms;
+       -o-transition:color 100ms;
+          transition:color 100ms;
+  }
+  a:hover {
+    color:#197987;
+    }
+  a.active {
+    color:#516066;
+    }
+  .rss {
+    color:#d4d7d9;
+    }
+    .rss:hover {
+      color:#516066;
+      }
+
 
 /*--- Heading Text ---*/
 h2.post-title {
@@ -50,18 +74,30 @@ div.splash {
   -o-background-size: cover;
   background-size: cover;
   background-position:50%,-100px;
-  height: 45vh;
+  height: 500px;
   width: 100%;
 }
 @media screen and (max-width: 568px){
   div.splash {
-    height: 33vh;
+    height: 300px;
   }
 }
 /* Make links in nav white when splash background is defined */
 div.splash div#nav a{
   color: #fff;
   text-shadow: 2px 2px 8px #444;
+}
+
+/*--- Post grid ---*/
+div.grid-tile {
+  padding: 10px;
+  height: 200px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.grid-tile:hover{
+ background-color: rgba(66, 206, 200, 0.80);
 }
 
 /*--- Sidebar Elements ---*/
@@ -73,10 +109,9 @@ div#flickr img {
 
 /*--- Footer Elements ---*/
 footer {
-  background-color: #228535;
+  background-color: #E4E4D2;
 }
 
 footer a {
-  color: #fff;
 }
 

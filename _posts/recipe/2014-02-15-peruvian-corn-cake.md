@@ -4,6 +4,7 @@ category: recipe
 published: true
 title: Peruvian Corn Cake
 splash: "/img/post_img/peruvian-corn-cakes-01.jpg"
+teaser: "Lorem ipsum dolor sic amet. This is the teaser for this post."
 tags: 
   - Peru
   - Corn

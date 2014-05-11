@@ -4,6 +4,7 @@ category: recipe
 published: true
 title: Imam Biyaldi
 splash: "/img/post_img/imam-biyaldi-01.jpg"
+teaser: "Lorem ipsum dolor sic amet. This is the teaser for this post."
 tags: 
   - greece
   - eggplant
