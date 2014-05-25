@@ -4,7 +4,7 @@ category: recipes
 published: true
 title: Peruvian Corn Cake
 splash: "/img/post_img/peruvian-corn-cakes-01.jpg"
-teaser: "Lorem ipsum dolor sic amet. This is the teaser for this post."
+teaser: "A glossy cookbook is always a safe bet if you need a present to buy me, and Ceviche‘s cookbook, which was gifted to me recently, is no exception."
 tags: 
   - Peru
   - Corn

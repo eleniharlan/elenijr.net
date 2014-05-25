@@ -4,7 +4,7 @@ category: recipes
 published: true
 title: Imam Biyaldi
 splash: "/img/post_img/imam-biyaldi-01.jpg"
-teaser: "Lorem ipsum dolor sic amet. This is the teaser for this post."
+teaser: "Imam Biyaldi means ‘the imam [priest] fainted’ – ostensibly because of the amount of oil in this dish, or perhaps he was just swooning over the perfect combination of smoky, fluffy aubergines, sweet gooey onions and tart tomato."
 tags: 
   - greece
   - eggplant

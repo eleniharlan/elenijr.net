@@ -2,14 +2,19 @@
 layout: default
 ---
 
-<div class='main-column'>
-	{{content}}
+<div class="recipe">
+  <header class="post-header">
+    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+  <article class='main-column post-content'>
+    {{content}}
+  </article>
+  <div class='sidebar post-content'>
+    {% include sidebar.html %}
+  </div>
+  <script>
+    {% if page.flickr %}
+      {% include js/photos.js %}
+    {% endif %}
+  </script>
 </div>
-<div class='sidebar'>
-	{% include sidebar.html %}
-</div>
-<script>
-  {% if page.flickr %}
-    {% include js/photos.js %}
-  {% endif %}
-</script>
