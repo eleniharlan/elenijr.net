@@ -50,7 +50,7 @@ a {
 
 
 /*--- Heading Text ---*/
-h2.post-title {
+h2.headline {
   display: inline-block;
   font-size: 4rem;
   color: #fff;
@@ -67,6 +67,11 @@ h2.post-title {
 
 /* Layout
 ==================================================*/
+/*--- Navigation ---*/
+nav#pagenav {
+  position: absolute;
+}
+
 /*--- Header and splash elements ---*/
 div.splash {
   -webkit-background-size: cover;
@@ -76,6 +81,7 @@ div.splash {
   background-position:50%,-100px;
   height: 500px;
   width: 100%;
+  position: relative;
 }
 @media screen and (max-width: 568px){
   div.splash {
