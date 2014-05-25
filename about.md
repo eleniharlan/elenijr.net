@@ -1,8 +1,7 @@
 ---
 layout: page
-published: true
-permalink: about/
 title: "What is Tzunior's?"
+permalink: /about/
 ---
 
 Welcome to my blog — a place to hang out and explore Proustian moments in food

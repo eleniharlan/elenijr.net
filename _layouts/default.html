@@ -1,36 +1,19 @@
 <!DOCTYPE html>
-<html lang="en-US">
-<head>
-  <meta charset="utf-8">
-  <title>Tzunior's Table {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
-  <meta name="description" content="Tzunior's Table">
-  <meta name="author" content="Eleni Harlan">
-  <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.baseurl}}/blog.rss' />
-  <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
-  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
-  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/main.css">
-  <link rel="stylesheet" href="{{site.baseurl}}/responsive-nav.css">
-  <script src="{{site.baseurl}}/site.js"></script>
-  <script src="{{site.baseurl}}/responsive-nav.js"></script>
-</head>
-<body class='wrap'>
+<html>
 
-{% if page.splash %}
-    <div class="splash align-center" style="background-image:url('{{page.splash}}');">
-        {% include nav.html %}
-        <h2 class='headline'>{{page.title}}</h2>
+  {% include head.html %}
+
+    <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrap">
+      {{ content }}
+      </div>
     </div>
-{% else %}
-    {% include nav.html %}
-{% endif %}
 
+    {% include footer.html %}
 
-{{content}}
-
-{% include footer.html %}
-
-<script src='{{site.baseurl}}/site.js'></script>
-<script>
-var nav = responsiveNav(".nav-collapse");
-</script>
-</body>
+    </body>
+</html>

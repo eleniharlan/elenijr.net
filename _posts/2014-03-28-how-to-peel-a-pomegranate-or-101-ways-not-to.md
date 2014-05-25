@@ -1,7 +1,7 @@
 ---
-layout: blog
+layout: default
 category: blog
-published: false
+published: true
 title: "How to peel a pomegranate, or 101 ways not to"
 splash: "https://farm8.staticflickr.com/7050/13469933974_6dbd412cd1_z_d.jpg"
 comments: true
