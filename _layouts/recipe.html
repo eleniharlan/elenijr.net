@@ -1,11 +1,15 @@
 ---
-layout: default
+layout: post
 ---
 
-<div class='main-column'>
+<div id='main-column'>
+	<header class="post-header">
+    	<h2>{{ page.title }}</h1>
+    	<p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    </header>
 	{{content}}
 </div>
-<div class='sidebar'>
+<div id='sidebar'>
 	{% include sidebar.html %}
 </div>
 <script>

@@ -17,7 +17,7 @@ body {
   color: #555;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; font-family: 'Bitter', serif; }
 
 a {
   color: #489429; 
@@ -52,6 +52,7 @@ a:hover   { color: #000;}
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   background-color: white;
+  font-family: 'Bitter', serif;
 }
 
 .site-title,
@@ -97,19 +98,6 @@ div.splash {
 div.headline-wrapper{
   display: table-cell;
   vertical-align: middle;
-}
-
-/* 2 column recipe post */
-.main-column {
-    float: left; 
-    width: 62.5%;
-}
-
-.sidebar {
-    float: left;
-    width: 27.5%;
-    padding-left: 10%;
-    font-size: 16px;
 }
 
 /* Disqus comments */
@@ -191,13 +179,14 @@ div#disqus_thread{
 /* Home styles */
 /* ----------------------------------------------------------*/
 
-.home h1 { margin-bottom: 25px; }
+.home h1 { font-size: 30px; margin-bottom: 25px; }
 
 .posts { list-style-type: none; }
 
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
+  font-family: 'Bitter', serif;
   font-size: 24px;
   letter-spacing: -1px;
   line-height: 1;
@@ -217,7 +206,7 @@ div#disqus_thread{
 
 .post-header h1 {
   font-size: 42px;
-  letter-spacing: -1.75px;
+  letter-spacing: -1.25px;
   line-height: 1;
   font-weight: 300;
 }
@@ -241,6 +230,31 @@ h2.headline {
 
 }
 
+/* 2 column recipe post */
+#main-column {
+    float: left; 
+    width: 62.5%;
+    margin-top: 0px;
+}
+
+#sidebar {
+    float: left;
+    width: 27.5%;
+    padding-left: 10%;
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+#main-column *:nth-child(1){
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+#sidebar *:nth-child(1){
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
 
 .post-content { margin: 0 0 30px; }
 
@@ -254,7 +268,7 @@ h2.headline {
 .post-content h5,
 .post-content h6 {
   line-height: 1;
-  font-weight: 300;
+  font-weight: 400;
   margin: 40px 0 20px;
 }
 
@@ -461,11 +475,11 @@ h2.headline {
     height: auto;
   }
 
-  .main-column {
+  #main-column {
     width: 100%;
   }
 
-.sidebar {
+  #sidebar {
     float: left;
     width: 85%;
     margin-top: 20px;
