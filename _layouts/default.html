@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
-    <body>
-
+{% include head.html %}
+<body>
     {% include header.html %}
-
     <div class="page-content">
-      <div class="wrap">
-      {{ content }}
-      </div>
+        <div class="wrap">
+            {{ content }}
+            {% if page.comments %}
+                {% include disqus.html %}
+            {% endif %}
+        </div>
     </div>
 
     {% include footer.html %}
