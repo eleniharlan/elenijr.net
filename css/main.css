@@ -260,13 +260,13 @@ h1.headline {
 }
 
 /* 2 column recipe post */
-#main-column {
+.main-column {
     float: left; 
     width: 62.5%;
     margin-top: 0px;
 }
 
-#sidebar {
+.sidebar {
     float: left;
     width: 37.5%;
     padding-left: 6%;
@@ -274,23 +274,23 @@ h1.headline {
     margin-top: 0px;
 }
 
-#main-column *:nth-child(1){
+.main-column *:nth-child(1){
   margin-top: 0px;
   padding-top: 0px;
 }
 
-div#sidebar h4 {
+div.sidebar h4 {
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
 
-#sidebar *:nth-child(1){
+.sidebar *:nth-child(1){
   margin-top: 0px;
   padding-top: 0px;
 }
 
-div#sidebar ul {
+div.sidebar ul {
   margin-left: 0em;
 }
 
@@ -548,9 +548,16 @@ p.photo-caption {
     height: auto;
   }
 
-  #main-column {
+  .main-column {
     width: 100%;
   }
+
+  .sidebar {
+    width: 100%;
+    padding-left: 0%;
+
+  }
+
 
   .post-header h1 { font-size: 36px; }
   .post-content h2 { font-size: 28px; }
