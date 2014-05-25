@@ -1,6 +1,6 @@
 ---
 layout: recipe
-category: recipe
+category: recipes
 published: true
 title: Imam Biyaldi
 splash: "/img/post_img/imam-biyaldi-01.jpg"
