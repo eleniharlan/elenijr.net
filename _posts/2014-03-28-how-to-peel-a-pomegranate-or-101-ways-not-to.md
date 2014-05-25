@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 category: blog
 published: true
 title: "How to peel a pomegranate, or 101 ways not to"
