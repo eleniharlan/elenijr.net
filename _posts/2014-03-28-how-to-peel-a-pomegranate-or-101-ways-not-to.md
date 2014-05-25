@@ -18,16 +18,18 @@ Like most pomegranate appreciaters, I used to find getting to the juicy fruits a
 Eleni Sr, ever the pragmatist, just goes for plonking a bowl in a deep sink and getting the seeds out as quickly as possible. This is definitely the least messy of the fast methods but I end up picking out a lot of pith and mushy seeds.
 
 ## Water peeling
-j
+
 My brother on the other hand has devised a no-mess method of putting the pomegranate in a bowl of water, and getting the seeds out that way. I haven't actually tried this, but he claims the seeds all 'float to the top' and you don't get juice everywhere. But all that precious juice ends up diluted in so much water! And again, doesn't pith float? Also, they live in a county in the US that frequently has drought alerts. Bowls of water are quickly abandoned.
 
-### Yotam's spoon whacking method
+## Yotam's spoon whacking method
+
 Made famous by the authoritative Ottolenghi, this particular method perhaps aggrieves me the most. It invovles cutting the pom in half and then holding it over a bowl and whacking it with a spoon. Not only does this make a huge mess, all the seeds get mushy and bruised so they don't retain their beautiful shape and you lose loads of the juices. I also believe this really doesn't take less time, and again you're left with the few nasty seeds that you wouldn't want to include, so unless you have a perfect pomegranate, you're going to get in trouble, and why would you whack a perfect pomegranate??
 
 ## Steroidal spoon-whacking
 
-This is a [10-minute video](http://lifehacker.com/5895852/deseed-a-pomegranate-in-10-seconds-using-a-wooden-spoon) of a guy explaining how you'll never have to take 10 minutes to peel a pomegranate again, because his method is so quick it only takes 10 seconds or something. Maybe it would work as well as he claims if my hands were as big as his are. But again, I think whacking a pomegranate is one of the current food world's greatest travesties. 
-<iframe width="560" height="315" src="//www.youtube.com/embed/jJ7dk9nDR-k" frameborder="0" allowfullscreen></iframe> 
+This is a [10-minute video](http://lifehacker.com/5895852/deseed-a-pomegranate-in-10-seconds-using-a-wooden-spoon) of a guy explaining how you'll never have to take 10 minutes to peel a pomegranate again, because his method is so quick it only takes 10 seconds or something. Maybe it would work as well as he claims if my hands were as big as his are. But again, I think whacking a pomegranate is one of the current food world's greatest travesties.
+
+<iframe width="100%" height="315" src="//www.youtube.com/embed/jJ7dk9nDR-k" frameborder="0" allowfullscreen></iframe> 
 
 ## The lebanese mother or vegan vamp
 
