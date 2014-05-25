@@ -13,7 +13,7 @@ body {
   font-size: 18px;
   line-height: 1.5;
   font-weight: 300;
-  background-color: #fdfdfd;
+  background-color: #eee;
   color: #555;
 }
 
@@ -453,7 +453,7 @@ h2.headline {
   h2.headline { 
     font-size: 28px;
     border: solid 6px #fff;
-    max-width: 300px;
+    max-width: 200px;
   }
 
   div.wrap img {
