@@ -239,8 +239,8 @@ h2.headline {
 
 #sidebar {
     float: left;
-    width: 27.5%;
-    padding-left: 10%;
+    width: 31.5%;
+    padding-left: 6%;
     font-size: 16px;
     margin-top: 0px;
 }
@@ -250,15 +250,29 @@ h2.headline {
   padding-top: 0px;
 }
 
+div#sidebar h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
 #sidebar *:nth-child(1){
   margin-top: 0px;
   padding-top: 0px;
 }
 
+div#sidebar ul {
+  margin-left: 0em;
+}
+
+div#flickr img {
+  max-width: 100%;
+  height: auto;
+}
 
 .post-content { margin: 0 0 30px; }
 
-.post-content > * { margin: 20px 0; }
+.post-content > * { margin: 20px 0; line-height: 1.4; }
 
 
 .post-content h1,
@@ -299,6 +313,11 @@ h2.headline {
 
 .post-content ul,
 .post-content ol { padding-left: 20px; }
+.post-content li { margin-bottom: 10px; line-height: 1.25; }
+
+.post-content p {
+  margin-bottom: 20px;
+}
 
 .post pre,
 .post code {
@@ -481,12 +500,11 @@ h2.headline {
 
   #sidebar {
     float: left;
-    width: 85%;
-    margin-top: 20px;
-    padding-left: 15px;
+    width: 100%;
+    padding-left: 0%;
+    margin-top: 30px;
     font-size: 18px;
   }
-
 
 
   .post-header h1 { font-size: 36px; }
