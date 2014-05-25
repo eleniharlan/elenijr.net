@@ -122,16 +122,16 @@ prose:
           element: "checkbox"
           label: "Allow comments for this post?"
           value: true
-    _posts/blog:
+    _posts/post:
       - name: "category"
         field:
           help: "Select a category for this post."
           element: "select"
-          options: ["blog", "review"]
+          options: ["post", "review"]
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "post"
       - name: "title"
         field:
           element: "text"
