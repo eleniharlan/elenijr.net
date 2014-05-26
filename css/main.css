@@ -205,11 +205,6 @@ div#disqus_thread{
 
 .home h1 { font-size: 30px; margin-bottom: 25px; }
 
-.home div.column-half {
-  width: 50%;
-  float: left;
-}
-
 .posts { list-style-type: none; }
 
 .posts li { margin-bottom: 30px; }
@@ -363,6 +358,13 @@ div#flickr img {
 
 .post ul,
 .post ol { margin-left: 1.35em; }
+
+.postindex ul, 
+.postindex ol {
+  margin-left: 0em;
+  padding-left: 0px;
+  font-size: 16px;
+}
 
 /* Meta */
 

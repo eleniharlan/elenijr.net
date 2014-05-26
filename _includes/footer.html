@@ -6,7 +6,9 @@
 
     <div class="footer-col-1 column">
       <ul>
-        <li>{{ site.title }}</li>
+        <li>
+          <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        </li>
         <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
       </ul>
     </div>
