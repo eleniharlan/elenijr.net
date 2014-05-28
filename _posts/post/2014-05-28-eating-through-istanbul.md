@@ -4,7 +4,7 @@ published: false
 title: Eating through Istanbul
 category: post
 comments: true
-splash: "<a href=\"https://www.flickr.com/photos/elenijr/14008221696\" title=\"IMG_2284 by Eleni harlan, on Flickr\"><img src=\"https://farm8.staticflickr.com/7130/14008221696_b50897bd18_b.jpg\" width=\"1024\" height=\"768\" alt=\"IMG_2284\"></a> "
+splash: "https://www.flickr.com/photos/elenijr/14008221696\" title=\"IMG_2284 by Eleni harlan, on Flickr\"><img src=\"https://farm8.staticflickr.com/7130/14008221696_b50897bd18_b.jpg\" width=\"1024\" height=\"768\" alt=\"IMG_2284\""
 teaser: "My birthday fell on Easter this year and turned out to be a great time to go away with the sweetie. Istanbul had been on our list for a long time. I’d been there as a kid and remembered only a handful of things- snow falling in the square outside our hotel when we arrived, the great dome of Agia Sofia, and the more modest cast iron domes at a gozleme place we managed to eat at every day as far as I can remember. In my child’s memory we sat on arabic style cushions whilst exotic mustachioed men glided and twirled around calling out orders to the gozleme makers, bringing them fresh and hot to our table."
 tags: 
   - Istanbul
