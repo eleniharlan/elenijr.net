@@ -4,7 +4,7 @@ published: false
 title: Eating through Istanbul
 category: post
 comments: true
-splash: "<a href=\"https://www.flickr.com/photos/elenijr/14008221696\" title=\"IMG_2284 by Eleni harlan, on Flickr\"><img src=\"https://farm8.staticflickr.com/7130/14008221696_bcb14910f5_h.jpg\" width=\"1600\" height=\"1200\" alt=\"IMG_2284\"></a>"
+splash: "https://farm8.staticflickr.com/7130/14008221696_bcb14910f5_h.jpg"
 teaser: "You don't have to live in London for long to become an avid appreciator of Turkish food and cooking, and Istanbul, Constantinoupoli, or as it's still affectionately called by the Greek diaspora 'The City'- is clearly the place to go to get the most mileage out of a heady mix of mediterranean, middle eastern and asian cuisines."
 tags: 
   - Istanbul
