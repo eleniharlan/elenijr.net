@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Eating through Istanbul
 category: post
 comments: true
