@@ -538,7 +538,9 @@ p.photo-caption {
     margin: 0;
   }
 
-  h1.headline { 
+  div.splash { height: 300px; }
+
+  h1.headline {
     font-size: 28px;
     border: solid 6px #fff;
     max-width: 200px;
