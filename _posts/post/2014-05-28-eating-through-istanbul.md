@@ -35,4 +35,8 @@ Food is not gourmet or artisan, it is full of fresh and unusual local vegetables
 <a href="https://www.flickr.com/photos/elenijr/14008258156" title="IMG_2345 by Eleni harlan, on Flickr"><img src="https://farm8.staticflickr.com/7459/14008258156_a8beb4c857_c.jpg" width="800" height="600" alt="IMG_2345"></a>
 *The salad bar at [Ciya Sofrasi](http://www.newyorker.com/reporting/2010/04/19/100419fa_fact_batuman) is a panoply of aromatic bitter herbed salads, unidenitiable nutty grains, rich and artisanally crafted dolma and spreads- you piled it all onto a plate which was then weighed and priced accordingly*
 
+###Up next...
+
 Is it Turkey’s exclusion from the EU which protects it from westernisation? Is it the melting pot of cultures and continents which defines Istanbul? I am far from qualified to answer but it was exciting to see a place where these age-old favourites are genuinely popular, and not an occasional ‘nod’ to past traditions.
+
+In my very limited time there, there was much inspiration to be found- small plates for breakfast, thick yoghurt at every meal, special slow cooked beans and pulses, flatbreads, oh the flatbreads... all will find its way to my table soon!
