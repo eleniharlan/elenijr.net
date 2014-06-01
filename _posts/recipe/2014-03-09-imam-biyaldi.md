@@ -3,7 +3,7 @@ layout: recipe
 category: recipes
 published: true
 title: Imam Biyaldi
-splash: "https://farm6.staticflickr.com/5489/14135541037_9a0f7911bc_o.jpg"
+splash: "https://farm4.staticflickr.com/3509/13089396234_3e91b82e2d_o.jpg"
 teaser: "Imam Biyaldi means ‘the imam [priest] fainted’ – ostensibly because of the amount of oil in this dish, or perhaps he was just swooning over the perfect combination of smoky, fluffy aubergines, sweet gooey onions and tart tomato."
 tags: 
   - greece
