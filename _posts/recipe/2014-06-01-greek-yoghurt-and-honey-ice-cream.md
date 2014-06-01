@@ -15,10 +15,8 @@ ingredient_6: 150g roasted chopped walnuts
 ingredient_7: "2-4 tbsp aromatic runny honey"
 tags: 
   - greece
-  - Ice cream
-  - Walnuts
-  - Honey
-  - Yoghurt
+  - yoghurt
+  - ice cream
 splash: "https://farm3.staticflickr.com/2905/14322184424_32e59eb632_o.jpg"
 flickr: "72157644549913710"
 ---
