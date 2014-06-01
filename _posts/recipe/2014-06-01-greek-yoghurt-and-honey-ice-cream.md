@@ -19,11 +19,12 @@ tags:
   - ice cream
 splash: "https://farm3.staticflickr.com/2905/14322184424_32e59eb632_o.jpg"
 flickr: "72157644549913710"
+teaser: "Summertime always means getting the icecream maker out. Our old flat had a great sun-drenched front step and many afternoons were spent trying out different flavours on friends. Some of my favourites use things we grew on that front step- thyme leaves, rosemary blossom, lavender- gently diffused in the milk for the custard these fragrant herbs create a refreshing treat."
 ---
 
 ## Greek yoghurt and honey ice cream
 
-Summertime always means getting the icecream maker out. Our old flat had a great sun-drenched front step and many afternoons were spent trying out different flavours on friends. Some of my favourites use things we grew on that front step- thyme leaves, rosemary blossom, lavender- gently diffused in the milk for the custard these fragrant herbs create a refreshing treat.
+*Summertime always means getting the icecream maker out. Our old flat had a great sun-drenched front step and many afternoons were spent trying out different flavours on friends. Some of my favourites use things we grew on that front step- thyme leaves, rosemary blossom, lavender- gently diffused in the milk for the custard these fragrant herbs create a refreshing treat.*
 
 ###back to the roots
 
