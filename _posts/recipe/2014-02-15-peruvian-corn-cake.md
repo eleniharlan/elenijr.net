@@ -26,6 +26,7 @@ flickr: "https://www.flickr.com/photos/elenijr/sets/72157644950500392/"
 A glossy cookbook is always a safe bet if you need a present to buy me, and Ceviche‘s cookbook, which was gifted to me recently, is no exception. I’ve only eaten at the restaurant once, sitting at the tiny but cosy bar where we nibbled on slivered beef heart skewers and sipped neat pisco, which reminded me of the tsipouro which is served at all hours of the day in island cafes in Greece. Tsipouro is my drink of choice on idle summer mornings on the islands, where you’re served a tiny bottle with a bowl of ice and a few bits of cheese and olives. For less than 2 euros you’ve got enough entertainment for a couple hours at least.
 
 <a href="https://www.flickr.com/photos/elenijr/14298834046" title="tsipouro by Eleni Harlan, on Flickr"><img src="https://farm6.staticflickr.com/5549/14298834046_a2189f4f16_o.jpg" width="300" height="243" alt="tsipouro"></a>
+
 *Tsipouro is a classic pre-lunch tipple at Greek island cafes*
 
 The book has lots of vibrant photography and intriguing suggestions (e.g.- if you can’t get a hold of any guinea pig for your stew, rabbit makes a good substitute). I particularly like chef Martin Morales’ personal perspective on what each dish means to him and the process of introducing Peruvian cooking to Londoners through his quirky hole-in-the-wall restaurant in Soho.
