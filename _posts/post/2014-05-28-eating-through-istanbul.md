@@ -28,6 +28,8 @@ I’m sure I’d much romanticised that place but having returned back to [*i Po
 <a href="https://www.flickr.com/photos/elenijr/14051324463" title="IMG_2234 by Eleni harlan, on Flickr"><img src="https://farm3.staticflickr.com/2916/14051324463_b7ca1f0622_c.jpg" width="800" height="600" alt="IMG_2234"></a>
 *Breakfast at [Van Kahavaltı Evi](http://istanbuleats.com/2009/04/van-kahavalti-evi-the-kurdish-breakfast-club/) in Beyoglu included a pile of fresh tomatoes, cucumbers and herbs, an enormous basket of freshly baked breads, clotted cream with honeycomb, nutella, tahini with pekmez, muhammara and about 8 other small plates.*
 
+###Greens to discover by the kilo
+
 Food is not gourmet or artisan, it is full of fresh and unusual local vegetables, and simple, savoury flavours. I saw many similarities with Greek cuisine but also many differences. A lot of things that were once-common in Greece and are now hard-to-find, were on every street corner in Istanbul- the turkish coffee kiosks brewing their *kahvesi* over hot sand fires, the milk bars selling fresh farm yoghurt and syrupy pastries, [*borek* shops](http://lizzieeatslondon.blogspot.com/search/label/Istanbul)  where they hack the borek into bite size pieces and sell it to you by weight.
 
 <a href="https://www.flickr.com/photos/elenijr/14008258156" title="IMG_2345 by Eleni harlan, on Flickr"><img src="https://farm8.staticflickr.com/7459/14008258156_a8beb4c857_c.jpg" width="800" height="600" alt="IMG_2345"></a>
