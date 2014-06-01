@@ -1,7 +1,7 @@
 ---
 layout: recipe
 category: recipes
-published: false
+published: true
 title: Peruvian Corn Cake
 splash: "https://farm3.staticflickr.com/2903/14298834846_2ee9e94beb_o.jpg"
 teaser: "A glossy cookbook is always a safe bet if you need a present to buy me, and Ceviche‘s cookbook, which was gifted to me recently, is no exception."
