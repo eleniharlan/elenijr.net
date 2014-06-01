@@ -19,6 +19,8 @@ tags:
   - Walnuts
   - Honey
   - Yoghurt
+splash: "https://farm3.staticflickr.com/2905/14322184424_32e59eb632_o.jpg"
+flickr: "72157644549913710"
 ---
 
 ## Greek yoghurt and honey ice cream
