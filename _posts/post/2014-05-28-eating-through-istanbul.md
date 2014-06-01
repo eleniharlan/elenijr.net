@@ -14,7 +14,7 @@ flickr: "https://www.flickr.com/photos/elenijr/sets/72157644839668956/"
 
 ## Eating through Istanbul
 
-You don't have to live in London for long to become an avid appreciator of Turkish food and cooking, and Istanbul, Constantinoupoli, or as it's still affectionately called by the Greek diaspora 'The City'- is clearly the place to go to get the most mileage out of a heady mix of mediterranean, middle eastern and asian cuisines.
+*You don't have to live in London for long to become an avid appreciator of Turkish food and cooking, and Istanbul, Constantinoupoli, or as it's still affectionately called by the Greek diaspora 'The City'- is clearly the place to go to get the most mileage out of a heady mix of mediterranean, middle eastern and asian cuisines.*
 
 ### The domes of Istanbul
 
