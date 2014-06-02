@@ -28,16 +28,16 @@ teaser: "Summertime always means getting the icecream maker out. Our old flat ha
 
 ###back to the roots
 
-Unsurprisingly given the amount of yoghurt consumption in our household, I've tested a few frozen yoghurt recipes over the years, but they always come out too hard or overly frozen- the flavour is good but the texture is not there. The alternative of making a custard-based yoghurt flavour ice cream usually means you lose the yoghurty flavour. So I was excited to see a simple yoghurt ice cream recipe in Maria Elia's new cookbook *Smashing Plates*.
+Unsurprisingly given the amount of yoghurt consumption in our household, I've tested a few frozen yoghurt recipes over the years, but they always come out too hard or overly frozen- the flavour is good but the texture is not there. The alternative of making a custard-based yoghurt flavour ice cream usually means you lose the yoghurty flavour. So I was excited to see a simple and promising yoghurt ice cream recipe in Maria Elia's new cookbook *Smashing Plates*.
 
-I think you only need one [greek cookery book](http://uk.phaidon.com/store/food-cook/vefas-kitchen-9780714849294/) really to cover all your bases but Elia's book is a rare find in succeeding to bring a contemporary London-style aesthetic to traditional Greek and Greek Cypriot dishes. There are some great variations on classic dishes I'm excited about fennel tzatziki, quince skordalia, sheftalia meatballs with pine needles, pickled pigeon and pickled pigeon; I'm even tempted by the fig leaf pasta (the first and last time I made pasta four years ago I swore if I ever made it again it would be too soon). 
+I think you only need one [greek cookery book](http://uk.phaidon.com/store/food-cook/vefas-kitchen-9780714849294/) really to cover all your bases but Elia's book is a rare find in succeeding to bring a contemporary aesthetic to traditional Greek and Greek Cypriot dishes. There are some great variations on classic dishes: I'm excited about fennel tzatziki, quince skordalia, sheftalia meatballs with pine needles, pickled pigeon and pickled pigeon; I'm even tempted by the fig leaf pasta (the first and last time I made pasta four years ago I swore if I ever made it again it would be too soon). 
 
 ###a classic on ice
 
-I am always on the lookout for easy ice cream recipes that I can whip up without the custard base/ ice bath steps. Sometimes life is just not accommodating to that many steps to make a sweet treat. So far the winner has been David Lebovitz's peanut butter icecream, which is really very suprisingly excellent, and I like peanut butter a lot. For Maria's recipe I cut the sugar in half (I find I can do this with most icecream recipes) and added some honey I picked up at a food market in Istanbul.
+I am always on the lookout for easy ice cream recipes that I can whip up without the custard base/ ice bath steps. Sometimes life is just not accommodating to that many steps to make a sweet treat. So far the winner has been David Lebovitz's peanut butter icecream, which is really very suprisingly excellent, and I like peanut butter a lot. For Maria's recipe I cut the sugar in half (I find I can do this with most ice cream recipes) and added some honey I picked up at a market in Istanbul.
 
 ###Greek yoghurt and honey ice cream adapted from Maria Elia's *Smashing Plates*
 
-Mix all ingredients except yoghurt, walnuts and honey in a big glass bowl, or use a handheld whizzer. Add the yoghurt and mix thoroughly. Taste for sweetness and add some honey if you want it sweeter. 
+Mix all ingredients except yoghurt, walnuts and honey in a big glass bowl, or use a handheld electric whizzer. Add the yoghurt and mix thoroughly. Taste for sweetness and add some honey if you want it sweeter. 
 
-Chill thoroughly and churn in your icecream maker according to instructions. When it is nearly done, add the walnuts then decant to a freezer proof container. Drizzle the honey over the top of the container and gently swirl through so it stays as a ripple.
+Chill thoroughly and churn in your ice cream maker according to instructions. When it is nearly done, add the walnuts then decant to a freezer proof container. Drizzle the honey over the top of the container and gently swirl through so it stays as a ripple.
