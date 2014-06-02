@@ -1,7 +1,7 @@
 ---
 layout: recipe
 category: recipe
-published: false
+published: true
 title: Greek yoghurt and honey ice cream
 comments: true
 ingredient_1: about 400g greek or turkish full fat yoghurt
