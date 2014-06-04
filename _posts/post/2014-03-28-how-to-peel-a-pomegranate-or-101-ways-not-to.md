@@ -1,6 +1,8 @@
 ---
 layout: post
-category: blog
+category: 
+  - blog
+  - post
 published: true
 teaser: "Like Persephone, pomegranates are what get me through winter. I love their sharpness, the juicy crunch of the seeds, and how they seem to be able to replace tomatoes when the latter are a sorry sight to see. But most of all I love the morning ritual of peeling one."
 title: "How to peel a pomegranate, or 101 ways not to"
@@ -10,12 +12,12 @@ tags:
   - Pomegranate
 ---
 
-Like Persephone, pomegranates are what get me through winter. I love their sharpness, the juicy crunch of the seeds, and how they seem to be able to replace tomatoes when the latter are a sorry sight to see. But most of all I love the morning ritual of peeling one.
+<div class="intro">Like Persephone, pomegranates are what get me through winter. I love their sharpness, the juicy crunch of the seeds, and how they seem to be able to replace tomatoes when the latter are a sorry sight to see. But most of all I love the morning ritual of peeling one.
 
 ## Fast and furious
 
 Like most pomegranate appreciaters, I used to find getting to the juicy fruits a messy and tedious task. Unsurprisingly the best way to go about doing this is a matter of much discussion in my family, each of us proposing different methods.
-Eleni Sr, ever the pragmatist, just goes for plonking a bowl in a deep sink and getting the seeds out as quickly as possible. This is definitely the least messy of the fast methods but I end up picking out a lot of pith and mushy seeds.
+Eleni Sr, ever the pragmatist, just goes for plonking a bowl in a deep sink and getting the seeds out as quickly as possible. This is definitely the least messy of the fast methods but I end up picking out a lot of pith and mushy seeds.</div>
 
 ## Water peeling
 
