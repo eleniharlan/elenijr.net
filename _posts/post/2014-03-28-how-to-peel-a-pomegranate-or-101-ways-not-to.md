@@ -10,12 +10,12 @@ tags:
   - Pomegranate
 ---
 
-<div class="intro">Like Persephone, pomegranates are what get me through winter. I love their sharpness, the juicy crunch of the seeds, and how they seem to be able to replace tomatoes when the latter are a sorry sight to see. But most of all I love the morning ritual of peeling one.
+Like Persephone, pomegranates are what get me through winter. I love their sharpness, the juicy crunch of the seeds, and how they seem to be able to replace tomatoes when the latter are a sorry sight to see. But most of all I love the morning ritual of peeling one.
 
 ## Fast and furious
 
 Like most pomegranate appreciaters, I used to find getting to the juicy fruits a messy and tedious task. Unsurprisingly the best way to go about doing this is a matter of much discussion in my family, each of us proposing different methods.
-Eleni Sr, ever the pragmatist, just goes for plonking a bowl in a deep sink and getting the seeds out as quickly as possible. This is definitely the least messy of the fast methods but I end up picking out a lot of pith and mushy seeds.</div>
+Eleni Sr, ever the pragmatist, just goes for plonking a bowl in a deep sink and getting the seeds out as quickly as possible. This is definitely the least messy of the fast methods but I end up picking out a lot of pith and mushy seeds.
 
 ## Water peeling
 
