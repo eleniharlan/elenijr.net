@@ -31,7 +31,7 @@ teaser: "Summertime always means getting the ice cream maker out. Our old flat h
 
 Unsurprisingly given the amount of yoghurt consumption in our household, I've tested a few frozen yoghurt recipes over the years, but they always come out too hard or overly frozen- the flavour is good but the texture is not there. The alternative of making a custard-based yoghurt ice cream usually means you lose the tart fresh flavour. So I was excited to see a simple and promising recipe in Maria Elia's new cookbook *Smashing Plates*.
 
-I think you only need one [greek cookery book](http://uk.phaidon.com/store/food-cook/vefas-kitchen-9780714849294/) really to cover all your bases but Elia's book is a rare find in succeeding to bring a contemporary aesthetic to traditional Greek and Greek Cypriot dishes. There are some great variations on classic dishes: I'm excited about fennel tzatziki, quince skordalia, sheftalia meatballs with pine needles, pickled pigeon and pickled pigeon; I'm even tempted by the fig leaf pasta (the first and last time I made pasta four years ago I swore I'd never do it again).
+I think you only need one [greek cookery book](http://uk.phaidon.com/store/food-cook/vefas-kitchen-9780714849294/) really to cover all your bases but Elia's book is a rare find in succeeding to bring a contemporary aesthetic to traditional Greek and Greek Cypriot dishes. There are some great variations on classic dishes: I'm excited about fennel tzatziki, quince skordalia, sheftalia meatballs with pine needles, pickled pigeon; I'm even tempted by the fig leaf pasta (the first and last time I made pasta four years ago I swore I'd never do it again).
 
 ###a classic on ice
 
