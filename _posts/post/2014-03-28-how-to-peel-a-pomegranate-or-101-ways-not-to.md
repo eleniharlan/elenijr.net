@@ -1,7 +1,7 @@
 ---
 layout: post
 category: 
-  - blog
+  - ""
   - post
 published: true
 teaser: "Like Persephone, pomegranates are what get me through winter. I love their sharpness, the juicy crunch of the seeds, and how they seem to be able to replace tomatoes when the latter are a sorry sight to see. But most of all I love the morning ritual of peeling one."
