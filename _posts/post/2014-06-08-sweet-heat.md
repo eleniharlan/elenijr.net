@@ -17,4 +17,10 @@ Friday was one of those blazing hot summer days in London (I'm certainly not com
 
 But I also like the burn. Growing up in more temperate climates, I welcome the heat both climate-wise and in my food. If I can feel my skin crackling in the sun, or tears in my eyes from chilies, this is good. Slowly rolling down Peckham Rye Lane on my bike, sipping Chris's concoction in the late afternoon sun, my mind was tingling with fruit/heat combinations. Watermelon equals Greek summer for me. My family get through one big one a day probably, breaking it out at the end of the meal just before siesta time. 
 
+###Mango, sweet and hot pepper salsa
+
+<a href="https://www.flickr.com/photos/elenijr/14187621837" title="mango salsa on the table by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3896/14187621837_8a22422155_o.jpg" width="4288" height="2848" alt="mango salsa on the table"></a>
+
 I had a big ripe mango at home, half a cucumber and some jarred red peppers and put together a mango salsa which reminded me of that juice and the blazing heat of a proper summer. I doused my salsa in a scotch bonnet vinegar sauce I bought in a [Cuban sandwich shop](http://www.oldhavanaeats.com/) in North Carolina (yes, really) and we ate it with sticky rice and fried plantain: a perfect lazy Friday dinner on a summer night.
+
+<a href="https://www.flickr.com/photos/elenijr/14394243513" title="mango salsa, sticky rice, fried plantain by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3874/14394243513_5840ff4f51_o.jpg" width="4288" height="2848" alt="mango salsa, sticky rice, fried plantain"></a>
