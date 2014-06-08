@@ -13,6 +13,7 @@ ingredient_2: 200g feta cheese or similar or 100g feta and 100g ricotta or other
 ingredient_3: "a handful of scapes, chopped"
 ingredient_4: olive oil for frying
 ingredient_5: turkish chilli flakes
+splash: "https://farm3.staticflickr.com/2926/14191089030_c35facb9c2_c.jpg"
 ---
 
 ## Tiroscaperi
