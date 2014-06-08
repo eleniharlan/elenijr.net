@@ -17,7 +17,7 @@ Friday was one of those blazing hot summer days in London (I'm certainly not com
 
 But I also like the burn. Growing up in more temperate climates, I welcome the heat both climate-wise and in my food. If I can feel my skin crackling in the sun, or tears in my eyes from chilies, this is good. Slowly rolling down Peckham Rye Lane on my bike, sipping Chris's concoction in the late afternoon sun, my mind was tingling with fruit/heat combinations. Watermelon equals Greek summer for me. My family get through one big one a day probably, breaking it out at the end of the meal just before siesta time. 
 
-###Mango, sweet and hot pepper salsa
+###Mango, sweet- and hot-pepper salsa
 
 <a href="https://www.flickr.com/photos/elenijr/14187621837" title="mango salsa on the table by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3896/14187621837_245c5ede8e_c.jpg" width="800" height="531" alt="mango salsa on the table"></a>
 
