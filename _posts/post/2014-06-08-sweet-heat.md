@@ -4,6 +4,9 @@ published: false
 title: Sweet heat
 category: post
 comments: true
+teaser: "Juicy fruits like watermelon and mango are ideal companions when a heat wave in the city sets in. Adding some spicy heat, like drinking hot tea in the desert, has a nice congruence, keeping the heat up in the early evening as the sun goes down."
+splash: "https://farm6.staticflickr.com/5596/14350973996_8751566748_o.jpg"
+flickr: ""
 ---
 
 ## Sweet heat
