@@ -10,7 +10,6 @@ permalink: pretty
 permalink: /:categories/:title
 gems:
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 # Prose
 prose:
