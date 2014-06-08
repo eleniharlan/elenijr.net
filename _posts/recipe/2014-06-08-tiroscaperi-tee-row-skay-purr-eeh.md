@@ -13,7 +13,7 @@ ingredient_2: 200g feta cheese or similar or 100g feta and 100g ricotta or other
 ingredient_3: "a handful of scapes, chopped"
 ingredient_4: olive oil for frying
 ingredient_5: turkish chilli flakes
-splash: "https://farm3.staticflickr.com/2926/14191089030_c35facb9c2_c.jpg"
+splash: "https://farm4.staticflickr.com/3896/14353950016_ab9a9aab06_c.jpg"
 ---
 
 ## Tiroscaperi
@@ -22,7 +22,7 @@ _**Tirokafteri**, or spicy cheese dip is a classic Greek meze typically consisti
 
 When I'm visiting family in North Carolina, I love to go to the Durham Farmer's Market on Saturdays. Without the space constraints of London, rather than one or two of each kind of produce stall, there are 20 veg stalls dominating and very little to tell them apart. But like any good market, you get to know the producers and you return to the same ones time and time again. My family's favourite is run by Helga who sells a variety of herbs, greens and squashes and has an impressive nursery. The week I was there they also had scapes, which are the curly tops of garlic (or other allium) plants. For a while we thought they were called snapes which I think is a rather amusing misnomer. 
 
-<a href="https://www.flickr.com/photos/elenijr/14190392238" title="scapes, or snapes? by Eleni Harlan, on Flickr"><img src="https://farm6.staticflickr.com/5200/14190392238_26ee8140f5_c.jpg" width="800" height="531" alt="scapes, or snapes?"></a>
+<a href="https://www.flickr.com/photos/elenijr/14191089030" title="scapes, or snapes? by Eleni Harlan, on Flickr"><img src="https://farm3.staticflickr.com/2926/14191089030_63d953f03b_z.jpg" width="640" height="425" alt="scapes, or snapes?"></a>
 
 Originally I was going to use them in tzatziki but there was a yoghurt shortage-– so now you know what to do when the yoghurt's all gone and you want to make dip.
 
