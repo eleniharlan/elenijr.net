@@ -19,8 +19,8 @@ But I also like the burn. Growing up in more temperate climates, I welcome the h
 
 ###Mango, sweet and hot pepper salsa
 
-<a href="https://www.flickr.com/photos/elenijr/14187621837" title="mango salsa on the table by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3896/14187621837_8a22422155_o.jpg" width="4288" height="2848" alt="mango salsa on the table"></a>
+<a href="https://www.flickr.com/photos/elenijr/14187621837" title="mango salsa on the table by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3896/14187621837_245c5ede8e_c.jpg" width="800" height="531" alt="mango salsa on the table"></a>
 
 I had a big ripe mango at home, half a cucumber and some jarred red peppers and put together a mango salsa which reminded me of that juice and the blazing heat of a proper summer. I doused my salsa in a scotch bonnet vinegar sauce I bought in a [Cuban sandwich shop](http://www.oldhavanaeats.com/) in North Carolina (yes, really) and we ate it with sticky rice and fried plantain: a perfect lazy Friday dinner on a summer night.
 
-<a href="https://www.flickr.com/photos/elenijr/14394243513" title="mango salsa, sticky rice, fried plantain by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3874/14394243513_5840ff4f51_o.jpg" width="4288" height="2848" alt="mango salsa, sticky rice, fried plantain"></a>
+<a href="https://www.flickr.com/photos/elenijr/14394243513" title="mango salsa, sticky rice, fried plantain by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3874/14394243513_c513215474_c.jpg" width="800" height="531" alt="mango salsa, sticky rice, fried plantain"></a>
