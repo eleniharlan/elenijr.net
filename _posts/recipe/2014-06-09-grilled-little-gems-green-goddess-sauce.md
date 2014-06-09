@@ -17,7 +17,7 @@ ingredient_6: "pickled red peppers, thinly sliced to garnish"
 teaser: "Cooked lettuce? A strange and yet age-old concept. My grandma used to make a stew which for ages I thought she called souffle (it's actually called sofrito) made with pork and lettuce. There's something quite satisfyingly perverse about putting a delicate leaf over a hot flame..."
 ---
 
-_Cooked lettuce? A strange and yet age-old concept. My grandma used to make a stew which for ages I thought she called souffle (it's actually called sofrito) made with pork and lettuce. There's something quite satisfyingly perverse about putting a delicate leaf over a hot flame..._
+_Cooked lettuce? A strange and yet age-old concept. My grandma used to make a stew which for ages I thought she called souffle (it's actually called sofrito) made with pork and lettuce. Whatever you call it, there's something quite satisfyingly perverse about putting a delicate leaf over a hot flame..._
 
 ## Grilled little gems, green goddess sauce
 
