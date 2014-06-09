@@ -37,4 +37,4 @@ Originally I was going to use them in tzatziki but there was a yoghurt shortage-
 3. with a fork whisk in a drizzle of olive oil and some chilli flakes. check for flavour and add more yoghurt/oil/chilli accordingly. It should be a fairly thick mixture. 
 4. When the scapes are ready and slightly cooled off, mix them into the cheese and yoghurt. Chill in the fridge for an hour or more to let the flavours marry.
 
-To serve, spread the cheese dip on a small dish and season with more chilli flakes and olive oil. We had ours with Eleni Sr's stuffed tomatoes and peppers.
+To serve, spread the cheese dip on a small dish and season with more chilli flakes and olive oil. We had ours with Eleni Sr's masterful stuffed tomatoes and peppers, the thick tangy yoghurt was a perfect foil to the oily vegetabley rice.
