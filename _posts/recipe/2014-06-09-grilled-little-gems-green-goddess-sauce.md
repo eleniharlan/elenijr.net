@@ -1,7 +1,7 @@
 ---
 layout: recipe
 category: recipe
-published: true
+published: false
 title: "Grilled little gems, green goddess sauce"
 comments: true
 splash: "https://farm6.staticflickr.com/5480/14190514787_c942f1a450_z.jpg"
