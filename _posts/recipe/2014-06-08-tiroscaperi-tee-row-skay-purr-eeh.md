@@ -1,7 +1,7 @@
 ---
 layout: recipe
 category: recipe
-published: false
+published: true
 title: "Tiro-scape-eri "
 comments: true
 teaser: "_Tirokafteri_, or spicy cheese dip is a classic Greek meze typically consisting of feta cheese, yoghurt and some sort of chilli or hot pepper. Each taverna manages to make it slightly differently though–– I've seen versions with pickled pepperoncini peppers, roasted mild red chillies, chilli oil... riffing on Maria Elia's tzatziki variations, this uses garlic tops or 'scapes' to flavour the cheesy dip instead of chilli."
