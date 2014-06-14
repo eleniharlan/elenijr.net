@@ -6,6 +6,10 @@ category: post
 comments: true
 splash: "https://farm4.staticflickr.com/3897/14228731497_428f51ff3b_z.jpg"
 teaser: "It's too hot in London to do much cooking this week, but there is plenty of snacking to do. The World Cup lends itself to rustling up some snacks before/during/after/between matches. For some reason my family calls snacks snackerakia..."
+tags: 
+  - greece
+  - world cup
+  - snacks
 ---
 
 ## world cup snakerakia
