@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: World Cup snackerakia
 category: post
 comments: true
