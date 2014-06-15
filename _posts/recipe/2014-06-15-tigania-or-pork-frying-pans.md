@@ -34,7 +34,3 @@ This is a great meze that is quick to prepare and easy to source. Good oregano w
 2. heat the oil in a frying pan over a medium-high (preferrable cast iron) and when it's hot, saute the pepper until they are soft but not coloured. Remove with a slotted spoon and leave to drain on some kitchen paper.
 3. make sure there is still some oil then add the pork to the pan. Leave to brown well before stirring so that all sides are well browned.
 4. deglaze with the vermouth or wine, then stir through the peppers and sprinkle over the oregano. Add the hot sauce or chilli flakes and transfer to your serving dish.
-
-
-
-
