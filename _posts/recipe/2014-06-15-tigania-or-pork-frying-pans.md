@@ -13,6 +13,7 @@ ingredient_2: 1 green bell pepper
 ingredient_3: a liberal amount of olive oil (about 1/4 c)
 ingredient_4: a large splash of dry vermouth or white wine
 ingredient_5: hot sauce such as tabasco to taste
+teaser: "Tigania (n):  1. a greek meze of morsels of fried pork with green peppers 2. frying pans"
 ---
 
 ## Tigania
