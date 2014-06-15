@@ -4,6 +4,15 @@ category: recipe
 published: false
 title: "Tigania or pork 'frying pans'"
 comments: true
+splash: "https://farm6.staticflickr.com/5073/14190547747_a3047e6b0e_z.jpg"
+flickr: "72157644665876648"
+servings: "3-4 as a meze"
+time: "15 mins prep, 10 mins cooking"
+ingredient_1: 400g pork tenderloin
+ingredient_2: 1 green bell pepper
+ingredient_3: a liberal amount of olive oil (about 1/4 c)
+ingredient_4: a large splash of dry vermouth or white wine
+ingredient_5: hot sauce such as tabasco to taste
 ---
 
 ## Tigania
