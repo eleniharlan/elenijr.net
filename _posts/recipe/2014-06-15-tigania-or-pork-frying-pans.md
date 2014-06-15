@@ -2,7 +2,7 @@
 layout: recipe
 category: recipe
 published: false
-title: "Tigania or pork 'frying pans'"
+title: "Tigania: pork 'frying pans'"
 comments: true
 splash: "https://farm6.staticflickr.com/5073/14190547747_a3047e6b0e_z.jpg"
 flickr: "72157644665876648"
