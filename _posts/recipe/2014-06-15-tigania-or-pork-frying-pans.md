@@ -1,7 +1,7 @@
 ---
 layout: recipe
 category: recipe
-published: false
+published: true
 title: "Tigania: pork 'frying pans'"
 comments: true
 splash: "https://farm6.staticflickr.com/5073/14190547747_a3047e6b0e_z.jpg"
@@ -28,7 +28,7 @@ On that occasion the name was more memorable than the dish if truth be told, but
 
 This is a great meze that is quick to prepare and easy to source. Good oregano will make a real difference here–– if you can't get the good stuff, you could just avoid it or use fresh thyme. 
 
-We picked up an excellent chilled Gamay from [Le Grappin](http://www.legrappin.com/) at Brockley Market which was not dissimilar from Oinopoleon's house red. On a sunny afternoon in Peckham, if you closed your eyes you could almost pretend you're on a seaside terrace on a Greek island. Almost. Or maybe that was the 1.5L pouch of wine we had consumed.
+We picked up an excellent chilled Gamay from [Le Grappin](http://www.legrappin.com/) at Brockley Market which was not dissimilar from Oinopoleon's house red. On a sunny afternoon in Peckham, if you closed your eyes you could almost pretend you're on a seaside terrace on a Greek island. Almost. Or maybe that was the 1.5L pouch of wine we had consumed...
 
 ###Tigania of pork and green peppers
 
