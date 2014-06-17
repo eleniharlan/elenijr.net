@@ -26,7 +26,9 @@ The first time I remember ordering _tigania_ was at a beachside taverna on the i
 
 On that occasion the name was more memorable than the dish if truth be told, but last summer in Athens _tigania_ made its mark on my palate's memory. We were at [Oinopoleon](http://www.culinarybackstreets.com/athens/2013/oinopoleion/), a bit of a hidden treasure of an institution in central Athens. They make their own rather potent and totally drinkable wine (this is really much more of a rarity than you would think in a wine producing country) and we had heard the food was decent too. The tigania were crispy, almost crunchy on the outside, but meltingly tender and came with the most savoury meat juices.
 
-This is a great meze that is quick to prepare and easy to source. Good oregano will make a real difference here–– if you can't get the good stuff, you could just avoid it or use fresh thyme.
+This is a great meze that is quick to prepare and easy to source. Good oregano will make a real difference here–– if you can't get the good stuff, you could just avoid it or use fresh thyme. 
+
+We picked up an excellent chilled Gamay from [Le Grappin](http://www.legrappin.com/) at Brockley Market which was not dissimilar from Oinopoleon's house red. On a sunny afternoon in Peckham, if you closed your eyes you could almost pretend you're on a seaside terrace on a Greek island. Almost. Or maybe that was the 1.5L pouch of wine we had consumed.
 
 ###Tigania of pork and green peppers
 
