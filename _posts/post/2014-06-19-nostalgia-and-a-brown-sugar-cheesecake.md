@@ -4,6 +4,9 @@ published: false
 title: "Nostalgia, and a brown sugar cheesecake"
 category: post
 comments: true
+splash: "https://farm6.staticflickr.com/5509/14455707524_ab7a2b5d35_z.jpg"
+flickr: "72157645290802373"
+teaser: "Food is heavy with nostalgia and memories in my family. This cheesecake has a sweetness, literal and metaphorical, in connecting me to a treasured time."
 ---
 
 ## Nostalgia
