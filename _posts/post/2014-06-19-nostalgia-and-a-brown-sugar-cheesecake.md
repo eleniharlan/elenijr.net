@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Nostalgia, and a brown sugar cheesecake"
 category: post
 comments: true
