@@ -23,7 +23,9 @@ We wanted something interesting that we wouldn't normally come across. The young
 
 Having never thought of culottes as anything besides rather fabulous lounging shorts, we turned to the internet for inspiration. We basically just did what [these guys](http://groweatgrow.blogspot.co.uk/2013/07/grilled-culotte-steak-with-chimichurri.html) did, and it was pretty excellent. If I did it again, I'd probably be more prepared for the massive flames from all that fat. It was a little terrifying.
 
-I'm nothing if not a novice griller, but I'm getting better at striking the balance between grilling enough things to make the whole rigmarole worthwhile and not slaving over the hot smoke for hours. For sides we grilled aubergines, okra and sweetcorn on the cob, and made a big greek salad for a bit of freshness. Relaxing on the back porch with an Austrian rose from [Wine Authorities](http://www.wineauthorities.com/)  in the sultry North Carolina twilight, this meal rates pretty high hangoutitude. 
+###Hangoutitude
+
+I'm nothing if not a novice griller, but I'm getting better at striking the balance between grilling enough things to make the whole rigmarole worthwhile and not slaving over the hot smoke for hours. For sides we grilled aubergines, okra and sweetcorn on the cob, and made a big greek salad for a bit of freshness. Relaxing on the back porch with an Austrian rosé from [Wine Authorities](http://www.wineauthorities.com/)  in the sultry North Carolina twilight, this meal rates pretty high hangoutitude. 
 
 <a href="https://www.flickr.com/photos/elenijr/14296166849" title="Thumbs up from Bebis by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3874/14296166849_2dc4160b81_z.jpg" width="425" height="640" alt="Thumbs up from Bebis"></a>
 
