@@ -25,7 +25,7 @@ Having never thought of culottes as anything besides rather fabulous lounging sh
 
 ###Hangoutitude
 
-I'm nothing if not a novice griller, but I'm getting better at striking the balance between grilling enough things to make the whole rigmarole worthwhile and not slaving over the hot smoke for hours. For sides we grilled aubergines, okra and sweetcorn on the cob, and made a big greek salad for a bit of freshness. Relaxing on the back porch with an Austrian rosé from [Wine Authorities](http://www.wineauthorities.com/)  in the sultry North Carolina twilight, this meal rates pretty high hangoutitude. 
+I'm nothing if not a novice griller, but I'm getting better at striking the balance between grilling enough things to make the whole rigmarole worthwhile and not slaving over the hot smoke for hours. For sides we grilled aubergines, okra and sweetcorn on the cob, and made a big greek salad for a bit of freshness. Relaxing on the back porch with an Austrian rosé from [Wine Authorities](http://www.wineauthorities.com/)  in the sultry North Carolina twilight, this meal has a lot of hangoutitude. 
 
 <a href="https://www.flickr.com/photos/elenijr/14296166849" title="Thumbs up from Bebis by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3874/14296166849_2dc4160b81_z.jpg" width="425" height="640" alt="Thumbs up from Bebis"></a>
 
