@@ -21,7 +21,7 @@ Despite the abundance of excellent places to eat meat, good butchers are few and
 
 We wanted something interesting that we wouldn't normally come across. The young butcher recommended the culotte steak, a common cut in Argentinian steak houses which has a thick layer of fat on the top and is grilled whole then cut into thin slices. The fat is charred so that it melts into a crackling-like consistency before flipping over the meat for a short cook on the other side. The result is juicy, seared crisp flesh on the outside with a tender and nearly _bleu_ inside.
 
-Having never thought of culottes as anything besides rather fabulous lounging shorts, we turned to the internet for inspiration. We basically just did what [these guys](http://groweatgrow.blogspot.co.uk/2013/07/grilled-culotte-steak-with-chimichurri.html) did, and it was pretty excellent. If I did it again, I'd probably be more prepared for the massive flames from all that fat. It was a little terrifying.
+Having never thought of culottes as anything besides rather fabulous lounging shorts, we turned to the internet for inspiration. We basically just did what [these guys](http://groweatgrow.blogspot.co.uk/2013/07/grilled-culotte-steak-with-chimichurri.html) did, and it was pretty excellent. If I did it again, I'd probably be more prepared for the massive flames from all that fat. It was a little terrifying, be warned!
 
 ###Hangoutitude
 
