@@ -16,6 +16,8 @@ Peckham Bazaar is easily one of my favourite restaurants. It manages to strike s
 
 I always leave P Baz on a high, not just because I've sampled much of their excellent Balkan wine list but also full of ideas of things I want to try to re-create. But for a long time their fava puree has stumped me. How does he get it so smooth, so smoky flavoured? I tried soaking them for 24 hours before cooking, blending the cooked pulses, even pushing the yellow lentils through a seive, but although always ended up with nice fava, nothing near what PB produce. When Maria Elia finally revealed the secret in her cookbook Smashing Plates, it was so much more obvious than all that- the trick, as with so much Greek cooking, is a bucketload of olive oil.
 
+<a href="https://www.flickr.com/photos/elenijr/14308768247" title="LU1_6210 by Eleni Harlan, on Flickr"><img src="https://farm6.staticflickr.com/5553/14308768247_d97f4c23cd_z.jpg" width="640" height="425" alt="LU1_6210"></a>
+
 My housemate at university used to joke that fava was 'poor man's hummus': I think he'll agree that this quantity of olive oil refutes that claim.
 
 ###Fava puree with putanesca garnish (adapted from Maria Elia)
