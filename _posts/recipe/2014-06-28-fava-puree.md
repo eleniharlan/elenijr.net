@@ -34,8 +34,9 @@ My housemate at university used to joke that fava was 'poor man's hummus': I thi
 ###Fava puree with putanesca garnish (adapted from Maria Elia)
 
 1. Put the lentils in fine-holed colander and rinse thoroughly under cold water to get rid of some of the starches.
-2. Put the washed fava in a medium sized saucepan along with the onion, garlic, bay and thyme.
-3. item
+2. Put the washed fava in a medium sized saucepan along with the onion, garlic, bay and thyme. Cover with plenty of water and bring to a boil, then turn down the heat to a simmer, stirring frequently and skimming the white scum off the surface.
+3. When the fava is soft (you should be able to squeeze a lentil with your fingers and have no resistance), drain it, reserving some of the cooking liquid.
+4. Discard the onion, bay and thyme and whizz the lentils with the olive oil until smooth, then add the lemon juice, and salt and pepper to taste. If it's a bit thick, add some of the reserved cooking liquid, otherwise you can discard that.
 
 
 
