@@ -4,6 +4,19 @@ category: recipe
 published: false
 title: fava puree
 comments: true
+splash: "https://farm3.staticflickr.com/2918/14308636108_a1c6542fb4_z.jpg"
+teaser: "This rustic dish sheds its 'poor man's hummus' label with an injection of olive oil"
+servings: 4 ish as a meze
+time: 45 mins
+ingredient_1: 300g fava or yellow split peas
+ingredient_2: "1 small red onion or 2 shallots, peeled but left whole"
+ingredient_3: "2 whole garlic cloves, peeled"
+ingredient_4: 1 bayleaf
+ingredient_5: a sprig of fresh thyme
+ingredient_6: 100 ml olive oil or as much as you dare
+ingredient_7: juice of 1 lemon
+flickr: "72157644998440388"
+ingredient_8: "to garnish, any or all of: a thinly sliced red onion, capers or caper leaves, chilli flakes, parsley, thinly chopped anchovies"
 ---
 
 ## A good week to be Greek
