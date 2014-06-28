@@ -8,7 +8,7 @@ splash: "https://farm6.staticflickr.com/5553/14308768247_d97f4c23cd_z.jpg"
 teaser: "This rustic dish sheds its 'poor man's hummus' label with an injection of olive oil"
 servings: 4 ish as a meze
 time: 45 mins
-ingredient_1: 300g fava or yellow split peas
+ingredient_1: 300g dried fava or yellow split peas
 ingredient_2: "1 small red onion or 2 shallots, peeled but left whole"
 ingredient_3: "2 whole garlic cloves, peeled"
 ingredient_4: 1 bayleaf
