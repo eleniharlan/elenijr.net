@@ -38,6 +38,3 @@ My housemate at university used to joke that fava was 'poor man's hummus': I thi
 3. When the fava is soft (you should be able to squeeze a lentil with your fingers and have no resistance), drain it, reserving some of the cooking liquid.
 4. Discard the onion, bay and thyme and whizz the lentils with the olive oil until smooth, then add the lemon juice, and salt and pepper to taste. If it's a bit thick, add some of the reserved cooking liquid, otherwise you can discard that.
 5. Traditional garnish is thinly sliced red onion, more olive oil and lemon juice and a bit of oregano. Sharp flavours contrast well with the creamy texture though. This time I made a sort of 'putanesca' garnish, mixing olive oil, some finely chopped anchovies, turkish chilli flakes and capers.
-
-
-
