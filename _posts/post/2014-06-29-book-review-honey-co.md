@@ -23,8 +23,12 @@ I particularly like that the cookbook has included some classic restaurant favou
 
 We made the roast chicken with apricots and a preserved lemon and mint salsa; as they say 'there are only two weeks out of the year where you can find good apricots in London, make this dish then'. This must be the lucky week. What I didn't anticipate is that the apricots turned to jam and combined with the meat juices what you get is the most delicious chutney-like gravy. It was absolute genius and super easy to prepare. I'd never preserved lemons before but their quick 1 day recipe where you slice the lemons was really easy and the perfect foil for the richness of the chicken and apricots (there's a similar recipe for a quick lemon pickle in [Jerusalem](http://www.foyles.co.uk/witem/food-drink/jerusalem,yotam-ottolenghi-sami-tamimi-9780091943745)).
 
+<a href="https://www.flickr.com/photos/elenijr/14557267181" title="LU1_6254 by Eleni Harlan, on Flickr"><img src="https://farm6.staticflickr.com/5482/14557267181_f722bc3f88_z.jpg" width="640" height="425" alt="LU1_6254"></a>
+
 We kept with the fruity theme and ate the chicken with a watermelon, tomato, black olive and feta salad (they do have a watermelon and feta recipe in their book but this is a summer staple in our household so I didn't look at it).
 
 For dessert I absolutely had to make the kadaif and feta cheesecakes. There's certainly stiff competition but it's my favourite dessert at the restaurant, and again was a really easy one to make, particularly because you can prepare all the component parts beforehand.
+
+<a href="https://www.flickr.com/photos/elenijr/14374225277" title="LU1_6269 by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3919/14374225277_08a558b3d8_z.jpg" width="640" height="425" alt="LU1_6269"></a>
 
 There are so many things I can't wait to try out myself, but Sarit and Itamar don't need to worry; drooling over their book means I also can't wait for my next visit!
