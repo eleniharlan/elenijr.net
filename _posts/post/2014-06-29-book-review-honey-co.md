@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Book review: Honey & Co."
 category: post
 comments: true
