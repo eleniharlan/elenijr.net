@@ -20,11 +20,11 @@ tags:
 
 I have a tendency to read cookbooks like novels: cover to cover, from start to end; getting caught up in the stories and narrative voice of the writers. I like getting to know the writer's style of cooking, how each recipe evolved into what turns up on the page, where it fits into their narrative arc. But I can't help experiencing reading Itamar Srulovich and Sarit Packer's [new cookbook](http://www.foyles.co.uk/witem/food-drink/honey-co-food-from-the-middle-east,itamar-srulovich-sarit-packer-9781444754674), eponymous to their delightfully [cozy little restaurant](http://honeyandco.co.uk/index.html) in Fitzrovia, like reading the couple's love letters. 
 
-The book cleverly sets up this dialogue between them, changing the narrative voice between each half, as if looking ahead into the future you could imagine them recounting these stories and recipes to their grandkids. There is a raw openness in what Honey & Co. means to them, how hard they have worked to get where they are, and how each of the dishes presented in the book has its own special place in their memory and their hearts. This book is not just an exchange of love letters to each other, but also to the food that they cook, to a home left behind, to a new home kindled, coaxed and occasionally wrenched into life on 25a Warren Street.
+The book cleverly sets up this dialogue between them, changing the narrative voice between each half, as if looking ahead into the future you could imagine them recounting these stories and recipes to their grandkids. In their endearing double-act, there is a raw openness in what Honey & Co. means to them; how hard they have worked to get where they are, and how each of the dishes presented in the book has its own special place in their memory and their hearts. This book is not just an exchange of love letters to each other, but also to the food that they cook, to a home left behind, to a new home kindled, coaxed and occasionally wrenched into life on 25a Warren Street.
 
 ### Recipes
 
-I particularly like that the cookbook has included some classic restaurant favourites (like their xxxx) but has also thought about the home cook and adapted them accordingly. There's also some things which I'm pretty sure wouldn't feature on their menu at the restaurant, and they talk a lot about the kind of food they cook at home for themselves. 
+I particularly like that the cookbook has included some classic restaurant favourites (like their Tunisian meatballs with quince) but has also thought about the home cook and adapted them accordingly. There's also some things which I'm pretty sure wouldn't feature on their menu at the restaurant, and they talk a lot about the kind of food they cook at home for themselves. 
 
 ### Fruity flavours
 
