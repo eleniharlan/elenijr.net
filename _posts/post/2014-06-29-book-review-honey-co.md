@@ -5,7 +5,7 @@ title: "Book review: Honey & Co."
 category: post
 comments: true
 splash: "https://farm4.staticflickr.com/3838/14559019204_a9284d4381_z.jpg"
-teaser: "The long-awaited cookbook of this intimate restaurant is one long love letter between the wife and husband chef team and their 'paramour': food."
+teaser: "The long-awaited cookbook of this intimate restaurant is one long love letter between the wife and husband chef team and their love affair with food."
 flickr: "72157645470144481"
 tags: 
   - Honey and Co
