@@ -12,4 +12,5 @@ But it was a gorgeous sunny day and I had heard through the [grapevine](http://p
 
 The Sunday menu was very straightforward: grilled meats on sticks, a choice of lamb, pork, beef or chicken. Comes with an open-face DIY sandwich (a bun with some green stuff and caramelised onions) and a side salad of orechiette with pesto.
 
-We sampled the lamb, pork and beef, with an excellent glass of the house white wine which was a lovely unfiltered, slighlty cloudy
+We sampled the lamb, pork and beef, with an excellent glass of the house wine which was a lovely unfiltered, slighlty cloudy white.
+
