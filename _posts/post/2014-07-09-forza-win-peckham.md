@@ -31,10 +31,10 @@ We sampled the lamb, pork and beef, with an excellent glass of the house wine wh
 
 I went back last night for one of their family-style dining ticketed events, the best way I can describe it is audience participation supper club. The communal tables and shared platters lend themselves to mingling, but there was something a bit contrived about it as well: people pointedly introducing themselves to their neighbours; a 'speech' delivered at the beginning by a member of staff telling you where the loos and fire exits are. But the vibe was decidedly fun and the crowd was there for a night out, not a meal. 
 
-<a href="https://www.flickr.com/photos/elenijr/14442805549" title="LU1_6303 by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3851/14442805549_97aec819aa_z.jpg" width="425" height="640" alt="LU1_6303"></a>
+<iframe src="https://www.flickr.com/photos/elenijr/14442805549/in/set-72157645220739030/player/" width="425" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 This is certainly a good addition to Peckham; a racuous venue for those who love food and can make a night of eating it accompanied by a concise but by no means under-used booze selection. The staff were all young, enthusiastic and knew their stuff, and I was impressed that the guy who served us on Sunday when he was even more hungover than us remembered me when I went back on Thursday.
 
 Welcome to the neighbourhood Forza, I'm sure you will not struggle to find friends and indeed regulars.
 
-<a href="https://www.flickr.com/photos/elenijr/14649337713" title="LU1_6298 by Eleni Harlan, on Flickr"><img src="https://farm6.staticflickr.com/5494/14649337713_0f3ca0df50_z.jpg" width="425" height="640" alt="LU1_6298"></a>
+<iframe src="https://www.flickr.com/photos/elenijr/14649337713/in/set-72157645220739030/player/" width="425" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
