@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Forza Win, Peckham"
 category: post
 comments: true
@@ -16,10 +16,12 @@ I went to a lovely wedding last Saturday, which meant I spent Sunday feeling a b
 But it was a gorgeous sunny day and I had heard through the [grapevine](http://peckhampeculiar.tumblr.com/) that this new [Italian meat grilling warehouse](http://www.forzawin.com/) had opened and were doing a cheap meaty lunch which sounded just about perfect.
 
 <a href="https://www.flickr.com/photos/elenijr/14629413585" title="LU1_6286 by Eleni Harlan, on Flickr"><img src="https://farm3.staticflickr.com/2911/14629413585_28e0ae4cd5_z.jpg" width="640" height="425" alt="LU1_6286"></a>
-_the lamb skewer was deliciously caramelized and fragrant_
+
+_the lamb skewer had deliciously caramelized fat_
 
 <a href="https://www.flickr.com/photos/elenijr/14442800679" title="LU1_6288 by Eleni Harlan, on Flickr"><img src="https://farm6.staticflickr.com/5482/14442800679_b9d406088f_z.jpg" width="425" height="640" alt="LU1_6288"></a>
-_the beef was prefectly cooked, dark pink inside and dripping with meat juices from the grill_
+
+_beef was prefectly cooked, dark pink inside and dripping with meat juices from the grill_
 
 The Sunday menu was very straightforward: £5 gets you a grilled meat on a stick with a choice of lamb, pork, beef or chicken. Comes with an open-face DIY sandwich (a bun with some green stuff and caramelised onions) and a side salad of orechiette with pesto.
 
