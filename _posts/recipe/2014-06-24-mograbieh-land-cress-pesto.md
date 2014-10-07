@@ -1,7 +1,7 @@
 ---
 layout: recipe
 category: recipe
-published: false
+published: true
 title: "Larder dinners, salad days"
 comments: true
 servings: 2 with leftovers for lunch
