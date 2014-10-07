@@ -14,9 +14,11 @@ ingredient_5: a very liberal amount of olive oil
 ingredient_6: 200g dried mograbieh
 ingredient_7: about half a small packet of feta cheese
 teaser: "who needs pasta when you can eat tiny dumplings? "
-splash: "[url=https://flic.kr/p/o8xQm9][img]https://farm4.staticflickr.com/3882/14525275480_311175d30c_z.jpg[/img][/url][url=https://flic.kr/p/o8xQm9]LU1_6124 copy[/url] by [url=https://www.flickr.com/people/119989833@N02/]elenijr[/url], on Flickr"
+splash: "https://farm4.staticflickr.com/3882/14525275480_311175d30c_z.jpg"
 flickr: "72157645815704261"
 ---
+
+##Junior's table is back!
 
 This blog has been on an extended break, which somehow ended up lasting a bit longer than I thought it might. There are of course, multiple reasons and excuses for that:
 1. _Junior's table has moved!_ The eponmyous table was in transit to our new home in [the modernist hills of Dulwich](http://www.c20society.org.uk/casework/dawsons-heights-the-italian-hill-town-in-dulwich/), and there hasn't been much cooking going on. 
