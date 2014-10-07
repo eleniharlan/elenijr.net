@@ -27,7 +27,7 @@ This blog has been on an extended break, which somehow ended up lasting a bit lo
 
 But I have been eating, and cooking, and thinking about food of course. And as the nights draw in, I return to the comfort and warmth of ~~my glowing screen~~ the kitchen, and sit down at the table.
 
-In the process of moving/being sweaty/the cat ate my homework, we've done our best to clear out the odd bits and bobs of obscure grains and pickled things that lurked in the back of cupboards and fridge. I find larder dinners one of the most pleasing and satisfying types of meals (it must be all those episodes of [_Chopped_](http://en.wikipedia.org/wiki/Chopped_(TV_series)) that I've seen with Eleni Sr.).
+In the process of moving/being sweaty/the cat ate my homework, we've done our best to clear out the odd bits and bobs of obscure grains and pickled things that lurked in the back of cupboards and fridge. I find larder dinners one of the most pleasing and satisfying types of meals (it must be all those episodes of [_Chopped_](http://en.wikipedia.org/wiki/Chopped_(TV_series) that I've seen with Eleni Sr.).
 
 
 ## Mograbieh
