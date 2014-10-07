@@ -2,7 +2,7 @@
 layout: recipe
 category: recipe
 published: false
-title: "Mograbieh, land cress pesto"
+title: "Larder dinners, salad days"
 comments: true
 servings: 2 with leftovers for lunch
 time: 20 minutes
@@ -15,6 +15,16 @@ ingredient_6: 200g dried mograbieh
 ingredient_7: about half a small packet of feta cheese
 teaser: "who needs pasta when you can eat tiny dumplings? "
 ---
+
+This blog has been on an extended break, which somehow ended up lasting a bit longer than I thought it might. There are of course, multiple reasons and excuses for that:
+1. "Junior's table has moved!" The eponmyous table was in transit to our new home in [the modernist hills of Dulwich](http://www.c20society.org.uk/casework/dawsons-heights-the-italian-hill-town-in-dulwich/), and there hasn't been much cooking going on. 
+2. "It was really hot in London this summer." Our old flat had the unsatisfactory choice between a poorly ventilated living space, or one that was thoroughly inflitrated by the not-always-tasty-smelling odours of the chinese takeaway next door. We chose to be hot and got some very good value from a cheap standing fan from Argos. But again, the heat meant we were (a) too hot to eat (b) way, way too hot to cook, and (c) not at all willing to sit in front of a (hot) laptop. 
+3. "I've been back to my roots, and in primitive countries like Greece, there's no internet." This is not actually true anymore, sadly. These days, you can get wifi everywhere, there's no escape. No more remote destinations where you can literally say, I'm not accessible. Because this makes me sigh and tut, my way of dealing with it is to selectively pretend that I am not accessible. Minimal Screen Time ensues, particularly when on beautiful Aegean islands...
+
+But I have been eating, and cooking, and thinking about food of course. And as the nights draw in, I return to the comfort and warmth of ~~my glowing screen~~ the kitchen, and sit down at the table.
+
+
+
 
 ## Mograbieh
 
@@ -33,6 +43,3 @@ Mix everything well together, adding more olive oil as needed and a bit of salt 
 ###For the mograbieh
 
 To be honest I've never made it before, so I am far from authoritative. What I ended up doing is cooking it like pasta, until al dente, then leaving it in the liquid for a bit while I got the other things ready. It soaked up more of the water during this time.
-
-
-
