@@ -21,6 +21,8 @@ I first encountered Jenny Diski when I started reading the [_LRB_](www.lrb.co.uk
 Similarly, the final scene of _Boyhood_ is both incredibly silly and wonderfully poignant. Imagine two stoned, beautiful teenagers watching a sunset from a viewpoint in the desert. 
 
 > “You know how everyone’s always saying seize the moment? I don’t know, I’m kind of thinking it’s the other way around, you know, like the moment seizes us.”
+
+
 “Yeah. Yeah, I know, it’s constant, the moments, it’s just — it’s like it’s always right now, you know?"
 
 Those moments, man. They are inescapable.
