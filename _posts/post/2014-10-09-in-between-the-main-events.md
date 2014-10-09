@@ -4,6 +4,7 @@ published: false
 title: "In-between the main events"
 category: post
 comments: true
+splash: "https://www.flickr.com/people/119989833@N02/"
 ---
 
 ### When does an idle afternoon become cemented in your memory as a most treasured moment of your life?
