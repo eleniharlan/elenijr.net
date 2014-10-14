@@ -5,6 +5,7 @@ title: "In-between the main events"
 category: post
 comments: true
 splash: "https://farm3.staticflickr.com/2947/15303376870_741e0a8dfe_z.jpg"
+teaser: "It's the magic moments in the day-to-day which end up prevalent in my memories."
 ---
 
 ### When does an idle afternoon become cemented in your memory as a most treasured moment of your life?
