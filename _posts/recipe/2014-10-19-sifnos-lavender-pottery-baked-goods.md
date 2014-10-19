@@ -1,7 +1,7 @@
 ---
 layout: recipe
 category: recipe
-published: false
+published: true
 title: "Sifnos: Lavender, Almonds, Magic Hours"
 comments: true
 splash: "https://farm6.staticflickr.com/5580/14970066306_030bec0f55_z.jpg"
@@ -73,9 +73,3 @@ I love the tahini cookie recipe in Jerusalem, and its clever take on shortbread.
 4. Bake in the oven for about 10-15 minutes, depending on the thickness of the cookie. Leave to cool on the tray and then transfer to a wire rack to cool completely before storing in an air tight container.
 
 The cookies should keep for several days if you can make them last!
-
-
-
-
-
-
