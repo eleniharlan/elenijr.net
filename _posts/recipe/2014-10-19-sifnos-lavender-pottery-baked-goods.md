@@ -32,7 +32,7 @@ Sifnos, although one of the smaller Aegean islands, has some amazingly dramatic 
 
 We had [a great spot](https://www.airbnb.co.uk/rooms/666001) on the top of one such mountain above the main town of Appollonia. I wasn't sure what to expect from 'a working lavender farm' but it was operating at a pretty relaxed and aromatic pace. 
 
-### Sweets of Sifnos
+### Sifnian sweet tooths
 
 The Sifnians certainly have a sweet tooth. You can't go 2 minutes without being encountered with a hand-made _amygdalota_ (marzipan cookies) shop, complete with old ladies grinding the almonds by hand, a home-made ice cream parlour, or in the more glamorous parts of town, a 'vaffla' place selling disgusting waffles smothered in chocolate syrup - to each his own I guess! 
 
