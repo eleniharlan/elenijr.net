@@ -2,7 +2,7 @@
 layout: recipe
 category: recipe
 published: false
-title: "Sifnos: Lavender, Pottery, Baked Goods"
+title: "Sifnos: Lavender, Almonds, Magic Hours"
 comments: true
 splash: "https://farm6.staticflickr.com/5580/14970066306_030bec0f55_z.jpg"
 teaser: Memories of lavender and almonds from a summer break in Sifnos inspire a simple cookie recipe
