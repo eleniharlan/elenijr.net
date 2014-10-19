@@ -59,11 +59,11 @@ The Sifnians certainly have a sweet tooth. You can't go 2 minutes without being 
 <a href="https://www.flickr.com/photos/elenijr/14992708042" title="IMG_2449 by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3924/14992708042_540e02348d_z.jpg" width="640" height="480" alt="IMG_2449"></a>
 **Amygdalota with blanched and unblanched almonds, baked amygdalota, and bougatsa (filo pastry with semolina custard)**
 
-My favourite were the baked amygdalota, where ground almonds are mixed with egg whites and sugar to create a chewy, most cookie with a satisfying crusty outer shell. These are so sweet though, just half of one would keep me wired. Imagine what that plate did to us with a coffee to boot!
+My favourite were the baked amygdalota, where ground almonds are mixed with egg whites and sugar to create a chewy, moist cookie with a satisfying crusty outer shell. These are so sweet though, just half of one would keep me wired. Imagine what that plate did to us with a coffee to boot!
 
 ##Lavender, almond and tahini cookies (adapted from [_Jerusalem_](http://www.ottolenghi.co.uk/jerusalem-shop))
 
-I love the tahini cookie recipe in Jerusalem, and its clever take on shortbread. But like shortbread, I find those cookies a bit too crumbly and wanted something a bit chewier and lighter. I didn't have double cream in the house so I substituted turkish yoghurt, and supplemented ground almonds for some of the flour. The result was a soft, moist cookie with the creamy tahini flavour and a bit of tang from the yoghurt. A smattering of crushed lavender blossoms make these a heady tribute to my Sifnos holiday, recalling nibbling amygdalota on the sunny terrace of the lavender farm.
+I love the tahini cookie recipe in Jerusalem, and its clever take on shortbread. But like shortbread, I find those cookies a bit too crumbly and wanted something a bit chewier and lighter. I didn't have double cream in the house so I substituted Turkish yoghurt, and supplemented ground almonds for some of the flour. The result was a soft, moist cookie with the creamy, smoky tahini flavour and a bit of tang from the yoghurt. A smattering of crushed lavender blossoms make these a heady tribute to my Sifnos holiday, recalling nibbling amygdalota on the sunny terrace of the lavender farm.
 
 ###Recipe
 
