@@ -8,6 +8,10 @@ splash: "https://farm6.staticflickr.com/5580/14970066306_030bec0f55_z.jpg"
 teaser: Memories of lavender and almonds from a summer break in Sifnos inspire a simple cookie recipe
 tags: 
   - greece
+  - cookies
+  - lavender
+  - tahini
+  - Sifnos
 servings: "between 20-30 cookies"
 ingredient_1: 150 grams unsalted butter at room temperature
 ingredient_2: 120 grams caster sugar
