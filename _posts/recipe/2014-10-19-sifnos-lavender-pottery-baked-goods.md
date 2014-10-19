@@ -54,6 +54,6 @@ My favourite were the baked amygdalota, where ground almonds are mixed with egg 
 
 ##Recipe: Lavender, almond and tahini cookies (adapted from [_Jerusalem_](http://www.ottolenghi.co.uk/jerusalem-shop))
 
-
+I love the tahini cookie recipe in Jerusalem, and its clever take on shortbread. But like shortbread, I find those cookies a bit crumbly 
 
 
