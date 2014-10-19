@@ -52,8 +52,21 @@ The Sifnians certainly have a sweet tooth. You can't go 2 minutes without being 
 
 My favourite were the baked amygdalota, where ground almonds are mixed with egg whites and sugar to create a chewy, most cookie with a satisfying crusty outer shell. These are so sweet though, just half of one would keep me wired. Imagine what that plate did to us with a coffee to boot!
 
-##Recipe: Lavender, almond and tahini cookies (adapted from [_Jerusalem_](http://www.ottolenghi.co.uk/jerusalem-shop))
+##Lavender, almond and tahini cookies (adapted from [_Jerusalem_](http://www.ottolenghi.co.uk/jerusalem-shop))
 
-I love the tahini cookie recipe in Jerusalem, and its clever take on shortbread. But like shortbread, I find those cookies a bit too crumbly and wanted something a bit chewier and lighter. 
+I love the tahini cookie recipe in Jerusalem, and its clever take on shortbread. But like shortbread, I find those cookies a bit too crumbly and wanted something a bit chewier and lighter. I didn't have double cream in the house so I substituted turkish yoghurt, and supplemented ground almonds for some of the flour. The result was a soft, moist cookie with the creamy tahini flavour and a bit of tang from the yoghurt. A smattering of crushed lavender blossoms make these a heady tribute to my Sifnos holiday, recalling nibbling amygdalota on the sunny terrace of the lavender farm.
+
+###Recipe
+
+1. Preheat the oven to 180C. In a deep bowl or stand mixer, beat the sugar and butter together until combined. Add the tahini, yoghurt or cream, and vanilla and mix until they are all combined.
+2. Add the flour and ground almonds and with a metal spoon, mix together until the dough is smooth. If it looks a bit too soft, you can add a bit more flour or almonds. Take a pinch of lavender blossoms (about 1/2 tsp) and rub them in your palms into the bowl.
+3. If you have the foresight and the time, wrap the dough in plastic wrap and leave in the fridge for a little bit to firm up (this will make it easier to handle). If you're impatient, sprinkle a bit of flour on your work surface and gently roll the dough out to about 3-5mm thickness. Using a small round cookie cutter (or whatever shape you like), cut out round cookies and place on a tray lined with baking parchment.
+4. Bake in the oven for about 10-15 minutes, depending on the thickness of the cookie. Leave to cool on the tray and then transfer to a wire rack to cool completely before storing in an air tight container.
+
+The cookies should keep for several days if you can make them last!
+
+
+
+
 
 
