@@ -4,6 +4,18 @@ category: recipe
 published: false
 title: "Sifnos: Lavender, Pottery, Baked Goods"
 comments: true
+splash: "https://farm6.staticflickr.com/5580/14970066306_030bec0f55_z.jpg"
+teaser: Memories of lavender and almonds from a summer break in Sifnos inspire a simple cookie recipe
+tags: 
+  - greece
+servings: "between 20-30 cookies"
+ingredient_1: 150 grams unsalted butter at room temperature
+ingredient_2: 120 grams caster sugar
+ingredient_3: 110g tahini
+ingredient_4: 1/2 tsp vanilla
+ingredient_5: 25 g thick greek/turkish yoghurt or double cream
+ingredient_6: 150 g plain flour
+ingredient_7: 120 g ground almonds
 ---
 
 ## Sifnos: land of comfort food
