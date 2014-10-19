@@ -16,6 +16,7 @@ ingredient_4: 1/2 tsp vanilla
 ingredient_5: 25 g thick greek/turkish yoghurt or double cream
 ingredient_6: 150 g plain flour
 ingredient_7: 120 g ground almonds
+flickr: "72157646532129813"
 ---
 
 ## Sifnos: land of comfort food
