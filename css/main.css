@@ -126,7 +126,7 @@ div.headline-wrapper{
 
 /* Disqus comments */
 div#disqus_thread{
-  max-width: 800px;
+    max-width: 800px;
   padding: 30px 30px 0;
   margin: 0 auto;
 }
@@ -261,6 +261,11 @@ h1.headline {
     margin-top: 0px;
 }
 
+.main-column img {
+    max-width: 480px;
+    height: auto;
+}
+
 .sidebar {
     float: left;
     width: 37.5%;
@@ -364,9 +369,24 @@ div#flickr img {
 .post ul,
 .post ol { margin-left: 1.35em; }
 
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.post-footer {
+    padding: 3% 0;
+    font-size: 90%;
+    color: #999999;
+    font-style: italic;
+}
+
 .postindex ul, 
 .postindex ol {
-  margin-left: 0em;
+    margin-left: 0em;
   padding-left: 0px;
   font-size: 16px;
 }
