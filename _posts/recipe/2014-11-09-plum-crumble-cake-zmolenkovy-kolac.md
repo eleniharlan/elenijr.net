@@ -14,4 +14,5 @@ So being a nomad of sorts is a bit of a mixed bag, but it's no surprise that the
 
 ## Plums
 
-A couple weeks ago I'd made the fabulous [slow-roast lamb shoulder with rose petals and plums](http://instagram.com/p/uVTAEtDyXB/?modal=true) from the Honey and Co cookbook, which I'm currently working through. I had a bunch of plums left over from that so 
+A couple weeks ago I'd made the fabulous [slow-roast lamb shoulder with rose petals and plums](http://instagram.com/p/uVTAEtDyXB/?modal=true) from the Honey & Co. cookbook, which [I'm currently working through](http://elenijr.net/post/book-review-honey-co/). I had a bunch of plums left over from that so it was the perfect excuse to make an old family classic, my mom's _zmolenkovy kolac_ or, Czech fruit crumble cake. You can use any soft fruit that's in season- blueberries and blackberries are a big hit, and nectarines or peaches are fabulous in summer. Plum is a classic autumnal topping though.
+
