@@ -14,5 +14,14 @@ So being a nomad of sorts is a bit of a mixed bag, but it's no surprise that the
 
 ## Plums
 
-A couple weeks ago I'd made the fabulous [slow-roast lamb shoulder with rose petals and plums](http://instagram.com/p/uVTAEtDyXB/?modal=true) from the Honey & Co. cookbook, which [I'm currently working through](http://elenijr.net/post/book-review-honey-co/). I had a bunch of plums left over from that so it was the perfect excuse to make an old family classic, my mom's _zmolenkovy kolac_ or, Czech fruit crumble cake. You can use any soft fruit that's in season- blueberries and blackberries are a big hit, and nectarines or peaches are fabulous in summer. Plum is a classic autumnal topping though.
+A couple weeks ago I'd made the fabulous [slow-roast lamb shoulder with rose petals and plums](http://instagram.com/p/uVTAEtDyXB/?modal=true) from the Honey & Co. cookbook, which [I'm currently working through](http://elenijr.net/post/book-review-honey-co/). I had a bunch of plums left over from that so it was the perfect excuse to make an old family classic, my mom's _zmolenkovy kolac_ or, Czech fruit crumble cake. You can use any soft fruit that's in season- blueberries, cherries or blackberries do well here, and nectarines or peaches are fabulous in summer. Plum is a classic autumnal topping though.
+
+##The recipe: Plum Crumble Cake
+
+1. Prepare your fruit. Slice plums/nectarines/peaches into halves, quarters or eighths (depending on size and preference- if they are too big, they will not cook through; if they are too small, they will disintegrate into mush).
+2. In a small bowl, put the 70g flour (or half flour and half ground almonds if you like), 70g butter and 70g sugar and rub with your finger tips until it looks a bit like large breadcrumbs (see photo). You can also add a bit of cinnamon if you like.
+2. Mix together the rest of the ingredients to create a runny batter. Pour into a greased and floured large baking tray. Lay your fruit on top (they will sink into the dough a bit, which is fine), then scatter the 'zmolenka' crumbs on top.
+3. Bake in a preheated oven at 180C for 30-40 minutes, or until golden on top. The fruit should be soft and letting out their juices, and the crumbs should have crisped up.
+
+
 
