@@ -2,7 +2,7 @@
 layout: recipe
 category: recipe
 published: false
-title: Plum Crumble Cake (_Žmolenkový koláč_)
+title: Plum Crumble Cake (Žmolenkový koláč)
 comments: true
 teaser: A random bit of czech family heritage is the origin of a classic fruit crumble cake
 tags: 
