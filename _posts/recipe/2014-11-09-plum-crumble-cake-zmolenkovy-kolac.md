@@ -1,7 +1,7 @@
 ---
 layout: recipe
 category: recipe
-published: false
+published: true
 title: Plum Crumble Cake (Žmolenkový koláč)
 comments: true
 teaser: A random bit of czech family heritage is the origin of a classic fruit crumble cake
@@ -41,5 +41,3 @@ A couple weeks ago I'd made the fabulous [slow-roast lamb shoulder with rose pet
 2. Mix together the rest of the ingredients to create a runny batter. Pour into a greased and floured large baking tray. Lay your fruit on top (they will sink into the dough a bit, which is fine), then scatter the 'zmolenka' crumbs on top.
 3. Bake in a preheated oven at 180C for 30-40 minutes, or until golden on top. The fruit should be soft and letting out their juices, and the crumbs should have crisped up.
 4. Allow to cool then cut into squares and transfer to a serving dish. It will keep for a couple days in an airtight container.
-
-
