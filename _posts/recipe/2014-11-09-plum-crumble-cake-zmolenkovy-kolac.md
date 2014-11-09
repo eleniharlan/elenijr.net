@@ -20,6 +20,8 @@ ingredient_7: 240 ml milk
 ingredient_8: 70g melted butter
 ingredient_9: 2 eggs
 ingredient_10: 10 small plums or equivalent fruit of choice
+splash: "https://farm8.staticflickr.com/7472/15128534394_cdb2690dab_z.jpg"
+flickr: "72157648791734617"
 ---
 
 ## A circumspect Czech heritage	
