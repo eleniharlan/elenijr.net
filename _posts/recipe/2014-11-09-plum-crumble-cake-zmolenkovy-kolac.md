@@ -14,4 +14,4 @@ So being a nomad of sorts is a bit of a mixed bag, but it's no surprise that the
 
 ## Plums
 
-A couple weeks ago I'd made the fabulous (slow-roast lamb shoulder with rose petals and plums)[http://instagram.com/p/uVTAEtDyXB/?modal=true] from the Honey and Co cookbook, which I'm currently working through. I had a bunch of plums left over from that so 
+A couple weeks ago I'd made the fabulous [slow-roast lamb shoulder with rose petals and plums](http://instagram.com/p/uVTAEtDyXB/?modal=true) from the Honey and Co cookbook, which I'm currently working through. I had a bunch of plums left over from that so 
