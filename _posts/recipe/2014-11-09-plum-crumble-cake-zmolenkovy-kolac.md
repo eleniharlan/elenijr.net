@@ -22,6 +22,6 @@ A couple weeks ago I'd made the fabulous [slow-roast lamb shoulder with rose pet
 2. In a small bowl, put the 70g flour (or half flour and half ground almonds if you like), 70g butter and 70g sugar and rub with your finger tips until it looks a bit like large breadcrumbs (see photo). You can also add a bit of cinnamon if you like.
 2. Mix together the rest of the ingredients to create a runny batter. Pour into a greased and floured large baking tray. Lay your fruit on top (they will sink into the dough a bit, which is fine), then scatter the 'zmolenka' crumbs on top.
 3. Bake in a preheated oven at 180C for 30-40 minutes, or until golden on top. The fruit should be soft and letting out their juices, and the crumbs should have crisped up.
-
+4. Allow to cool then cut into squares and transfer to a serving dish. It will keep for a couple days in an airtight container.
 
 
