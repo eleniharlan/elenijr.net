@@ -4,6 +4,22 @@ category: recipe
 published: false
 title: Plum Crumble Cake (zmolenkovy kolac)
 comments: true
+teaser: A random bit of czech family heritage is the origin of a classic fruit crumble cake
+tags: 
+  - baking
+  - plums
+  - cake
+time: "20 mins prep, 30-40 mins baking time"
+ingredient_1: 70g plain white flour (or 35g flour / 35g ground almonds)
+ingredient_2: 70g caster sugar
+ingredient_3: 70g butter
+ingredient_4: a dash of cinnamon (optional)
+ingredient_5: 300g plain white flour
+ingredient_6: 2 tsp baking powder
+ingredient_7: 240 ml milk
+ingredient_8: 70g melted butter
+ingredient_9: 2 eggs
+ingredient_10: 10 small plums or equivalent fruit of choice
 ---
 
 ## A circumspect Czech heritage	
