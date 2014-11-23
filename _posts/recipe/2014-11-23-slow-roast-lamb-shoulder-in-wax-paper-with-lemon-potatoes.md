@@ -1,7 +1,7 @@
 ---
 layout: recipe
 category: recipe
-published: false
+published: true
 title: Slow roast lamb shoulder in wax paper with lemon potatoes
 comments: true
 splash: "https://farm4.staticflickr.com/3940/15746828231_b74655334e_z.jpg"
