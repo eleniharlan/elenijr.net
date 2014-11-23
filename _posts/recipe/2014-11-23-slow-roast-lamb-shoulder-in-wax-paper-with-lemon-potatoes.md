@@ -43,6 +43,7 @@ In this recipe, I use a half-shoulder which is enough for two people with plenty
 4. Rub the lamb all over with olive oil, salt and pepper, then place it on top of the potatoes. Squeeze the other lemon half on the lamb then tuck it underneath. Pour the glass of wine into the pan.
 5. Carefully fold over the wax paper and either use butcher's string or some other creative thinking to create a parcel of wax paper. A stapler can come in handy to close off any loose parts or gaps.
 6. Put the dish in the oven for 30-40 minutes, then turn the heat down to 165C and cook for 4 hours or until the lamb is tender and golden. Try not to open up the parcel to check it too often as you'll lose some of the moisture.
+7. Serve it straight from the wax paper, or transfer to a serving dish. You can either carve it like a traditional roast, or my preference is to just pull apart the meat which should be falling off the bone.
 
 
 
