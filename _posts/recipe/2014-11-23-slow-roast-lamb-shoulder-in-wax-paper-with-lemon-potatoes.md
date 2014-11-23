@@ -18,10 +18,11 @@ ingredient_1: Half a shoulder of lamb or hogget
 ingredient_2: 500g waxy potatoes
 ingredient_3: 1 lemon
 ingredient_4: a whole head of garlic
-ingredient_5: rosemary sprigs
+ingredient_5: rosemary sprigs or dried oregano
 ingredient_6: olive oil
 ingredient_7: salt and pepper
-ingredient_8: wax paper
+ingredient_8: a glass of white wine
+ingredient_9: wax paper
 ---
 
 ## Slow-cooked Sundays
