@@ -29,7 +29,7 @@ ingredient_9: wax paper
 
 On a rainy, gloomy Sunday in London, I love to slow-cook a joint of meat. It's by far my favourite way to cook meat; I don't know if it's because you get such intense flavour and soft juicy flesh, or if it's just because it's so damn easy. I tend to think it's the former and the latter is just a big bonus. 
 
-This recipe is the holy grail of slow-cooked meat dishes for me. The first time I made it, I nearly cried into my plate it was so tasty and so comforting. It recalled so many things I hold dear- the smell of lamb wafting in the streets of Greece, my mother's lemon potatoes, a favourite taverna we go to which is just called _Ladokolla_ -literally, it means wax paper, and they do amazing things with it.
+This recipe is the holy grail of slow-cooked meat dishes for me. The first time I made it, I nearly cried into my plate it was so tasty and so comforting. It recalled so many things I hold dear- roasting a whole lamb on a spit at Easter time in Greece; my mother's lemon potatoes; a favourite taverna we go to which is just called _Ladokolla_ -literally, it means wax paper, and they do amazing things with it.
 
 <a href="https://www.flickr.com/photos/elenijr/14934878333" title="IMG_1769 by Eleni Harlan, on Flickr"><img src="https://farm4.staticflickr.com/3939/14934878333_13936977a3_z.jpg" width="480" height="640" alt="IMG_1769"></a>
 _A meal at Ladokolla in Aegina, Greece: pork slow-cooked in wax paper, served with chips; the most garlicky tzatziki, lamb neck._
