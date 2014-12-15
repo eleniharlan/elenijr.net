@@ -4,7 +4,7 @@ published: false
 title: Festive feasting
 category: post
 comments: true
-splash: "https://farm9.staticflickr.com/8574/15977241186_99bbbd4a87_z.jpg"
+splash: "https://farm8.staticflickr.com/7568/15844980529_c66c749ff0_z.jpg"
 teaser: "This time of year is all about the food. Here's some ideas to get you in the festive spirit..."
 ---
 
