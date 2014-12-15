@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Festive feasting (part 1)
+title: Festive feasting (part one)
 category: post
 comments: true
 splash: "https://farm8.staticflickr.com/7568/15844980529_c66c749ff0_z.jpg"
