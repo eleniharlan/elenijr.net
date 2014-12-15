@@ -4,6 +4,8 @@ published: false
 title: Festive feasting
 category: post
 comments: true
+splash: "https://www.flickr.com/people/119989833@N02/"
+teaser: "This time of year is all about the food. Here's some ideas..."
 ---
 
 It won't come as a particular surprise that from my perspective, the holidays (really, any holiday) are all about the food. I can't remember the last time I had roast turkey but nonetheless, cooking an exceptionally beautiful meal at this time of year is an important tradition for me and mine.
