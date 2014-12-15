@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Festive feasting
+title: Festive feasting (part 1)
 category: post
 comments: true
 splash: "https://farm8.staticflickr.com/7568/15844980529_c66c749ff0_z.jpg"
@@ -10,7 +10,7 @@ teaser: "This time of year is all about the food. Here's some ideas to get you i
 
 It won't come as a particular surprise that from my perspective, the holidays (really, any holiday) are all about the food. I can't remember the last time I had roast turkey but nonetheless, cooking an exceptionally beautiful meal at this time of year is an important tradition for me and mine.
 
-This year we've already hosted two Christmas feasts, one for a group of friends and one for extended family members. It's been quite fun to get to make elaborate feasts not just for the main event, but also leading up to them. So this next pair of posts is a bit of a run-down of some of the things we've tried at each of these meals, and hopefully will give you some inspiration if, like me, you've yet to decide what you're actually going to cook for the main event.
+This year we've already hosted two Christmas feasts, one for a group of friends and one for extended family members. It's been quite fun to get to make elaborate feasts not just for the main event, but also leading up to it. So this next pair of posts is a bit of a run-down of some of the things we've tried at each of these meals, and hopefully will give you some inspiration if, like me, you've yet to decide what you're actually going to cook for the main event.
 
 ## Feast 1: A Honey & Co. Christmas
 
