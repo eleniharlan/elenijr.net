@@ -14,7 +14,7 @@ This year we've already hosted two Christmas feasts, one for a group of friends 
 
 ## Feast 1: A Honey & Co. Christmas
 
-The Honey & Co. cookbook is undoubtedly my cookbook of the year. I can't stop cooking their recipes. Our first feast ended up being on a Tuesday night, since it was a minor miracle that 12 busy London peoples' schedules managed to converge for the occasion. So all the cooking and prep needed to happen on the weekend, so that I could just swan back home from work, bung the oven on, don a frock and start swilling martinis.
+The Honey & Co. cookbook is undoubtedly my cookbook of the year. I can't stop cooking their recipes. Our first feast ended up being on a Tuesday night, since it was a minor miracle that 12 busy London peoples' schedules managed to converge for one night. So all the cooking and prep needed to happen on the weekend, so that I could just swan back home from work, bung the oven on, don a frock and start swilling martinis.
 
 ...obviously, that's a bit of a fairy-tale version of how it really turned out, but nonetheless all we had to do was an hour of furious chopping, mixing, and tidying up before the guests arrived.
 
