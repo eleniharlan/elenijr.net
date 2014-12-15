@@ -30,4 +30,6 @@ The other excellent dish we prepared in advance was Maria Elia's ouzo-cured salm
 
 Is this reading like a greatest hits of 2014 cookbook recipes? I did add a bit of my own flair though, with a retro canape of endive leaves with a goat's curd and ricotta cheese spread, with a poached quince sliver on top and some smoky turkish chili flakes. I had originally poached the quince in an ambitious plan to make cocktails with the poaching liquid –but this plan never came to "fruition".
 
+<a href="https://www.flickr.com/photos/elenijr/15383394393" title="Endive, goats curd and ricotta, quince by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8664/15383394393_8f87f98777_z.jpg" width="640" height="424" alt="Endive, goats curd and ricotta, quince"></a>
+
 
