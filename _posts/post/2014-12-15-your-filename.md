@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Festive feasting (part one)
 category: post
 comments: true
