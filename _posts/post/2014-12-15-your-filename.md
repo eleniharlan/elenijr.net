@@ -26,6 +26,8 @@ The other excellent dish we prepared in advance was Maria Elia's ouzo-cured salm
 
 <a href="https://www.flickr.com/photos/elenijr/15380769894" title="Ouzo cured salmon by Eleni Harlan, on Flickr"><img src="https://farm8.staticflickr.com/7478/15380769894_ce90543d85_z.jpg" width="640" height="424" alt="Ouzo cured salmon"></a>
 
+<a href="https://www.flickr.com/photos/elenijr/15380772844" title="Ouzo cured salmon, pickled cucumber by Eleni Harlan, on Flickr"><img src="https://farm8.staticflickr.com/7500/15380772844_10ac4aa7cd_z.jpg" width="640" height="424" alt="Ouzo cured salmon, pickled cucumber"></a>
+
 Is this reading like a greatest hits of 2014 cookbook recipes? I did add a bit of my own flair though, with a retro canape of endive leaves with a goat's curd and ricotta cheese spread, with a poached quince sliver on top and some smoky turkish chili flakes. I had originally poached the quince in an ambitious plan to make cocktails with the poaching liquid –but this plan never came to "fruition".
 
 
