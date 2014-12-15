@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: Festive feasting
 category: post
 comments: true
 ---
