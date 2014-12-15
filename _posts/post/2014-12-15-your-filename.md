@@ -29,7 +29,7 @@ _Madfunia, before & after_
 
 <a href="https://www.flickr.com/photos/elenijr/15977241186" title="Madfunia! by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8574/15977241186_99bbbd4a87_z.jpg" width="640" height="424" alt="Madfunia!"></a>
 
-###Ouzo fish
+###Ouzo-cured salmon
 
 The other excellent dish we prepared in advance was Maria Elia's ouzo-cured salmon- cured for two days salt, sugar, crushed fennel seeds and ouzo, it was almost candied and was quickly gobbled up along with some dill-pickled cucumbers (another Honey & Co recipe).
 
