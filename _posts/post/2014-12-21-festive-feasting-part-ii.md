@@ -41,3 +41,32 @@ Alongside the porker, we also had lemony roast potatoes, tzatziki and a big pot 
 <a href="https://www.flickr.com/photos/elenijr/16005000206/" title="DSC_0299 by elenijr, on Flickr"><img src="https://farm9.staticflickr.com/8623/16005000206_679a3ea707_z.jpg" width="640" height="424" alt="DSC_0299"></a>
 
 The best thing about this meal is how low cost and low effort it was for the impact. Everything was prepared in advance and most of the ingredients were vegetables, beans and pulses. There are no fancy techniques and most of the dishes are one-pot. You can see why massive meals form such an integral part of Greek culture- why shouldn't it!
+
+###Recipe: Gigantes (giant bean stew)
+
+This is a great and very cheap dish to make for lots of people- you can easily double or triple the amounts. It's hearty enough to satisfy a vegetarian as a main, but also complements a lot of meat dishes as a side.
+
+**Ingredients**
+- 2 cans of butter beans (or 250g dried gigantes or butter beans, soaked overnight and boiled until tender and totally cooked through but not mushy)
+- 2 cans of peeled plum tomatoes
+- 2 carrots, peeled and cut into rounds about 4mm thick
+- 2-3 celery sticks cut into 4mm rounds
+- 1 large or 2 medium sized onions, peeled and sliced about 3mm thick
+- 4 cloves of garlic, peeled and roughly sliced
+- lots and lots of olive oil (approx 100ml)
+- 1 bay leaf
+- 2 tbsp tomato puree
+- chili flakes
+- 1 tsp vegetable stock
+- 1 tsp sugar
+- a splash of red wine (50ml)
+- salt and pepper
+
+1. Heat 3-4 tbsp olive oil in a large, heavy based oven proof dish, like a le creuste or cast iron. It doesn't need to have a lid but it helps. When the oil is heated, add your sliced onions and a good pinch of salt (half to a 1 tsp). Stir and leave on a medium heat to soften and start to caramelise. (Top tip: putting a lid on for the beginning of this process will help the onions sweat and speed the cooking up. But make sure you watch the onions and take the lid off in time to lose the liquid- I usually do this after 5-10 minutes).
+2. When the onions have started to soften and slightly colour, add the carrots, celery and garlic and cook until these are also soft, but it doesn't matter if they still have a bit of bite. They will continue to cook in the oven.
+3. Add the tomato puree and stir for a minute- this helps sweeten the flavour and take some of the rawness from the puree. Add the canned tomatoes, bay leaf, stock and sugar and turn the heat up. When it starts to spit, add a the red wine and let it cook off then add the beans strained of their liquid. If it's looking too thick, add a bit more wine or some water- you want there to be a sauce, but not much of the liquid will cook off so you don't want it to be watery!
+4. Stir in the chili flakes, season to taste with salt and pepper, then add the rest of the olive oil. Really don't hold back here- the oil is what will marry the flavours. Cover the dish with the lid or some foil and place in a pre-heated oven on a medium-high heat, like 175C. After about 40 minutes, the sauce should look a darker red and should have dried out a bit. Give it a quick stir, adding more oil or liquid if you need to, then whip off the lid/cover and put it back in the oven for another 20 minutes or until it looks a bit caramelised on top. You can either eat it hot or serve at room temperature. The beans will keep in the fridge for a few days.
+
+
+
+
