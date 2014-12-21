@@ -32,11 +32,11 @@ I was really impressed at how up for trying all these super-garlicky things Nick
 
 <a href="https://www.flickr.com/photos/elenijr/15844733299/" title="DSC_0305 by elenijr, on Flickr"><img src="https://farm8.staticflickr.com/7545/15844733299_c39e74c97a_z.jpg" width="640" height="424" alt="DSC_0305"></a>
 
-For the main meal, we ended up with a 5kg boned leg of pork. We worked out that if we wanted to just straight-up roast it, we'd have to put it in at about 5 in the morning for it to be ready in time for lunch, so instead we decided to slow-roast it overnight. We put it in around 10:30pm on a high heat for about 40 minutes, then covered it in foil and turned it right down to about 100C. The idea was to leave it in the oven low and slow overnight, but someone in the household came home late from their work Christmas party, saw the oven and assumed it was accidentally left on, and helpfully turned it off! But despite being off for a few hours, it was still okay and after an emergency meat thermometer purchase, we managed to get it up to temperature, whipping off the foil and whacking the heat up on high again for the last half hour to get the crackling.
+For the main meal, we ended up with a 5kg boned leg of pork. We worked out that if we wanted to just straight-up roast it, we'd have to put it in at about 5 in the morning for it to be ready in time for lunch, so instead we decided to slow-roast it overnight. We put it in around 10:30pm on a high heat for about 40 minutes, then covered it in foil and turned it right down to about 100C. The idea was to leave it in the oven low and slow overnight, but *someone* in the household came home late from their work Christmas party, saw the oven and assumed it was accidentally left on, and helpfully turned it off! But despite being off for a few hours, it was still okay and after an emergency meat thermometer purchase, we managed to get it up to temperature, whipping off the foil and whacking the heat up on high again for the last half hour to get the crackling.
 
 <a href="https://www.flickr.com/photos/elenijr/16030106152/" title="DSC_0308 by elenijr, on Flickr"><img src="https://farm8.staticflickr.com/7514/16030106152_d2dde5d903_z.jpg" width="640" height="424" alt="DSC_0308"></a>
 
-Alongside the porker, we also had lemony roast potatoes, tzatziki and a big pot of _gigantes_ (tomato stewed butter beans). In the end, we barely made a dent in the pork- we probably ended up with 2 kilos of leftover pork! Because Greeks tend to eat so many meze, meat often forms an integral part, but not the main part of the meal. A good lesson for next time!
+Alongside the porker, we also had lemony roast potatoes (recipe and photos to come another day), tzatziki and a big pot of _gigantes_ (tomato stewed butter beans). In the end, we barely made a dent in the pork- we probably ended up with 2 kilos of leftover pork! Because Greeks tend to eat so many meze, meat often forms an integral part, but not the main part of the meal. A good lesson for next time!
 
 <a href="https://www.flickr.com/photos/elenijr/16005000206/" title="DSC_0299 by elenijr, on Flickr"><img src="https://farm9.staticflickr.com/8623/16005000206_679a3ea707_z.jpg" width="640" height="424" alt="DSC_0299"></a>
 
@@ -46,6 +46,7 @@ The best thing about this meal is how low cost and low effort it was for the imp
 
 This is a great and very cheap dish to make for lots of people- you can easily double or triple the amounts. It's hearty enough to satisfy a vegetarian as a main, but also complements a lot of meat dishes as a side.
 
+**Makes one large dish to serve 4-8 people**
 **Ingredients**
 - 2 cans of butter beans (or 250g dried gigantes or butter beans, soaked overnight and boiled until tender and totally cooked through but not mushy)
 - 2 cans of peeled plum tomatoes
