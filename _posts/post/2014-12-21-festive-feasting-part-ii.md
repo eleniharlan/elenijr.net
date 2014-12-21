@@ -4,6 +4,10 @@ published: false
 title: "Festive Feasting - Part II"
 category: post
 comments: true
+teaser: "For our second feast, the order of the day was to feed 23 extended family members, and the theme was Greek food. "
+tags: 
+  - greece
+splash: "https://farm8.staticflickr.com/7544/15843351938_688ef52f69.jpg"
 ---
 
 For our second feast, the order of the day was to feed 23 extended family members, and the theme was Greek food. 
@@ -32,5 +36,9 @@ For the main meal, we ended up with a 5kg boned leg of pork. We worked out that 
 
 <a href="https://www.flickr.com/photos/elenijr/16030106152/" title="DSC_0308 by elenijr, on Flickr"><img src="https://farm8.staticflickr.com/7514/16030106152_d2dde5d903.jpg" width="500" height="331" alt="DSC_0308"></a>
 
+Alongside the porker, we also had lemony roast potatoes, tzatziki and a big pot of _gigantes_ (tomato stewed butter beans). In the end, we barely made a dent in the pork- we probably ended up with 2 kilos of leftover pork! Because Greeks tend to eat so many meze, meat often forms an integral part, but not the main part of the meal. A good lesson for next time!
 
+<a href="https://www.flickr.com/photos/elenijr/16005000206/" title="DSC_0299 by elenijr, on Flickr"><img src="https://farm9.staticflickr.com/8623/16005000206_679a3ea707.jpg" width="500" height="331" alt="DSC_0299"></a>
+
+The best thing about this meal is how low cost and low effort it was for the impact. Everything was prepared in advance and most of the ingredients were vegetables, beans and pulses. There are no fancy techniques and most of the dishes are one-pot. You can see why massive meals form such an integral part of Greek culture- why shouldn't it!
 
