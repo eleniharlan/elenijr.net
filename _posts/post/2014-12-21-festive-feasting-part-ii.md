@@ -18,7 +18,7 @@ We decided to do an array of vegetarian meze to start with, and then a massive p
 
 ##The meze
 
-<iframe src="https://www.flickr.com/photos/elenijr/15843346908/player/" width="640" height="424" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://www.flickr.com/photos/elenijr/15843346908/" title="DSC_0297 by elenijr, on Flickr"><img src="https://farm9.staticflickr.com/8629/15843346908_8645ca2fff_z.jpg" width="640" height="424" alt="DSC_0297"></a>
 
 For the meze, because I was feeding non-Greeks but grecophiles, I wanted to do a mixture of classics and slightly more out-there dishes. Alongside a big 'politiki' cabbage and carrot salad, we also had some simple things like hummus, beetroot mutabal, Moroccan aubergine zaalouk, and cooked and sliced beetroots served with skordalia- a potato and raw garlic spread that you serve with boiled vegetables, grilled meats and fish. 
 
@@ -38,6 +38,6 @@ For the main meal, we ended up with a 5kg boned leg of pork. We worked out that 
 
 Alongside the porker, we also had lemony roast potatoes, tzatziki and a big pot of _gigantes_ (tomato stewed butter beans). In the end, we barely made a dent in the pork- we probably ended up with 2 kilos of leftover pork! Because Greeks tend to eat so many meze, meat often forms an integral part, but not the main part of the meal. A good lesson for next time!
 
-<iframe src="https://www.flickr.com/photos/elenijr/16005000206/player/" width="640" height="424" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://www.flickr.com/photos/elenijr/16005000206/" title="DSC_0299 by elenijr, on Flickr"><img src="https://farm9.staticflickr.com/8623/16005000206_679a3ea707_z.jpg" width="640" height="424" alt="DSC_0299"></a>
 
 The best thing about this meal is how low cost and low effort it was for the impact. Everything was prepared in advance and most of the ingredients were vegetables, beans and pulses. There are no fancy techniques and most of the dishes are one-pot. You can see why massive meals form such an integral part of Greek culture- why shouldn't it!
