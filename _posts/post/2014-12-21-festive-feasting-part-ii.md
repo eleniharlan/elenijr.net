@@ -42,7 +42,7 @@ Alongside the porker, we also had lemony roast potatoes (recipe and photos to co
 
 The best thing about this meal is how low cost and low effort it was for the impact. Everything was prepared in advance and most of the ingredients were vegetables, beans and pulses. There are no fancy techniques and most of the dishes are one-pot. You can see why massive meals form such an integral part of Greek culture- why shouldn't it!
 
-###Recipe: Gigantes (giant bean stew)
+###Gigantes (giant bean stew)
 
 This is a great and very cheap dish to make for lots of people- you can easily double or triple the amounts. It's hearty enough to satisfy a vegetarian as a main, but also complements a lot of meat dishes as a side.
 
@@ -63,6 +63,7 @@ This is a great and very cheap dish to make for lots of people- you can easily d
 - a splash of red wine (50ml)
 - salt and pepper
 
+**The Recipe**
 1. Heat 3-4 tbsp olive oil in a large, heavy based oven proof dish, like a le creuste or cast iron. It doesn't need to have a lid but it helps. When the oil is heated, add your sliced onions and a good pinch of salt (half to a 1 tsp). Stir and leave on a medium heat to soften and start to caramelise. (Top tip: putting a lid on for the beginning of this process will help the onions sweat and speed the cooking up. But make sure you watch the onions and take the lid off in time to lose the liquid- I usually do this after 5-10 minutes).
 2. When the onions have started to soften and slightly colour, add the carrots, celery and garlic and cook until these are also soft, but it doesn't matter if they still have a bit of bite. They will continue to cook in the oven.
 3. Add the tomato puree and stir for a minute- this helps sweeten the flavour and take some of the rawness from the puree. Add the canned tomatoes, bay leaf, stock and sugar and turn the heat up. When it starts to spit, add a the red wine and let it cook off then add the beans strained of their liquid. If it's looking too thick, add a bit more wine or some water- you want there to be a sauce, but not much of the liquid will cook off so you don't want it to be watery!
