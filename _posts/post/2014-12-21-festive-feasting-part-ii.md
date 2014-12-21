@@ -18,7 +18,7 @@ We decided to do an array of vegetarian meze to start with, and then a massive p
 
 ##The meze
 
-<iframe src="https://www.flickr.com/photos/elenijr/15843346908/player/" width="800" height="530" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/elenijr/15843346908/player/" width="640" height="424" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 For the meze, because I was feeding non-Greeks but grecophiles, I wanted to do a mixture of classics and slightly more out-there dishes. Alongside a big 'politiki' cabbage and carrot salad, we also had some simple things like hummus, beetroot mutabal, Moroccan aubergine zaalouk, and cooked and sliced beetroots served with skordalia- a potato and raw garlic spread that you serve with boiled vegetables, grilled meats and fish. 
 
