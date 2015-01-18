@@ -51,7 +51,7 @@ Austinites were pretty insistent that I had to at least go to a food truck while
 So that's about all I managed in my time in Austin, but if I get to go back, I've got a good starting list of places I didn't make it to this time. Other things I liked were Royal Blue, a mini chain of bougie grocery stores, who do a decent lunch and a damn fine cortado; biking around courtesy of Austin's B-Cycle hire scheme; learning about Austin's recent history along the well-trodden path of gentrification (or 're-gentrification' as a local endearingly called it). And mostly, I enjoyed the people, especially those who went out of their way to show me the city they're rightly proud of. Thanks guys- and I hope I get to repay the favour one day!
 
 <a href="https://www.flickr.com/photos/elenijr/16123770279" title="Extra aerodynamic Bianchi by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8672/16123770279_ba6a93b5e5_z.jpg" width="640" height="480" alt="Extra aerodynamic Bianchi"></a>
-_Bikes are more aerodynamic in Austin thanks to local birds' feathers_
+_Austin is a great cycling city, thanks to a flat, compact city centre, and all those local birds' feathers helping with the aerodynamics_
 
 
 
