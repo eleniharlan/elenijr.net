@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Brief encounters in Austin
 category: post
 comments: true
