@@ -17,6 +17,19 @@ I had pretty low expectations of what I'd find in the downtown. Downtown America
 
 ##Foodies galore
 
+I was in good company in Austin. People had things to say about food, and an appreciation for the good stuff. I was lucky too in that one of my training attendees was a big foodie- she owns [her own bakery](http://www.knottynice.com/), as well as holding down a full time job at the City, raising a kid and doing a PhD (man, she made me feel lazy!). 
+
+###It's nacho cheese
+
+On the first night my hosts took me to an 'old' hotel on 6th Street, The Driscoll. It was very grand, complete with marble floors, and massive stuffed longhorn cows' heads in the bar. Monday night happy hour was ridiculously cheap, but otherwise pretty unridiculous. With our martinis, we ordered the Texan bar snack stalwart, "queso". As far as I can tell, this is typically melted plastic cheese with bits in. I've had some pretty plasticy versions before, but this one was actually encouragingly cheese-like. The tortilla chips that came with it were freshly fried, something I wish was the status quo for nachos in the UK rather than the nasty dorito-style packaged ones. It makes such a big difference.
+
+DRISCOLL PHOTOS
+
+###Wholey smokes
+
+Texans are a proud folk, and Austinites are fiercely proud of their city. 
+
+
 
 
 
