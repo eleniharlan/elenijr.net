@@ -4,6 +4,9 @@ published: false
 title: Brief encounters in Austin
 category: post
 comments: true
+splash: "https://farm8.staticflickr.com/7574/16122372338_f07b94c09d_z.jpg"
+teaser: A short work trip to Austin let me sample the weird and the wonderful the city is famous for.
+flickr: "72157650291802096"
 ---
 
 My first week back at work after the holidays was a bit unusual- instead of biking into central London to go to the office, I took a flight from North Carolina to Austin, Texas to train people in [a behaviour change tool](http://www.citylab.com/commute/2014/06/a-therapy-created-to-treat-addiction-is-being-used-to-reduce-car-reliance/373212/) to get people to consider other alternatives to their car for daily trips. I'd never been to Austin before -or Texas for that matter- and it has a distinct reputation preceding it (for being 'weird', for being hip, for being 'an island of blue in a sea of red', etc.). I knew I wouldn't have a lot of time to explore, and I wouldn't have access to a car so I'd expected to only be able to go to places within walking distance. So I broke from foodie ritual and did not make a list, or even do a search for local blogs. I came as innocent as they come to the city that gave birth to the likes of SXSW, Whole Foods, and food trucks. But in my limited time, and my limited view, I did want to know- was Austin all mouth and no trousers? 
