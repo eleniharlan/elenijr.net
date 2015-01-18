@@ -13,4 +13,12 @@ One thing I loved about Austin was how walkable (and bikeable) everything was. I
 
 PHOTO OF VIEW
 
-I had pretty low expectations of what I'd find in the downtown. Downtown American cities tend to be a bit of a wasteland- windswept canyons of glass and steel, dotted with the interminable Starbucks at the corner of every block. 
+I had pretty low expectations of what I'd find in the downtown. Downtown American cities tend to be a bit of a wasteland- windswept canyons of glass and steel, dotted with the interminable Starbucks at the corner of every block. A friend who used to live in East Austin told me it was a boring, cookie cutter place- and I'm sure that compared to some of the hipper neighbourhoods, it totally was. But there was plenty of life and interesting places to pass the time; the Starbucks' were still there, but the independent shops, cafes and breakfast taco joints far outnumbered them.
+
+##Foodies galore
+
+
+
+
+
+
