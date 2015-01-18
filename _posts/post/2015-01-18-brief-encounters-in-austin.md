@@ -33,6 +33,7 @@ On the first night my hosts took me to an 'old' hotel on 6th Street, The Driscol
 Texans are a proud folk, and Austinites are fiercely proud of their city. When, in passing, I mentioned that my parents worked at the first Whole Foods shop, which was in New Orleans, they were quick to set me right and inform me that Whole Foods started in Austin- in fact, they have their headquarters there (well, better do some fact checking with the parentals... who knows what else they've misinformed me about!). So I duly trooped along to the World's Biggest Whole Foods Ever. If you don't like choice, you should not go there. Or really, if you don't have at least an hour to get around the shop and hunt down the products you're after, you shouldn't go there. The HQ, parking, function rooms and supermarket took up an entire block, and the shop floor itself must have been a square mile. There were whole aisles dedicated to charcoal, yoga pants, water filtration systems... but I failed to find the yoghurt and dairy section despite at least two thorough rounds (a significant time investment). But the groceries themselves only take up a small proportion of the shop. Someone told me they tried to take their grandparents there for lunch, and they had to leave and just go home and make a sandwich. There's a juice bar, sashimi stall, 'bistro' counter, wok station, four separate salad bars, and then a whole other section in the back which I couldn't even face entering. There's a wood burning oven bakery, coffee roaster's... this was Whole Foods on steroids. I guess that's how Texans say they're local and they're proud. 
 
 <a href="https://www.flickr.com/photos/elenijr/16309057492" title="Salad toppings selection at WF by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8575/16309057492_6c28f6c728_z.jpg" width="480" height="640" alt="Salad toppings selection at WF"></a>
+
 _Condiments, anyone?_
 
 ###Easy tiger
@@ -40,6 +41,7 @@ _Condiments, anyone?_
 Although I didn't write a list, my friend Tony wrote one of his favourite places in Austin. Most of them were out of range for me to try, but I did make it to Easy Tiger, a bakery and beer garden, and made it back again, and again. 
 
 <a href="https://www.flickr.com/photos/elenijr/15689982623" title="Reaching in for the Danish Krans at the Easy Tiger bakery by Eleni Harlan, on Flickr"><img src="https://farm8.staticflickr.com/7553/15689982623_e3c75947f2_z.jpg" width="480" height="640" alt="Reaching in for the Danish Krans at the Easy Tiger bakery"></a>
+
 _leaning in for the kill: the Danish Krans was my favourite pastry at Easy Tiger. A pastry ring filled with thinly sliced almonds- like an almond croissant for a dainty princess._
 
 ###My Thai Mom
@@ -51,6 +53,7 @@ Austinites were pretty insistent that I had to at least go to a food truck while
 So that's about all I managed in my time in Austin, but if I get to go back, I've got a good starting list of places I didn't make it to this time. Other things I liked were Royal Blue, a mini chain of bougie grocery stores, who do a decent lunch and a damn fine cortado; biking around courtesy of Austin's B-Cycle hire scheme; learning about Austin's recent history along the well-trodden path of gentrification (or 're-gentrification' as a local endearingly called it). And mostly, I enjoyed the people, especially those who went out of their way to show me the city they're rightly proud of. Thanks guys- and I hope I get to repay the favour one day!
 
 <a href="https://www.flickr.com/photos/elenijr/16123770279" title="Extra aerodynamic Bianchi by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8672/16123770279_ba6a93b5e5_z.jpg" width="640" height="480" alt="Extra aerodynamic Bianchi"></a>
+
 _Austin is a great cycling city, thanks to a flat, compact city centre, and all those local birds' feathers helping with the aerodynamics_
 
 
