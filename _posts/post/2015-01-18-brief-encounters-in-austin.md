@@ -27,7 +27,7 @@ DRISCOLL PHOTOS
 
 ###Wholey smokes
 
-Texans are a proud folk, and Austinites are fiercely proud of their city. 
+Texans are a proud folk, and Austinites are fiercely proud of their city. When, in passing, I mentioned that my parents worked at the first Whole Foods shop, which was in New Orleans, they were quick to set me right and inform me that Whole Foods started in Austin- in fact, they have their headquarters there (well, better do some fact checking with the parentals... who knows what else they've misinformed me about!). So I duly trooped along to the World's Biggest Whole Foods Ever. If you don't like choice, you should not go there. Or really, if you don't have at least an hour to get around the shop and hunt down the products you're after, you shouldn't go there. The HQ, parking, function rooms and supermarket took up an entire block, and the shop floor itself must have been a square mile. There were whole aisles dedicated to charcoal, yoga pants, water filtration systems... but I failed to find the yoghurt and dairy section despite at least two thorough rounds (a significant time investment). But the groceries themselves only take up a small proportion of the shop. Someone told me they tried to take their grandparents there for lunch, and they had to leave and just go home and make a sandwich. There's a juice bar, sashimi stall, 'bistro' counter, wok station, four separate salad bars, 
 
 
 
