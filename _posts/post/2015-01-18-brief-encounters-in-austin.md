@@ -46,7 +46,7 @@ Austinites were pretty insistent that I had to at least go to a food truck while
 
 ##Until we meet again...
 
-So that's about all I managed in my time in Austin, and I'm sure there's more to explore. Other things I liked were Royal Blue, a mini chain of bougie grocery stores, who do a decent lunch and a damn fine cortado; biking around courtesy of Austin's B-Cycle hire scheme; learning about Austin's recent history along the well-trodden path of gentrification (or 're-gentrification' as a local endearingly called it). And mostly, I enjoyed the people, especially those who went out of their way to show me the city they're rightly proud of. Thanks guys- and I hope I get to repay the favour one day!
+So that's about all I managed in my time in Austin, but if I get to go back, I've got a good starting list of places I didn't make it to this time. Other things I liked were Royal Blue, a mini chain of bougie grocery stores, who do a decent lunch and a damn fine cortado; biking around courtesy of Austin's B-Cycle hire scheme; learning about Austin's recent history along the well-trodden path of gentrification (or 're-gentrification' as a local endearingly called it). And mostly, I enjoyed the people, especially those who went out of their way to show me the city they're rightly proud of. Thanks guys- and I hope I get to repay the favour one day!
 
 
 
