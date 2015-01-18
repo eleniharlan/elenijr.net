@@ -42,7 +42,7 @@ Although I didn't write a list, my friend Tony wrote one of his favourite places
 
 <a href="https://www.flickr.com/photos/elenijr/15689982623" title="Reaching in for the Danish Krans at the Easy Tiger bakery by Eleni Harlan, on Flickr"><img src="https://farm8.staticflickr.com/7553/15689982623_e3c75947f2_z.jpg" width="480" height="640" alt="Reaching in for the Danish Krans at the Easy Tiger bakery"></a>
 
-_leaning in for the kill: the Danish Krans was my favourite pastry at Easy Tiger. A pastry ring filled with thinly sliced almonds- like an almond croissant, but more dainty._
+_leaning in for the kill: the Danish Krans was my favourite pastry at Easy Tiger. A pastry ring filled with thinly sliced almonds- like an almond croissant, but more dainty, and somehow more indulgent too._
 
 ###My Thai Mom
 
