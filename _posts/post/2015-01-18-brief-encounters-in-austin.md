@@ -42,7 +42,7 @@ Although I didn't write a list, my friend Tony wrote one of his favourite places
 
 <a href="https://www.flickr.com/photos/elenijr/15689982623" title="Reaching in for the Danish Krans at the Easy Tiger bakery by Eleni Harlan, on Flickr"><img src="https://farm8.staticflickr.com/7553/15689982623_e3c75947f2_z.jpg" width="480" height="640" alt="Reaching in for the Danish Krans at the Easy Tiger bakery"></a>
 
-_leaning in for the kill: the Danish Krans was my favourite pastry at Easy Tiger. A pastry ring filled with thinly sliced almonds- like an almond croissant for a dainty princess._
+_leaning in for the kill: the Danish Krans was my favourite pastry at Easy Tiger. A pastry ring filled with thinly sliced almonds- like an almond croissant, but more dainty._
 
 ###My Thai Mom
 
@@ -55,17 +55,3 @@ So that's about all I managed in my time in Austin, but if I get to go back, I'v
 <a href="https://www.flickr.com/photos/elenijr/16123770279" title="Extra aerodynamic Bianchi by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8672/16123770279_ba6a93b5e5_z.jpg" width="640" height="480" alt="Extra aerodynamic Bianchi"></a>
 
 _Austin is a great cycling city, thanks to a flat, compact city centre, and all those local birds' feathers helping with the aerodynamics_
-
-
-
-
-
-
-
-
-
-
-
-
-
-
