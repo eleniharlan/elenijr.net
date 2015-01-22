@@ -4,7 +4,7 @@ category: recipe
 published: false
 title: "Butternut squash ribollita, pickled shiitakes, chilli oil"
 comments: true
-splash: "https://farm8.staticflickr.com/7480/16123963197_145bb4dd31_z.jpg"
+splash: "https://farm8.staticflickr.com/7462/16124007257_4aa30b48c5_z.jpg"
 teaser: A hearty but healthy stew is perfect for this time of year.
 flickr: "72157650010339659"
 servings: "2-3 people"
