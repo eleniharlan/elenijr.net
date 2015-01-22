@@ -11,7 +11,7 @@ servings: "2-3 people"
 ---
 
 ### Hangouttitude in South London
-Have I talked about the holy trilogy of South London pubs? I live near the Camberwell Arms, work near the Anchor & Hope, and make solemn pilgrimages whenever I can to the Canton Arms. All under the same loose ownership, each of these pubs has their own signature style, and bucketloads of hangoutittude. One icy cold winter night early in December, I had a pumpkin ribollita at the Camberwell Arms' bar, laced with chilli oil and washed down with a hearty Gamay (all 3 pubs have excellently priced and interesting wines by the carafe) which makes me feel warm all over just thinking about it.
+Have I talked about the holy trilogy of South London pubs? I live near [the Camberwell Arms](http://www.thecamberwellarms.co.uk/), work near the [Anchor & Hope](http://www.anchorandhopepub.co.uk/), and make solemn pilgrimages whenever I can to the [Canton Arms](http://www.cantonarms.com/). All under the same loose ownership, each of these pubs has their own signature style, and bucketloads of hangoutittude. One icy-cold winter night early in December, I had a pumpkin ribollita at the Camberwell Arms' bar, laced with chilli oil and washed down with a hearty Gamay (all 3 pubs have excellently priced and interesting wines by the carafe) which makes me feel warm all over just thinking about it.
 
 ###Ribo-whatta?
 So WTF is ribollita anyway? As far as I can tell, it's a stew. The pumpkin was slightly mashed but still retained some shape and its own texture, not quite a puree. So as the weather has been once again presenting its worst the last couple weeks, a warming stew is just what's required and I set out to re-create the Camberwell Arms' genius.
@@ -28,4 +28,3 @@ So WTF is ribollita anyway? As far as I can tell, it's a stew. The pumpkin was s
 - Take 2 cups/large handfuls of whole, dried shiitakes and soak them in boiled or very hot water until soft (about 15-30 min). Strain them but reserve the liquid. 
 - Meanwhile, put 200ml sherry vinegar, 200ml light soy sauce, 200g sugar, a large peeled knob of ginger (about 4cm) and 400ml of the mushroom juice in a saucepan and bring to a gentle simmer. 
 - De-stalk the mushrooms and cut into 2mm slices. Add them to the pickling liquids and let simmer for 30-45 mins. Take off the heat and transfer to a heatproof container such as a mason jar. These will be good for about a month if you can make them last that long.
-
