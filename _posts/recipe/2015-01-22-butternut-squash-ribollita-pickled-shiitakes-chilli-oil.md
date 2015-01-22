@@ -16,10 +16,12 @@ So WTF is ribollita anyway? As far as I can tell, it's a stew. The pumpkin was s
 
 1. First, roast the squash. Turn your oven on at about 180C/375F, slice the squash in half lengthwise and place in a roasting dish. Drizzle some olive oil and sprinkle salt and chilli flakes on top, (You can also throw in some whole, unpeeled garlic cloves) then bung in the oven until you can stick a sharp knife through the flesh, but it's not totally putty.  Remove from the oven and leave to cool (this will make peeling it much easier).
 2. While the squash is roasting, pickle your shiitakes. This is one of my favourite David Change pickles from the Momofuku cookbook. 
-- Take 2 cups/large handfuls of whole, dried shiitakes and soak them in boiled or very hot water until soft (about 15-30 min). Strain them but reserve the liquid. 
-- Meanwhile, put 200ml sherry vinegar, 200ml light soy sauce, 200g sugar, a large peeled knob of ginger (about 4cm) and 400ml of the mushroom juice in a saucepan and bring to a gentle simmer. 
-- De-stalk the mushrooms and cut into 2mm slices. Add them to the pickling liquids and let simmer for 30-45 mins. Take off the heat and transfer to a heatproof container such as a mason jar. These will be good for about a month if you can make them last that long.
 3. In a large, heavy based saucepan, heat some olive oil and sautee the onion and garlic (if you haven't roasted any already) until soft and just starting to colour. Now that the squash has cooled, peel off the skin with either your hands or a knife and roughly chop into 5cm ish chunks, then add it to the onion along with the thyme and rosemary.
 4. Add some vegetable stock so that the squash is immersed but not covered, and the cheese rinds if using. Semi-cover the pan, and leave the dish to simmer for about 20 minutes, until the components have started to marry together nicely.
 5. At this point, you can leave the dish covered on the side until you're ready to eat, then gently re-heat before serving. To serve, remove the cheese rinds and herbs and check the seasoning. Spoon into shallow bowls and generously drizzle chilli oil on top, then sprinkle some shiitake slices. I served it on a bed of braised sprout top greens, which was a nice foil to the richness of the squash.
+
+###Pickled shiitakes
+- Take 2 cups/large handfuls of whole, dried shiitakes and soak them in boiled or very hot water until soft (about 15-30 min). Strain them but reserve the liquid. 
+- Meanwhile, put 200ml sherry vinegar, 200ml light soy sauce, 200g sugar, a large peeled knob of ginger (about 4cm) and 400ml of the mushroom juice in a saucepan and bring to a gentle simmer. 
+- De-stalk the mushrooms and cut into 2mm slices. Add them to the pickling liquids and let simmer for 30-45 mins. Take off the heat and transfer to a heatproof container such as a mason jar. These will be good for about a month if you can make them last that long.
 
