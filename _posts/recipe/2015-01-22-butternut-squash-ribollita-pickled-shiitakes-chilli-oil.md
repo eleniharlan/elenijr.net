@@ -24,7 +24,7 @@ ingredient_9: "to serve: chilli oil, pickled shiitakes (see recipe in post), gre
 Have I talked about the holy trilogy of South London pubs? I live near [the Camberwell Arms](http://www.thecamberwellarms.co.uk/), work near the [Anchor & Hope](http://www.anchorandhopepub.co.uk/), and make solemn pilgrimages whenever I can to the [Canton Arms](http://www.cantonarms.com/). All under the same loose ownership, each of these pubs has their own signature style, and bucketloads of hangoutittude. One icy-cold winter night early in December, I had a pumpkin ribollita at the Camberwell Arms' bar, laced with chilli oil and washed down with a hearty Gamay (all 3 pubs have excellently priced and interesting wines by the carafe) which makes me feel warm all over just thinking about it.
 
 ###Ribo-whatta?
-So WTF is ribollita anyway? As far as I can tell, it's a stew. The pumpkin was slightly mashed but still retained some shape and its own texture, not quite a puree. So as the weather has been once again presenting its worst the last couple weeks, a warming stew is just what's required and I set out to re-create the Camberwell Arms' genius.
+So WTF is ribollita anyway? As far as I can tell, it's a stew. The pumpkin was slightly mashed but still retained some shape and its own texture, not quite a puree. So as the weather has been once again presenting its worst the last couple weeks, a warming stew is just what's required and I set out to re-create the Camberwell Arms' genius. The cheese rinds are a Nigel tip from way back. They add something special to a stew like this, just take my word for it.
 
 ##Butternut squash ribollita with pickled shiitakes and chilli oil
 
