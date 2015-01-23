@@ -1,7 +1,7 @@
 ---
 layout: recipe
 category: recipe
-published: false
+published: true
 title: "Butternut squash ribollita, pickled shiitakes, chilli oil"
 comments: true
 splash: "https://farm8.staticflickr.com/7462/16124007257_4aa30b48c5_z.jpg"
