@@ -5,9 +5,19 @@ published: false
 title: "Butternut squash ribollita, pickled shiitakes, chilli oil"
 comments: true
 splash: "https://farm8.staticflickr.com/7462/16124007257_4aa30b48c5_z.jpg"
-teaser: A hearty but healthy stew is perfect for this time of year.
+teaser: "Inspired by the mighty Camberwell Arms, this hearty but healthy stew is perfect for this time of year."
 flickr: "72157650010339659"
 servings: "2-3 people"
+time: 1 hour
+ingredient_1: 1 butternut squash
+ingredient_2: "3-4 whole garlic cloves, unpeeled"
+ingredient_3: "2 medium onions, cut in 3mm slices"
+ingredient_4: "a sprig of fresh thyme, rosemary or both"
+ingredient_5: 500ml vegetable stock
+ingredient_6: "(optional) rind from a hard cheese such as parmesan, pecorino"
+ingredient_7: olive oil for cooking
+ingredient_8: turkish chilli flakes
+ingredient_9: "to serve: chilli oil, pickled shiitakes (see recipe in post), greens"
 ---
 
 ### Hangouttitude in South London
