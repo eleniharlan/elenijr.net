@@ -35,6 +35,6 @@ So WTF is ribollita anyway? As far as I can tell, it's a stew. The pumpkin was s
 5. At this point, you can leave the dish covered on the side until you're ready to eat, then gently re-heat before serving. To serve, remove the cheese rinds and herbs and check the seasoning. Spoon into shallow bowls and generously drizzle chilli oil on top, then sprinkle some shiitake slices. I served it on a bed of braised sprout top greens, which was a nice foil to the richness of the squash.
 
 ###Pickled shiitakes
-- Take 2 cups/large handfuls of whole, dried shiitakes and soak them in boiled or very hot water until soft (about 15-30 min). Strain them but reserve the liquid. 
-- Meanwhile, put 200ml sherry vinegar, 200ml light soy sauce, 200g sugar, a large peeled knob of ginger (about 4cm) and 400ml of the mushroom juice in a saucepan and bring to a gentle simmer. 
-- De-stalk the mushrooms and cut into 2mm slices. Add them to the pickling liquids and let simmer for 30-45 mins. Take off the heat and transfer to a heatproof container such as a mason jar. These will be good for about a month if you can make them last that long.
+- Take 2 cups/large handfuls of whole, dried shiitakes and soak them in boiled or very hot water until soft (about 15 min). Strain them but reserve the liquid. 
+- Meanwhile, put 225ml sherry vinegar, 225ml light soy sauce, 200g sugar, a large peeled knob of ginger (about 8cm) and 450ml of the mushroom juice in a saucepan and bring to a gentle simmer. 
+- De-stalk the mushrooms and cut into 2mm slices. Add them to the pickling liquids and let simmer for 30 mins. Take off the heat and once cooled, transfer to a heatproof container such as a mason jar. These are ready to eat straight away and will be good for about a month if you can make them last that long.
