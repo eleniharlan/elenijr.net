@@ -11,7 +11,7 @@ servings: "2-3 people"
 time: 1 hour
 ingredient_1: 1 butternut squash
 ingredient_2: "3-4 whole garlic cloves, unpeeled"
-ingredient_3: "2 medium onions, cut in 3mm slices"
+ingredient_3: "2 medium onions, cut in 4mm slices"
 ingredient_4: "a sprig of fresh thyme, rosemary or both"
 ingredient_5: 500ml vegetable stock
 ingredient_6: "(optional) rind from a hard cheese such as parmesan, pecorino"
