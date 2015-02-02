@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "A cake, an ice cream, a new government, and an extended eulogy"
 category: post
 comments: true
