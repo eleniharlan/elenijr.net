@@ -18,7 +18,11 @@ But I can't claim any originality for the two recipes I'm talking about today- b
 
 ###David Lebovitz's salted butter caramel ice cream
 
+<a href="https://www.flickr.com/photos/elenijr/16231568250" title="  by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8596/16231568250_617ef686ae_z.jpg" width="640" height="640" alt=" "></a>
+
 Making [David Lebovitz's salted butter caramel ice cream](http://www.davidlebovitz.com/2007/04/salted-butter-c/) may well be the main reason we bought an ice cream maker to begin with, and remains a staunch favourite. I remember the first time I made it for my family, and they are all addicted. Each time I visit they beg me to make it. I think it's the combination of the high sugar content and the addition of salt that mean it's very hard to get the texture wrong- it never freezes too hard and is very satisfyingly scoopable. In fact the opposite is true: it melts very fast and so I always whisk it back to the freezer as soon as I've served it out, which must make me look very stingy (that's only partially true- its abscence from the table does make it conveniently difficult to offer seconds...). I usually skip the crunchy caramel praline bits, but I think that's probably like peanut butter preferences- some like crunchy, some prefer smooth. 
+
+<a href="https://www.flickr.com/photos/elenijr/16415497901" title="  by Eleni Harlan, on Flickr"><img src="https://farm8.staticflickr.com/7282/16415497901_1d10cd0969_z.jpg" width="480" height="640" alt=" "></a>
 
 ### Maria Elia's yoghurt, apple and walnut cake
 
