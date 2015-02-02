@@ -4,7 +4,7 @@ published: false
 title: "A cake, an ice cream, a new government, and an extended eulogy"
 category: post
 comments: true
-splash: "https://farm8.staticflickr.com/7297/15797090334_9aa8f51595_s.jpg"
+splash: "https://farm8.staticflickr.com/7297/15797090334_95a3a5c6d9_o.jpg"
 teaser: An eventful month calls for some comforting treats
 ---
 
