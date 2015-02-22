@@ -4,6 +4,12 @@ category: recipe
 published: false
 title: ""
 comments: true
+splash: "https://farm9.staticflickr.com/8600/16610661132_133532d080_o.jpg"
+teaser: A hearty stew to see you through the final throes of winter
+flickr: "72157650904451836"
+servings: "4"
+time: "30 mins prep, at least 3 hours cook time or longer"
+ingredient_1: 800g shin of beef or other stewing beef
 ---
 
 Despite some rather encouraging early spring days, I am reminded more often than I would like to be that it is still February, and therefore certainly not spring quite yet. Although mentally I am totally over winter, my body still requires winter nourishments, warm baths, and central heating, so I suppose those scrooges are right. And damn that groundhog too.
