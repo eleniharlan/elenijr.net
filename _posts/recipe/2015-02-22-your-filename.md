@@ -2,7 +2,7 @@
 layout: recipe
 category: recipe
 published: false
-title: ""
+title: Shin of beef stew
 comments: true
 splash: "https://farm9.staticflickr.com/8600/16610661132_133532d080_o.jpg"
 teaser: A hearty stew to see you through the final throes of winter
