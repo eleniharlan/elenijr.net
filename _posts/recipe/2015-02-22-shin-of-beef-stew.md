@@ -15,10 +15,11 @@ ingredient_3: "2 carrots, diced"
 ingredient_4: "1-2 celery sticks, diced same as carrots"
 ingredient_5: "a sprig of thyme, a bay leaf or two"
 ingredient_6: "4 or 5 cloves of garlic, peeled and gently crushed with the back of the knife"
-ingredient_9: about 500 ml beef or vegetable stock
-ingredient_7: 1 tbsp tomato puree
-ingredient_8: 1 can of peeled plum tomatoes
-ingredient_10: a bit of olive oil for frying
+ingredient_9: 1 can of peeled plum tomatoes
+ingredient_7: a small glass of wine
+ingredient_8: 1 tbsp tomato puree
+ingredient_10: about 500 ml beef or vegetable stock
+ingredient_11: a bit of olive oil for frying
 ---
 
 Despite some rather encouraging early spring days, I am reminded more often than I would like to be that it is still February, and therefore certainly not spring quite yet. Although mentally I am totally over winter, my body still requires winter nourishments, warm baths, and central heating, so I suppose those scrooges are right. And damn that groundhog too.
