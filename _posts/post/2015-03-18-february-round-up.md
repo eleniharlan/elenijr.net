@@ -29,6 +29,11 @@ We had a lot of old apples to use, so I made another apple cake after the succes
 ###Fresh pasta
 No, I would never be foolish enough to make it myself. Luckily, there's a new fresh pasta shop, [Burro e Salvia](http://www.burroesalvia.co.uk/#eastdulwich) on Lordship Lane (right next to [Odonno's gelateria](http://www.oddonos.com/)). We had tiny, delicate filled pasta with artichokes, and parsley and ricotta. 
 
+###Winter's last throes
+It snowed a little, so I made a stew. But there were also daffodils, and for me, that means the start of spring. 
+
+
+
 
 
 
