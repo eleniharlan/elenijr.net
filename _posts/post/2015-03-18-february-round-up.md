@@ -1,0 +1,33 @@
+---
+layout: post
+published: false
+title: February round up
+category: post
+comments: true
+---
+
+It's half way through March already, you say? Well, you can expect a suitably delayed March roundup, not least because I have exciting travel plans for Easter. If you want more up to date info, keep up on my [Instagram](https://instagram.com/elenijr/).
+
+But, a lot was crammed into the 4 weeks comprising the month of Feb, so here's a quick summary of the highlights in my foodie world...
+
+###Smoking Goat, Soho
+After two days of intellectual stimulation at a conference in Birmingham, I headed straight to Smoking Goat on Friday night to gain sustenance for my friend's birthday karaoke. It's so refreshing to go somewhere that absolutely, 100% lives up to the hype. The food here was out of this world, blow your taste buds out of the park good. Apparently the chef used to work at Peckham's own [The Begging Bowl](http://www.thebeggingbowl.co.uk/), which is also very tasty Thai food, but did not really create the same levels of saliva, tears and endorphins that its inner city counterpart did. The much-talked-about wings are like something a more sophisticated alien race came up with, the batter so crunchy, salty, juicy that by the time you get to the meat itself it feels like a palate cleanser. The lamb ribs were crunchy and soft, and very, very lamby. But the best dish of all was a cold-smoked aubergine with some sort of tasty grit on top- no idea what it is, but it is crunchy and very good. I also had a thai basil gin fizz, an ideal way to start a Friday night.
+
+###Peckham Bazaar
+We went to my favourite, and most [hang-out-ey restaurant in London](http://peckhambazaar.com/), to raise a glass of raki and turnip pickle juice to Niko's memory. The food as always was phenomenal- the grilled cod with giant beans and pomegranate molasses is in the running for the best main dish I had there. Also, they served cheese as part of a sweet dessert. I love savoury desserts.
+
+###Vegan brunch
+
+I made a vegan, gluten-free brunch to accommodate our dining companions. We served ful medammes, cornmeal grits, pickled carrot & radish salad, and avocado. Who says vegan food has to be boring?
+
+###Mushroom flatbread
+I made the Mushroom Sfiha recipe in Honey & Co., but this time rolled the dough out as a flatbread since I found it quite doughy last time. The topping, of caramelised onions, mushrooms and lots of ground cumin, is meaty, aromatic and dead easy.
+
+
+
+
+
+
+
+
+
