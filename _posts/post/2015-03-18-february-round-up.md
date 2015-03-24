@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: February round up
 category: post
 comments: true
