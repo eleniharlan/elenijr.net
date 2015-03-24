@@ -24,7 +24,7 @@ We made a vegan, gluten-free brunch to accommodate our dining companions. We ser
 I made the Mushroom Sfiha recipe in Honey & Co., but this time rolled the dough out as a flatbread since I found it quite doughy last time. The topping, of caramelised onions, mushrooms and lots of ground cumin, is meaty, aromatic and dead easy.
 
 ###Another apple cake
-We had a lot of old apples to use, so I made another apple cake after the success of the first one. This one was a David Lebovitz recipe, and the caramel and apple combination was excellent. Making it in a cast iron skillet worked really well too, which I wasn't expecting. I think overall I preferred the Maria Elia one, if you have to make an apple cake.
+We had a lot of old apples to use, so I made another apple cake after the success of the first one. This one was a [David Lebovitz recipe](http://www.davidlebovitz.com/2008/07/upside-down-cake/), and the caramel and apple combination was excellent. Making it in a cast iron skillet worked really well too, which I wasn't expecting. I think overall I preferred the Maria Elia one, if you have to make an apple cake.
 
 ###Fresh pasta
 No, I would never be foolish enough to make it myself again. Once was enough. Luckily, there's a new fresh pasta shop, [Burro e Salvia](http://www.burroesalvia.co.uk/#eastdulwich) on Lordship Lane (right next to [Odonno's gelateria](http://www.oddonos.com/)). We had tiny, delicate filled pasta with artichokes, and vividly green ones with parsley and ricotta. 
