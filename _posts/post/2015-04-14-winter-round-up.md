@@ -28,7 +28,7 @@ The food as always was phenomenal- the grilled cod with giant beans and pomegran
 
 We made a vegan, gluten-free brunch to accommodate our dining companions. We served ful medammes, cornmeal grits, pickled carrot & radish salad, and avocado. All complemented by my favourite new condiment, tahini hot sauce. Who says vegan food has to be boring?
 
-<a href="https://www.flickr.com/photos/elenijr/16440870417" title="#vegan #brunch by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8673/16440870417_32045c4810_c.jpg" width="600" height="800" alt="#vegan #brunch"></a>
+<a href="https://www.flickr.com/photos/elenijr/16440870417" title="#vegan #brunch by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8673/16440870417_73f54ca3d9_c.jpg" width="800" height="600" alt="#vegan #brunch"></a>
 
 ###Mushroom flatbread
 
