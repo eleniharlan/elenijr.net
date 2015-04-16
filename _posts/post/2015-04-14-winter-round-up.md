@@ -4,6 +4,9 @@ published: false
 title: Winter round up
 category: post
 comments: true
+splash: "https://farm9.staticflickr.com/8584/16622373426_ca62b1ba65_c.jpg"
+teaser: "Suddenly Spring is here, and here are some highlights from the last of winter"
+flickr: "72157651412595611"
 ---
 
 Well, this is embarassing. I started writing this post a month ago, but then life got in the way again. I really am a terrible blogger. Well, I think we can all safely say Winter is over, which I guess means it's coming (soon the days will be getting shorter right?) But, despite the radio silence on here, I did manage to eat some nice things in the last couple months, so here's a quick summary of the highlights in my foodie world...
