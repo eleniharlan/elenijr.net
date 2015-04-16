@@ -12,18 +12,18 @@ flickr: "72157651412595611"
 Well, this is embarassing. I started writing this post a month ago, but then life got in the way again. I really am a terrible blogger. Well, I think we can all safely say Winter is over, which I guess means it's coming (soon the days will be getting shorter right?) But, despite the radio silence on here, I did manage to eat some nice things in the last couple months, so here's a quick summary of the highlights in my foodie world...
 
 ###Smoking Goat, Soho
-After two days of intellectual stimulation at a conference in Birmingham, I headed straight to Smoking Goat on Friday night to gain sustenance for my friend's birthday karaoke. It's so refreshing to go somewhere that absolutely, 100% lives up to the hype. The food here was out of this world, blow your taste buds out of the park good. 
+After two days of intellectual stimulation at a conference in Birmingham, I headed straight to Smoking Goat on a Friday night to gain sustenance for my friend's birthday karaoke. It's so refreshing to go somewhere that absolutely, 100% lives up to the hype. The food here was out of this world, blow your taste buds out of the park good. Yes that's a lot of cliches and mixed metaphors, I know.
 
 <a href="https://www.flickr.com/photos/elenijr/16622684686" title="Lamb ribs in background, watermelon and pork belly salad in foreground; Smoking Goat by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8643/16622684686_f241d96f6b_c.jpg" width="800" height="800" alt="Lamb ribs in background, watermelon and pork belly salad in foreground; Smoking Goat"></a> 
 
-Apparently the chef used to work at Peckham's own [The Begging Bowl](http://www.thebeggingbowl.co.uk/), which is also very tasty Thai food, but did not really create the same levels of saliva, tears and endorphins that its inner city counterpart did. The much-talked-about wings are like something a more sophisticated alien race came up with, the batter so crunchy, salty, juicy that by the time you get to the meat itself it feels like a palate cleanser. The lamb ribs were crunchy and soft, and very, very lamby. But the best dish of all was a cold-smoked aubergine with some sort of tasty grit on top- no idea what it is, but it is crunchy and very good. I also had a thai basil gin fizz, an ideal way to start a Friday night.
+Apparently the chef used to work at Peckham's own [The Begging Bowl](http://www.thebeggingbowl.co.uk/), which is also very tasty Thai food, but did not really create the same levels of saliva, tears and endorphins that its inner city counterpart did. The much-talked-about wings are like something a more sophisticated alien race came up with, the batter so crunchy, salty, juicy that by the time you get to the meat itself it feels like a palate cleanser. The lamb ribs were juicy, crispy and soft, and very, very lamby. But the best dish of all was a cold-smoked aubergine with some sort of tasty grit on top- no idea what it was at the time, turns out it is ground up rice. I also had a thai basil gin fizz, an ideal way to start a Friday night.
 
 ###Peckham Bazaar
 We went to my favourite, and most [hang-out-ey restaurant in London](http://peckhambazaar.com/), to raise a glass of raki and turnip pickle juice to Niko's memory. 
 
 <a href="https://www.flickr.com/photos/elenijr/16441001917" title="Raki and turnip pickle juice, Peckham Bazaar by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8566/16441001917_6f7d0c5219_c.jpg" width="600" height="800" alt="Raki and turnip pickle juice, Peckham Bazaar"></a>
 
-The food as always was phenomenal- the grilled cod with giant beans and pomegranate molasses is in the running for the best main dish I have had there. Also, they served cheese as part of a sweet dessert. I love savoury desserts.
+The food as always was phenomenal- the grilled cod with giant beans and pomegranate molasses is in the running for the best main dish I have had there. Also, they served cheese as part of a sweet dessert. I love sweet cheese things.
 
 <a href="https://www.flickr.com/photos/elenijr/16622317206" title="Cod on a bed of butter beans, Peckham Bazaar by Eleni Harlan, on Flickr"><img src="https://farm9.staticflickr.com/8683/16622317206_31a3f93ef4_c.jpg" width="800" height="800" alt="Cod on a bed of butter beans, Peckham Bazaar"></a>
 
