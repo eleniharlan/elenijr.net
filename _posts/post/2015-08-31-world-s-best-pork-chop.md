@@ -2,7 +2,7 @@
 layout: post
 category: post
 splash: ""
-teaser: ""
+teaser: "It is not in any fine dining establishment, but on a sleepy, unpaved road on a Greek Island."
 tags: null
 flickr: ""
 comments: true
